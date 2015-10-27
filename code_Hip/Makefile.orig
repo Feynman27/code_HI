@@ -1,0 +1,26 @@
+#CC        = /afs/cern.ch/sw/lcg/external/gcc/4.3.5/x86_64-slc5-gcc34-opt/bin/x86_64-unknown-linux-gnu-gcc
+#CC        = /afs/cern.ch/sw/lcg/external/gcc/4.3.2/x86_64/bin/g++
+CC        = /usr/bin/g++
+CCFLAGS   = -Wall -g
+INCS      = `root-config --cflags` -I.
+LIBS      = `root-config --libs` -lRooFit -lRooFitCore -lRooStats
+
+WAnalysisHip : WAnalysisHip.cc WAnalysisTool.o FitResult.o 
+	$(CC) $(CCFLAGS) $< -o $@ $(INCS) $(LIBS)
+
+FitResult.o : FitResult.cc
+	$(CC) $(CCFLAGS) -c $< $(INCS) $(LIBS)
+
+WAnalysistool.o : WAnalysisTool.cc WAnalysisTool.h
+	$(CC) $(CCFLAGS) -c $< $(INCS) $(LIBS)
+
+AtlasUtils.o : ${TestArea}/HIDP3DAnalysis2011/code/
+	$(CC) $(CCFLAGS) -c $< $(INCS) $(LIBS)
+
+Dict.o : Dict.cxx
+	$(CC) $(CCFLAGS) -c $< $(INCS) $(LIBS)
+
+Dict.cxx : WAnalysisTool.h
+	rootcint -f $@ -c $<+
+clean : 
+	rm -f WAnalysisHip FitResult.o WAnalysisTool.o Dict.o Dict.cxx Dict.h

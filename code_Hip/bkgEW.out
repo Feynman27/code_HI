@@ -1,0 +1,953 @@
+
+[1mRooFit v3.60 -- Developed by Wouter Verkerke and David Kirkby[0m 
+                Copyright (C) 2000-2013 NIKHEF, University of California & Stanford University
+                All rights reserved, please read http://roofit.sourceforge.net/license.txt
+
+Number of entries in reconstructed tree: 255006
+Number of entries in generator tree: 5464734
+Number of entries in reconstructed tree: 351042
+Number of entries in generator tree: 7397418
+Number of entries in reconstructed tree: 255006
+Number of entries in generator tree: 5464734
+Number of entries in reconstructed tree: 351042
+Number of entries in generator tree: 7397418
+Number of entries in reconstructed tree: 13985
+Number of entries in generator tree: 160106
+Number of entries in reconstructed tree: 14222
+Number of entries in generator tree: 160093
+Number of entries in reconstructed tree: 14764
+Number of entries in generator tree: 159856
+Number of entries in reconstructed tree: 14182
+Number of entries in generator tree: 159918
+muMinus_Z_pn_pt0_eta0_cent0--> 932
+muMinus_Z_pn_pt0_eta0_cent1--> 941
+muMinus_Z_pn_pt0_eta0_cent2--> 1696
+muMinus_Z_pn_pt0_eta0_cent3--> 1639
+muMinus_Z_pn_pt0_eta0_cent4--> 1610
+muMinus_Z_pn_pt0_eta0_cent5--> 3212
+muMinus_Z_pn_pt0_eta0_cent6--> 2854
+muMinus_Z_pn_pt0_eta10_cent0--> 1704
+muMinus_Z_pn_pt0_eta10_cent1--> 1642
+muMinus_Z_pn_pt0_eta10_cent2--> 3174
+muMinus_Z_pn_pt0_eta10_cent3--> 3172
+muMinus_Z_pn_pt0_eta10_cent4--> 2983
+muMinus_Z_pn_pt0_eta10_cent5--> 5995
+muMinus_Z_pn_pt0_eta10_cent6--> 4955
+muMinus_Z_pn_pt0_eta1_cent0--> 1867
+muMinus_Z_pn_pt0_eta1_cent1--> 1849
+muMinus_Z_pn_pt0_eta1_cent2--> 3432
+muMinus_Z_pn_pt0_eta1_cent3--> 3357
+muMinus_Z_pn_pt0_eta1_cent4--> 3198
+muMinus_Z_pn_pt0_eta1_cent5--> 6573
+muMinus_Z_pn_pt0_eta1_cent6--> 5640
+muMinus_Z_pn_pt0_eta2_cent0--> 1301
+muMinus_Z_pn_pt0_eta2_cent1--> 1355
+muMinus_Z_pn_pt0_eta2_cent2--> 2338
+muMinus_Z_pn_pt0_eta2_cent3--> 2205
+muMinus_Z_pn_pt0_eta2_cent4--> 2184
+muMinus_Z_pn_pt0_eta2_cent5--> 4291
+muMinus_Z_pn_pt0_eta2_cent6--> 3560
+muMinus_Z_pn_pt0_eta3_cent0--> 629
+muMinus_Z_pn_pt0_eta3_cent1--> 519
+muMinus_Z_pn_pt0_eta3_cent2--> 986
+muMinus_Z_pn_pt0_eta3_cent3--> 977
+muMinus_Z_pn_pt0_eta3_cent4--> 925
+muMinus_Z_pn_pt0_eta3_cent5--> 1794
+muMinus_Z_pn_pt0_eta3_cent6--> 1414
+muMinus_Z_pn_pt0_eta4_cent0--> 433
+muMinus_Z_pn_pt0_eta4_cent1--> 403
+muMinus_Z_pn_pt0_eta4_cent2--> 701
+muMinus_Z_pn_pt0_eta4_cent3--> 627
+muMinus_Z_pn_pt0_eta4_cent4--> 603
+muMinus_Z_pn_pt0_eta4_cent5--> 1148
+muMinus_Z_pn_pt0_eta4_cent6--> 930
+muMinus_Z_pn_pt0_eta5_cent0--> 45
+muMinus_Z_pn_pt0_eta5_cent1--> 52
+muMinus_Z_pn_pt0_eta5_cent2--> 100
+muMinus_Z_pn_pt0_eta5_cent3--> 87
+muMinus_Z_pn_pt0_eta5_cent4--> 92
+muMinus_Z_pn_pt0_eta5_cent5--> 144
+muMinus_Z_pn_pt0_eta5_cent6--> 142
+muMinus_Z_pn_pt0_eta6_cent0--> 444
+muMinus_Z_pn_pt0_eta6_cent1--> 368
+muMinus_Z_pn_pt0_eta6_cent2--> 751
+muMinus_Z_pn_pt0_eta6_cent3--> 645
+muMinus_Z_pn_pt0_eta6_cent4--> 637
+muMinus_Z_pn_pt0_eta6_cent5--> 1115
+muMinus_Z_pn_pt0_eta6_cent6--> 887
+muMinus_Z_pn_pt0_eta7_cent0--> 643
+muMinus_Z_pn_pt0_eta7_cent1--> 567
+muMinus_Z_pn_pt0_eta7_cent2--> 1031
+muMinus_Z_pn_pt0_eta7_cent3--> 1006
+muMinus_Z_pn_pt0_eta7_cent4--> 919
+muMinus_Z_pn_pt0_eta7_cent5--> 1896
+muMinus_Z_pn_pt0_eta7_cent6--> 1509
+muMinus_Z_pn_pt0_eta8_cent0--> 1469
+muMinus_Z_pn_pt0_eta8_cent1--> 1331
+muMinus_Z_pn_pt0_eta8_cent2--> 2568
+muMinus_Z_pn_pt0_eta8_cent3--> 2459
+muMinus_Z_pn_pt0_eta8_cent4--> 2402
+muMinus_Z_pn_pt0_eta8_cent5--> 4558
+muMinus_Z_pn_pt0_eta8_cent6--> 3841
+muMinus_Z_pn_pt0_eta9_cent0--> 2568
+muMinus_Z_pn_pt0_eta9_cent1--> 2469
+muMinus_Z_pn_pt0_eta9_cent2--> 4439
+muMinus_Z_pn_pt0_eta9_cent3--> 4319
+muMinus_Z_pn_pt0_eta9_cent4--> 4322
+muMinus_Z_pn_pt0_eta9_cent5--> 8359
+muMinus_Z_pn_pt0_eta9_cent6--> 6808
+muMinus_Z_pp_pt0_eta0_cent0--> 793
+muMinus_Z_pp_pt0_eta0_cent1--> 674
+muMinus_Z_pp_pt0_eta0_cent2--> 1331
+muMinus_Z_pp_pt0_eta0_cent3--> 1341
+muMinus_Z_pp_pt0_eta0_cent4--> 1280
+muMinus_Z_pp_pt0_eta0_cent5--> 2681
+muMinus_Z_pp_pt0_eta0_cent6--> 2276
+muMinus_Z_pp_pt0_eta10_cent0--> 1190
+muMinus_Z_pp_pt0_eta10_cent1--> 1159
+muMinus_Z_pp_pt0_eta10_cent2--> 2145
+muMinus_Z_pp_pt0_eta10_cent3--> 1985
+muMinus_Z_pp_pt0_eta10_cent4--> 2066
+muMinus_Z_pp_pt0_eta10_cent5--> 4083
+muMinus_Z_pp_pt0_eta10_cent6--> 3354
+muMinus_Z_pp_pt0_eta1_cent0--> 1520
+muMinus_Z_pp_pt0_eta1_cent1--> 1462
+muMinus_Z_pp_pt0_eta1_cent2--> 2592
+muMinus_Z_pp_pt0_eta1_cent3--> 2522
+muMinus_Z_pp_pt0_eta1_cent4--> 2460
+muMinus_Z_pp_pt0_eta1_cent5--> 5049
+muMinus_Z_pp_pt0_eta1_cent6--> 4282
+muMinus_Z_pp_pt0_eta2_cent0--> 1024
+muMinus_Z_pp_pt0_eta2_cent1--> 950
+muMinus_Z_pp_pt0_eta2_cent2--> 1798
+muMinus_Z_pp_pt0_eta2_cent3--> 1725
+muMinus_Z_pp_pt0_eta2_cent4--> 1665
+muMinus_Z_pp_pt0_eta2_cent5--> 3242
+muMinus_Z_pp_pt0_eta2_cent6--> 2750
+muMinus_Z_pp_pt0_eta3_cent0--> 460
+muMinus_Z_pp_pt0_eta3_cent1--> 394
+muMinus_Z_pp_pt0_eta3_cent2--> 735
+muMinus_Z_pp_pt0_eta3_cent3--> 723
+muMinus_Z_pp_pt0_eta3_cent4--> 680
+muMinus_Z_pp_pt0_eta3_cent5--> 1314
+muMinus_Z_pp_pt0_eta3_cent6--> 1063
+muMinus_Z_pp_pt0_eta4_cent0--> 293
+muMinus_Z_pp_pt0_eta4_cent1--> 288
+muMinus_Z_pp_pt0_eta4_cent2--> 581
+muMinus_Z_pp_pt0_eta4_cent3--> 477
+muMinus_Z_pp_pt0_eta4_cent4--> 470
+muMinus_Z_pp_pt0_eta4_cent5--> 857
+muMinus_Z_pp_pt0_eta4_cent6--> 708
+muMinus_Z_pp_pt0_eta5_cent0--> 45
+muMinus_Z_pp_pt0_eta5_cent1--> 37
+muMinus_Z_pp_pt0_eta5_cent2--> 85
+muMinus_Z_pp_pt0_eta5_cent3--> 50
+muMinus_Z_pp_pt0_eta5_cent4--> 69
+muMinus_Z_pp_pt0_eta5_cent5--> 119
+muMinus_Z_pp_pt0_eta5_cent6--> 109
+muMinus_Z_pp_pt0_eta6_cent0--> 322
+muMinus_Z_pp_pt0_eta6_cent1--> 295
+muMinus_Z_pp_pt0_eta6_cent2--> 541
+muMinus_Z_pp_pt0_eta6_cent3--> 498
+muMinus_Z_pp_pt0_eta6_cent4--> 463
+muMinus_Z_pp_pt0_eta6_cent5--> 926
+muMinus_Z_pp_pt0_eta6_cent6--> 707
+muMinus_Z_pp_pt0_eta7_cent0--> 431
+muMinus_Z_pp_pt0_eta7_cent1--> 360
+muMinus_Z_pp_pt0_eta7_cent2--> 779
+muMinus_Z_pp_pt0_eta7_cent3--> 745
+muMinus_Z_pp_pt0_eta7_cent4--> 698
+muMinus_Z_pp_pt0_eta7_cent5--> 1359
+muMinus_Z_pp_pt0_eta7_cent6--> 1092
+muMinus_Z_pp_pt0_eta8_cent0--> 1102
+muMinus_Z_pp_pt0_eta8_cent1--> 948
+muMinus_Z_pp_pt0_eta8_cent2--> 1859
+muMinus_Z_pp_pt0_eta8_cent3--> 1757
+muMinus_Z_pp_pt0_eta8_cent4--> 1661
+muMinus_Z_pp_pt0_eta8_cent5--> 3288
+muMinus_Z_pp_pt0_eta8_cent6--> 2698
+muMinus_Z_pp_pt0_eta9_cent0--> 1736
+muMinus_Z_pp_pt0_eta9_cent1--> 1714
+muMinus_Z_pp_pt0_eta9_cent2--> 3151
+muMinus_Z_pp_pt0_eta9_cent3--> 2956
+muMinus_Z_pp_pt0_eta9_cent4--> 2888
+muMinus_Z_pp_pt0_eta9_cent5--> 5899
+muMinus_Z_pp_pt0_eta9_cent6--> 4848
+muMinus_tau_pn_pt0_eta0_cent0--> 38
+muMinus_tau_pn_pt0_eta0_cent1--> 36
+muMinus_tau_pn_pt0_eta0_cent2--> 55
+muMinus_tau_pn_pt0_eta0_cent3--> 61
+muMinus_tau_pn_pt0_eta0_cent4--> 55
+muMinus_tau_pn_pt0_eta0_cent5--> 126
+muMinus_tau_pn_pt0_eta0_cent6--> 92
+muMinus_tau_pn_pt0_eta10_cent0--> 79
+muMinus_tau_pn_pt0_eta10_cent1--> 77
+muMinus_tau_pn_pt0_eta10_cent2--> 150
+muMinus_tau_pn_pt0_eta10_cent3--> 125
+muMinus_tau_pn_pt0_eta10_cent4--> 105
+muMinus_tau_pn_pt0_eta10_cent5--> 226
+muMinus_tau_pn_pt0_eta10_cent6--> 193
+muMinus_tau_pn_pt0_eta1_cent0--> 116
+muMinus_tau_pn_pt0_eta1_cent1--> 116
+muMinus_tau_pn_pt0_eta1_cent2--> 196
+muMinus_tau_pn_pt0_eta1_cent3--> 221
+muMinus_tau_pn_pt0_eta1_cent4--> 211
+muMinus_tau_pn_pt0_eta1_cent5--> 351
+muMinus_tau_pn_pt0_eta1_cent6--> 334
+muMinus_tau_pn_pt0_eta2_cent0--> 133
+muMinus_tau_pn_pt0_eta2_cent1--> 105
+muMinus_tau_pn_pt0_eta2_cent2--> 198
+muMinus_tau_pn_pt0_eta2_cent3--> 198
+muMinus_tau_pn_pt0_eta2_cent4--> 203
+muMinus_tau_pn_pt0_eta2_cent5--> 366
+muMinus_tau_pn_pt0_eta2_cent6--> 329
+muMinus_tau_pn_pt0_eta3_cent0--> 89
+muMinus_tau_pn_pt0_eta3_cent1--> 103
+muMinus_tau_pn_pt0_eta3_cent2--> 151
+muMinus_tau_pn_pt0_eta3_cent3--> 161
+muMinus_tau_pn_pt0_eta3_cent4--> 153
+muMinus_tau_pn_pt0_eta3_cent5--> 304
+muMinus_tau_pn_pt0_eta3_cent6--> 241
+muMinus_tau_pn_pt0_eta4_cent0--> 144
+muMinus_tau_pn_pt0_eta4_cent1--> 124
+muMinus_tau_pn_pt0_eta4_cent2--> 210
+muMinus_tau_pn_pt0_eta4_cent3--> 231
+muMinus_tau_pn_pt0_eta4_cent4--> 192
+muMinus_tau_pn_pt0_eta4_cent5--> 393
+muMinus_tau_pn_pt0_eta4_cent6--> 342
+muMinus_tau_pn_pt0_eta5_cent0--> 21
+muMinus_tau_pn_pt0_eta5_cent1--> 15
+muMinus_tau_pn_pt0_eta5_cent2--> 29
+muMinus_tau_pn_pt0_eta5_cent3--> 38
+muMinus_tau_pn_pt0_eta5_cent4--> 30
+muMinus_tau_pn_pt0_eta5_cent5--> 79
+muMinus_tau_pn_pt0_eta5_cent6--> 67
+muMinus_tau_pn_pt0_eta6_cent0--> 147
+muMinus_tau_pn_pt0_eta6_cent1--> 129
+muMinus_tau_pn_pt0_eta6_cent2--> 247
+muMinus_tau_pn_pt0_eta6_cent3--> 206
+muMinus_tau_pn_pt0_eta6_cent4--> 214
+muMinus_tau_pn_pt0_eta6_cent5--> 446
+muMinus_tau_pn_pt0_eta6_cent6--> 346
+muMinus_tau_pn_pt0_eta7_cent0--> 92
+muMinus_tau_pn_pt0_eta7_cent1--> 87
+muMinus_tau_pn_pt0_eta7_cent2--> 203
+muMinus_tau_pn_pt0_eta7_cent3--> 183
+muMinus_tau_pn_pt0_eta7_cent4--> 158
+muMinus_tau_pn_pt0_eta7_cent5--> 286
+muMinus_tau_pn_pt0_eta7_cent6--> 243
+muMinus_tau_pn_pt0_eta8_cent0--> 118
+muMinus_tau_pn_pt0_eta8_cent1--> 126
+muMinus_tau_pn_pt0_eta8_cent2--> 228
+muMinus_tau_pn_pt0_eta8_cent3--> 204
+muMinus_tau_pn_pt0_eta8_cent4--> 193
+muMinus_tau_pn_pt0_eta8_cent5--> 443
+muMinus_tau_pn_pt0_eta8_cent6--> 326
+muMinus_tau_pn_pt0_eta9_cent0--> 137
+muMinus_tau_pn_pt0_eta9_cent1--> 116
+muMinus_tau_pn_pt0_eta9_cent2--> 243
+muMinus_tau_pn_pt0_eta9_cent3--> 204
+muMinus_tau_pn_pt0_eta9_cent4--> 228
+muMinus_tau_pn_pt0_eta9_cent5--> 496
+muMinus_tau_pn_pt0_eta9_cent6--> 349
+muMinus_tau_pp_pt0_eta0_cent0--> 29
+muMinus_tau_pp_pt0_eta0_cent1--> 39
+muMinus_tau_pp_pt0_eta0_cent2--> 52
+muMinus_tau_pp_pt0_eta0_cent3--> 47
+muMinus_tau_pp_pt0_eta0_cent4--> 48
+muMinus_tau_pp_pt0_eta0_cent5--> 111
+muMinus_tau_pp_pt0_eta0_cent6--> 104
+muMinus_tau_pp_pt0_eta10_cent0--> 72
+muMinus_tau_pp_pt0_eta10_cent1--> 55
+muMinus_tau_pp_pt0_eta10_cent2--> 111
+muMinus_tau_pp_pt0_eta10_cent3--> 108
+muMinus_tau_pp_pt0_eta10_cent4--> 101
+muMinus_tau_pp_pt0_eta10_cent5--> 213
+muMinus_tau_pp_pt0_eta10_cent6--> 198
+muMinus_tau_pp_pt0_eta1_cent0--> 138
+muMinus_tau_pp_pt0_eta1_cent1--> 127
+muMinus_tau_pp_pt0_eta1_cent2--> 226
+muMinus_tau_pp_pt0_eta1_cent3--> 191
+muMinus_tau_pp_pt0_eta1_cent4--> 211
+muMinus_tau_pp_pt0_eta1_cent5--> 361
+muMinus_tau_pp_pt0_eta1_cent6--> 324
+muMinus_tau_pp_pt0_eta2_cent0--> 115
+muMinus_tau_pp_pt0_eta2_cent1--> 123
+muMinus_tau_pp_pt0_eta2_cent2--> 247
+muMinus_tau_pp_pt0_eta2_cent3--> 228
+muMinus_tau_pp_pt0_eta2_cent4--> 201
+muMinus_tau_pp_pt0_eta2_cent5--> 422
+muMinus_tau_pp_pt0_eta2_cent6--> 330
+muMinus_tau_pp_pt0_eta3_cent0--> 109
+muMinus_tau_pp_pt0_eta3_cent1--> 104
+muMinus_tau_pp_pt0_eta3_cent2--> 170
+muMinus_tau_pp_pt0_eta3_cent3--> 167
+muMinus_tau_pp_pt0_eta3_cent4--> 170
+muMinus_tau_pp_pt0_eta3_cent5--> 324
+muMinus_tau_pp_pt0_eta3_cent6--> 282
+muMinus_tau_pp_pt0_eta4_cent0--> 146
+muMinus_tau_pp_pt0_eta4_cent1--> 149
+muMinus_tau_pp_pt0_eta4_cent2--> 247
+muMinus_tau_pp_pt0_eta4_cent3--> 222
+muMinus_tau_pp_pt0_eta4_cent4--> 236
+muMinus_tau_pp_pt0_eta4_cent5--> 456
+muMinus_tau_pp_pt0_eta4_cent6--> 367
+muMinus_tau_pp_pt0_eta5_cent0--> 33
+muMinus_tau_pp_pt0_eta5_cent1--> 17
+muMinus_tau_pp_pt0_eta5_cent2--> 37
+muMinus_tau_pp_pt0_eta5_cent3--> 36
+muMinus_tau_pp_pt0_eta5_cent4--> 44
+muMinus_tau_pp_pt0_eta5_cent5--> 82
+muMinus_tau_pp_pt0_eta5_cent6--> 65
+muMinus_tau_pp_pt0_eta6_cent0--> 154
+muMinus_tau_pp_pt0_eta6_cent1--> 136
+muMinus_tau_pp_pt0_eta6_cent2--> 240
+muMinus_tau_pp_pt0_eta6_cent3--> 230
+muMinus_tau_pp_pt0_eta6_cent4--> 254
+muMinus_tau_pp_pt0_eta6_cent5--> 457
+muMinus_tau_pp_pt0_eta6_cent6--> 374
+muMinus_tau_pp_pt0_eta7_cent0--> 106
+muMinus_tau_pp_pt0_eta7_cent1--> 112
+muMinus_tau_pp_pt0_eta7_cent2--> 173
+muMinus_tau_pp_pt0_eta7_cent3--> 200
+muMinus_tau_pp_pt0_eta7_cent4--> 197
+muMinus_tau_pp_pt0_eta7_cent5--> 347
+muMinus_tau_pp_pt0_eta7_cent6--> 272
+muMinus_tau_pp_pt0_eta8_cent0--> 153
+muMinus_tau_pp_pt0_eta8_cent1--> 143
+muMinus_tau_pp_pt0_eta8_cent2--> 236
+muMinus_tau_pp_pt0_eta8_cent3--> 221
+muMinus_tau_pp_pt0_eta8_cent4--> 199
+muMinus_tau_pp_pt0_eta8_cent5--> 417
+muMinus_tau_pp_pt0_eta8_cent6--> 331
+muMinus_tau_pp_pt0_eta9_cent0--> 117
+muMinus_tau_pp_pt0_eta9_cent1--> 136
+muMinus_tau_pp_pt0_eta9_cent2--> 207
+muMinus_tau_pp_pt0_eta9_cent3--> 233
+muMinus_tau_pp_pt0_eta9_cent4--> 211
+muMinus_tau_pp_pt0_eta9_cent5--> 392
+muMinus_tau_pp_pt0_eta9_cent6--> 359
+muPlus_Z_pn_pt0_eta0_cent0--> 1402
+muPlus_Z_pn_pt0_eta0_cent1--> 1304
+muPlus_Z_pn_pt0_eta0_cent2--> 2473
+muPlus_Z_pn_pt0_eta0_cent3--> 2274
+muPlus_Z_pn_pt0_eta0_cent4--> 2371
+muPlus_Z_pn_pt0_eta0_cent5--> 4666
+muPlus_Z_pn_pt0_eta0_cent6--> 4066
+muPlus_Z_pn_pt0_eta10_cent0--> 2279
+muPlus_Z_pn_pt0_eta10_cent1--> 2038
+muPlus_Z_pn_pt0_eta10_cent2--> 3776
+muPlus_Z_pn_pt0_eta10_cent3--> 3684
+muPlus_Z_pn_pt0_eta10_cent4--> 3607
+muPlus_Z_pn_pt0_eta10_cent5--> 7270
+muPlus_Z_pn_pt0_eta10_cent6--> 5756
+muPlus_Z_pn_pt0_eta1_cent0--> 2203
+muPlus_Z_pn_pt0_eta1_cent1--> 2067
+muPlus_Z_pn_pt0_eta1_cent2--> 3880
+muPlus_Z_pn_pt0_eta1_cent3--> 3795
+muPlus_Z_pn_pt0_eta1_cent4--> 3757
+muPlus_Z_pn_pt0_eta1_cent5--> 7476
+muPlus_Z_pn_pt0_eta1_cent6--> 6388
+muPlus_Z_pn_pt0_eta2_cent0--> 1500
+muPlus_Z_pn_pt0_eta2_cent1--> 1399
+muPlus_Z_pn_pt0_eta2_cent2--> 2532
+muPlus_Z_pn_pt0_eta2_cent3--> 2531
+muPlus_Z_pn_pt0_eta2_cent4--> 2421
+muPlus_Z_pn_pt0_eta2_cent5--> 4867
+muPlus_Z_pn_pt0_eta2_cent6--> 4010
+muPlus_Z_pn_pt0_eta3_cent0--> 695
+muPlus_Z_pn_pt0_eta3_cent1--> 644
+muPlus_Z_pn_pt0_eta3_cent2--> 1132
+muPlus_Z_pn_pt0_eta3_cent3--> 1076
+muPlus_Z_pn_pt0_eta3_cent4--> 1032
+muPlus_Z_pn_pt0_eta3_cent5--> 2050
+muPlus_Z_pn_pt0_eta3_cent6--> 1713
+muPlus_Z_pn_pt0_eta4_cent0--> 454
+muPlus_Z_pn_pt0_eta4_cent1--> 382
+muPlus_Z_pn_pt0_eta4_cent2--> 714
+muPlus_Z_pn_pt0_eta4_cent3--> 664
+muPlus_Z_pn_pt0_eta4_cent4--> 635
+muPlus_Z_pn_pt0_eta4_cent5--> 1281
+muPlus_Z_pn_pt0_eta4_cent6--> 951
+muPlus_Z_pn_pt0_eta5_cent0--> 62
+muPlus_Z_pn_pt0_eta5_cent1--> 59
+muPlus_Z_pn_pt0_eta5_cent2--> 107
+muPlus_Z_pn_pt0_eta5_cent3--> 88
+muPlus_Z_pn_pt0_eta5_cent4--> 96
+muPlus_Z_pn_pt0_eta5_cent5--> 182
+muPlus_Z_pn_pt0_eta5_cent6--> 124
+muPlus_Z_pn_pt0_eta6_cent0--> 465
+muPlus_Z_pn_pt0_eta6_cent1--> 430
+muPlus_Z_pn_pt0_eta6_cent2--> 802
+muPlus_Z_pn_pt0_eta6_cent3--> 683
+muPlus_Z_pn_pt0_eta6_cent4--> 677
+muPlus_Z_pn_pt0_eta6_cent5--> 1307
+muPlus_Z_pn_pt0_eta6_cent6--> 983
+muPlus_Z_pn_pt0_eta7_cent0--> 742
+muPlus_Z_pn_pt0_eta7_cent1--> 628
+muPlus_Z_pn_pt0_eta7_cent2--> 1197
+muPlus_Z_pn_pt0_eta7_cent3--> 1145
+muPlus_Z_pn_pt0_eta7_cent4--> 1067
+muPlus_Z_pn_pt0_eta7_cent5--> 2081
+muPlus_Z_pn_pt0_eta7_cent6--> 1702
+muPlus_Z_pn_pt0_eta8_cent0--> 1997
+muPlus_Z_pn_pt0_eta8_cent1--> 1800
+muPlus_Z_pn_pt0_eta8_cent2--> 3235
+muPlus_Z_pn_pt0_eta8_cent3--> 3156
+muPlus_Z_pn_pt0_eta8_cent4--> 3096
+muPlus_Z_pn_pt0_eta8_cent5--> 6147
+muPlus_Z_pn_pt0_eta8_cent6--> 4822
+muPlus_Z_pn_pt0_eta9_cent0--> 3276
+muPlus_Z_pn_pt0_eta9_cent1--> 2900
+muPlus_Z_pn_pt0_eta9_cent2--> 5653
+muPlus_Z_pn_pt0_eta9_cent3--> 5579
+muPlus_Z_pn_pt0_eta9_cent4--> 5373
+muPlus_Z_pn_pt0_eta9_cent5--> 10623
+muPlus_Z_pn_pt0_eta9_cent6--> 8707
+muPlus_Z_pp_pt0_eta0_cent0--> 1117
+muPlus_Z_pp_pt0_eta0_cent1--> 1047
+muPlus_Z_pp_pt0_eta0_cent2--> 1998
+muPlus_Z_pp_pt0_eta0_cent3--> 1866
+muPlus_Z_pp_pt0_eta0_cent4--> 1809
+muPlus_Z_pp_pt0_eta0_cent5--> 3681
+muPlus_Z_pp_pt0_eta0_cent6--> 3082
+muPlus_Z_pp_pt0_eta10_cent0--> 1401
+muPlus_Z_pp_pt0_eta10_cent1--> 1315
+muPlus_Z_pp_pt0_eta10_cent2--> 2527
+muPlus_Z_pp_pt0_eta10_cent3--> 2328
+muPlus_Z_pp_pt0_eta10_cent4--> 2384
+muPlus_Z_pp_pt0_eta10_cent5--> 4732
+muPlus_Z_pp_pt0_eta10_cent6--> 3850
+muPlus_Z_pp_pt0_eta1_cent0--> 1651
+muPlus_Z_pp_pt0_eta1_cent1--> 1610
+muPlus_Z_pp_pt0_eta1_cent2--> 3028
+muPlus_Z_pp_pt0_eta1_cent3--> 3024
+muPlus_Z_pp_pt0_eta1_cent4--> 2870
+muPlus_Z_pp_pt0_eta1_cent5--> 5809
+muPlus_Z_pp_pt0_eta1_cent6--> 5004
+muPlus_Z_pp_pt0_eta2_cent0--> 1237
+muPlus_Z_pp_pt0_eta2_cent1--> 1100
+muPlus_Z_pp_pt0_eta2_cent2--> 1960
+muPlus_Z_pp_pt0_eta2_cent3--> 1806
+muPlus_Z_pp_pt0_eta2_cent4--> 1866
+muPlus_Z_pp_pt0_eta2_cent5--> 3532
+muPlus_Z_pp_pt0_eta2_cent6--> 2957
+muPlus_Z_pp_pt0_eta3_cent0--> 543
+muPlus_Z_pp_pt0_eta3_cent1--> 474
+muPlus_Z_pp_pt0_eta3_cent2--> 839
+muPlus_Z_pp_pt0_eta3_cent3--> 785
+muPlus_Z_pp_pt0_eta3_cent4--> 778
+muPlus_Z_pp_pt0_eta3_cent5--> 1553
+muPlus_Z_pp_pt0_eta3_cent6--> 1259
+muPlus_Z_pp_pt0_eta4_cent0--> 337
+muPlus_Z_pp_pt0_eta4_cent1--> 334
+muPlus_Z_pp_pt0_eta4_cent2--> 632
+muPlus_Z_pp_pt0_eta4_cent3--> 500
+muPlus_Z_pp_pt0_eta4_cent4--> 487
+muPlus_Z_pp_pt0_eta4_cent5--> 969
+muPlus_Z_pp_pt0_eta4_cent6--> 712
+muPlus_Z_pp_pt0_eta5_cent0--> 66
+muPlus_Z_pp_pt0_eta5_cent1--> 52
+muPlus_Z_pp_pt0_eta5_cent2--> 78
+muPlus_Z_pp_pt0_eta5_cent3--> 62
+muPlus_Z_pp_pt0_eta5_cent4--> 50
+muPlus_Z_pp_pt0_eta5_cent5--> 127
+muPlus_Z_pp_pt0_eta5_cent6--> 84
+muPlus_Z_pp_pt0_eta6_cent0--> 338
+muPlus_Z_pp_pt0_eta6_cent1--> 324
+muPlus_Z_pp_pt0_eta6_cent2--> 538
+muPlus_Z_pp_pt0_eta6_cent3--> 522
+muPlus_Z_pp_pt0_eta6_cent4--> 533
+muPlus_Z_pp_pt0_eta6_cent5--> 971
+muPlus_Z_pp_pt0_eta6_cent6--> 703
+muPlus_Z_pp_pt0_eta7_cent0--> 532
+muPlus_Z_pp_pt0_eta7_cent1--> 461
+muPlus_Z_pp_pt0_eta7_cent2--> 873
+muPlus_Z_pp_pt0_eta7_cent3--> 815
+muPlus_Z_pp_pt0_eta7_cent4--> 851
+muPlus_Z_pp_pt0_eta7_cent5--> 1485
+muPlus_Z_pp_pt0_eta7_cent6--> 1248
+muPlus_Z_pp_pt0_eta8_cent0--> 1369
+muPlus_Z_pp_pt0_eta8_cent1--> 1178
+muPlus_Z_pp_pt0_eta8_cent2--> 2377
+muPlus_Z_pp_pt0_eta8_cent3--> 2127
+muPlus_Z_pp_pt0_eta8_cent4--> 2221
+muPlus_Z_pp_pt0_eta8_cent5--> 4354
+muPlus_Z_pp_pt0_eta8_cent6--> 3602
+muPlus_Z_pp_pt0_eta9_cent0--> 2104
+muPlus_Z_pp_pt0_eta9_cent1--> 2139
+muPlus_Z_pp_pt0_eta9_cent2--> 3827
+muPlus_Z_pp_pt0_eta9_cent3--> 3642
+muPlus_Z_pp_pt0_eta9_cent4--> 3658
+muPlus_Z_pp_pt0_eta9_cent5--> 7291
+muPlus_Z_pp_pt0_eta9_cent6--> 5952
+muPlus_tau_pn_pt0_eta0_cent0--> 33
+muPlus_tau_pn_pt0_eta0_cent1--> 30
+muPlus_tau_pn_pt0_eta0_cent2--> 81
+muPlus_tau_pn_pt0_eta0_cent3--> 58
+muPlus_tau_pn_pt0_eta0_cent4--> 74
+muPlus_tau_pn_pt0_eta0_cent5--> 131
+muPlus_tau_pn_pt0_eta0_cent6--> 108
+muPlus_tau_pn_pt0_eta10_cent0--> 39
+muPlus_tau_pn_pt0_eta10_cent1--> 41
+muPlus_tau_pn_pt0_eta10_cent2--> 100
+muPlus_tau_pn_pt0_eta10_cent3--> 60
+muPlus_tau_pn_pt0_eta10_cent4--> 85
+muPlus_tau_pn_pt0_eta10_cent5--> 169
+muPlus_tau_pn_pt0_eta10_cent6--> 142
+muPlus_tau_pn_pt0_eta1_cent0--> 110
+muPlus_tau_pn_pt0_eta1_cent1--> 121
+muPlus_tau_pn_pt0_eta1_cent2--> 244
+muPlus_tau_pn_pt0_eta1_cent3--> 241
+muPlus_tau_pn_pt0_eta1_cent4--> 199
+muPlus_tau_pn_pt0_eta1_cent5--> 408
+muPlus_tau_pn_pt0_eta1_cent6--> 362
+muPlus_tau_pn_pt0_eta2_cent0--> 137
+muPlus_tau_pn_pt0_eta2_cent1--> 142
+muPlus_tau_pn_pt0_eta2_cent2--> 220
+muPlus_tau_pn_pt0_eta2_cent3--> 206
+muPlus_tau_pn_pt0_eta2_cent4--> 182
+muPlus_tau_pn_pt0_eta2_cent5--> 389
+muPlus_tau_pn_pt0_eta2_cent6--> 341
+muPlus_tau_pn_pt0_eta3_cent0--> 129
+muPlus_tau_pn_pt0_eta3_cent1--> 100
+muPlus_tau_pn_pt0_eta3_cent2--> 182
+muPlus_tau_pn_pt0_eta3_cent3--> 191
+muPlus_tau_pn_pt0_eta3_cent4--> 178
+muPlus_tau_pn_pt0_eta3_cent5--> 313
+muPlus_tau_pn_pt0_eta3_cent6--> 270
+muPlus_tau_pn_pt0_eta4_cent0--> 121
+muPlus_tau_pn_pt0_eta4_cent1--> 118
+muPlus_tau_pn_pt0_eta4_cent2--> 227
+muPlus_tau_pn_pt0_eta4_cent3--> 231
+muPlus_tau_pn_pt0_eta4_cent4--> 222
+muPlus_tau_pn_pt0_eta4_cent5--> 393
+muPlus_tau_pn_pt0_eta4_cent6--> 294
+muPlus_tau_pn_pt0_eta5_cent0--> 19
+muPlus_tau_pn_pt0_eta5_cent1--> 28
+muPlus_tau_pn_pt0_eta5_cent2--> 41
+muPlus_tau_pn_pt0_eta5_cent3--> 41
+muPlus_tau_pn_pt0_eta5_cent4--> 44
+muPlus_tau_pn_pt0_eta5_cent5--> 68
+muPlus_tau_pn_pt0_eta5_cent6--> 64
+muPlus_tau_pn_pt0_eta6_cent0--> 140
+muPlus_tau_pn_pt0_eta6_cent1--> 106
+muPlus_tau_pn_pt0_eta6_cent2--> 244
+muPlus_tau_pn_pt0_eta6_cent3--> 201
+muPlus_tau_pn_pt0_eta6_cent4--> 199
+muPlus_tau_pn_pt0_eta6_cent5--> 409
+muPlus_tau_pn_pt0_eta6_cent6--> 337
+muPlus_tau_pn_pt0_eta7_cent0--> 90
+muPlus_tau_pn_pt0_eta7_cent1--> 102
+muPlus_tau_pn_pt0_eta7_cent2--> 165
+muPlus_tau_pn_pt0_eta7_cent3--> 154
+muPlus_tau_pn_pt0_eta7_cent4--> 145
+muPlus_tau_pn_pt0_eta7_cent5--> 294
+muPlus_tau_pn_pt0_eta7_cent6--> 263
+muPlus_tau_pn_pt0_eta8_cent0--> 128
+muPlus_tau_pn_pt0_eta8_cent1--> 152
+muPlus_tau_pn_pt0_eta8_cent2--> 227
+muPlus_tau_pn_pt0_eta8_cent3--> 230
+muPlus_tau_pn_pt0_eta8_cent4--> 205
+muPlus_tau_pn_pt0_eta8_cent5--> 449
+muPlus_tau_pn_pt0_eta8_cent6--> 334
+muPlus_tau_pn_pt0_eta9_cent0--> 137
+muPlus_tau_pn_pt0_eta9_cent1--> 115
+muPlus_tau_pn_pt0_eta9_cent2--> 248
+muPlus_tau_pn_pt0_eta9_cent3--> 230
+muPlus_tau_pn_pt0_eta9_cent4--> 219
+muPlus_tau_pn_pt0_eta9_cent5--> 403
+muPlus_tau_pn_pt0_eta9_cent6--> 387
+muPlus_tau_pp_pt0_eta0_cent0--> 40
+muPlus_tau_pp_pt0_eta0_cent1--> 39
+muPlus_tau_pp_pt0_eta0_cent2--> 69
+muPlus_tau_pp_pt0_eta0_cent3--> 56
+muPlus_tau_pp_pt0_eta0_cent4--> 67
+muPlus_tau_pp_pt0_eta0_cent5--> 142
+muPlus_tau_pp_pt0_eta0_cent6--> 113
+muPlus_tau_pp_pt0_eta10_cent0--> 65
+muPlus_tau_pp_pt0_eta10_cent1--> 80
+muPlus_tau_pp_pt0_eta10_cent2--> 110
+muPlus_tau_pp_pt0_eta10_cent3--> 113
+muPlus_tau_pp_pt0_eta10_cent4--> 102
+muPlus_tau_pp_pt0_eta10_cent5--> 226
+muPlus_tau_pp_pt0_eta10_cent6--> 173
+muPlus_tau_pp_pt0_eta1_cent0--> 137
+muPlus_tau_pp_pt0_eta1_cent1--> 129
+muPlus_tau_pp_pt0_eta1_cent2--> 192
+muPlus_tau_pp_pt0_eta1_cent3--> 225
+muPlus_tau_pp_pt0_eta1_cent4--> 187
+muPlus_tau_pp_pt0_eta1_cent5--> 416
+muPlus_tau_pp_pt0_eta1_cent6--> 336
+muPlus_tau_pp_pt0_eta2_cent0--> 117
+muPlus_tau_pp_pt0_eta2_cent1--> 97
+muPlus_tau_pp_pt0_eta2_cent2--> 226
+muPlus_tau_pp_pt0_eta2_cent3--> 189
+muPlus_tau_pp_pt0_eta2_cent4--> 185
+muPlus_tau_pp_pt0_eta2_cent5--> 404
+muPlus_tau_pp_pt0_eta2_cent6--> 310
+muPlus_tau_pp_pt0_eta3_cent0--> 116
+muPlus_tau_pp_pt0_eta3_cent1--> 77
+muPlus_tau_pp_pt0_eta3_cent2--> 172
+muPlus_tau_pp_pt0_eta3_cent3--> 138
+muPlus_tau_pp_pt0_eta3_cent4--> 149
+muPlus_tau_pp_pt0_eta3_cent5--> 274
+muPlus_tau_pp_pt0_eta3_cent6--> 254
+muPlus_tau_pp_pt0_eta4_cent0--> 106
+muPlus_tau_pp_pt0_eta4_cent1--> 96
+muPlus_tau_pp_pt0_eta4_cent2--> 236
+muPlus_tau_pp_pt0_eta4_cent3--> 185
+muPlus_tau_pp_pt0_eta4_cent4--> 178
+muPlus_tau_pp_pt0_eta4_cent5--> 370
+muPlus_tau_pp_pt0_eta4_cent6--> 299
+muPlus_tau_pp_pt0_eta5_cent0--> 29
+muPlus_tau_pp_pt0_eta5_cent1--> 14
+muPlus_tau_pp_pt0_eta5_cent2--> 36
+muPlus_tau_pp_pt0_eta5_cent3--> 39
+muPlus_tau_pp_pt0_eta5_cent4--> 35
+muPlus_tau_pp_pt0_eta5_cent5--> 66
+muPlus_tau_pp_pt0_eta5_cent6--> 46
+muPlus_tau_pp_pt0_eta6_cent0--> 117
+muPlus_tau_pp_pt0_eta6_cent1--> 121
+muPlus_tau_pp_pt0_eta6_cent2--> 220
+muPlus_tau_pp_pt0_eta6_cent3--> 214
+muPlus_tau_pp_pt0_eta6_cent4--> 186
+muPlus_tau_pp_pt0_eta6_cent5--> 390
+muPlus_tau_pp_pt0_eta6_cent6--> 310
+muPlus_tau_pp_pt0_eta7_cent0--> 99
+muPlus_tau_pp_pt0_eta7_cent1--> 77
+muPlus_tau_pp_pt0_eta7_cent2--> 163
+muPlus_tau_pp_pt0_eta7_cent3--> 171
+muPlus_tau_pp_pt0_eta7_cent4--> 157
+muPlus_tau_pp_pt0_eta7_cent5--> 290
+muPlus_tau_pp_pt0_eta7_cent6--> 240
+muPlus_tau_pp_pt0_eta8_cent0--> 168
+muPlus_tau_pp_pt0_eta8_cent1--> 134
+muPlus_tau_pp_pt0_eta8_cent2--> 250
+muPlus_tau_pp_pt0_eta8_cent3--> 207
+muPlus_tau_pp_pt0_eta8_cent4--> 206
+muPlus_tau_pp_pt0_eta8_cent5--> 405
+muPlus_tau_pp_pt0_eta8_cent6--> 339
+muPlus_tau_pp_pt0_eta9_cent0--> 151
+muPlus_tau_pp_pt0_eta9_cent1--> 130
+muPlus_tau_pp_pt0_eta9_cent2--> 267
+muPlus_tau_pp_pt0_eta9_cent3--> 246
+muPlus_tau_pp_pt0_eta9_cent4--> 225
+muPlus_tau_pp_pt0_eta9_cent5--> 486
+muPlus_tau_pp_pt0_eta9_cent6--> 384
+muMinus_Z_pn--> 3698709
+muMinus_Z_pp--> 2732367
+muMinus_tau_pn--> 159406
+muMinus_tau_pp--> 159351
+muPlus_Z_pn--> 3698709
+muPlus_Z_pp--> 2732367
+muPlus_tau_pn--> 159647
+muPlus_tau_pp--> 159681
+Number of mu^{+} background events from Z in pt: 0 eta: 0 cent: 0 = 1.47077 +/- 0.0416137, 0.0408408
+Number of mu^{-} background events from Z in pt: 0 eta: 0 cent: 0 = 1.00478 +/- 0.0344923, 0.0337197
+Number of mu^{+} background events from W-->tau in pt: 0 eta: 0 cent: 0 = 0.390721 +/- 0.0688513, 0.0615914
+Number of mu^{-} background events from W-->tau in pt: 0 eta: 0 cent: 0 = 0.277797 +/- 0.049849, 0.0444987
+Number of mu^{+} background events from Z in pt: 0 eta: 1 cent: 0 = 2.25519 +/- 0.0513814, 0.0506091
+Number of mu^{-} background events from Z in pt: 0 eta: 1 cent: 0 = 1.97602 +/- 0.0481827, 0.0474096
+Number of mu^{+} background events from W-->tau in pt: 0 eta: 1 cent: 0 = 1.3198 +/- 0.12315, 0.11592
+Number of mu^{-} background events from W-->tau in pt: 0 eta: 1 cent: 0 = 0.988481 +/- 0.0915177, 0.0861906
+Number of mu^{+} background events from Z in pt: 0 eta: 2 cent: 0 = 1.59606 +/- 0.0433516, 0.0425791
+Number of mu^{-} background events from Z in pt: 0 eta: 2 cent: 0 = 1.35809 +/- 0.0399972, 0.0392241
+Number of mu^{+} background events from W-->tau in pt: 0 eta: 2 cent: 0 = 1.38929 +/- 0.126338, 0.119109
+Number of mu^{-} background events from W-->tau in pt: 0 eta: 2 cent: 0 = 1.01062 +/- 0.0925308, 0.0872038
+Number of mu^{+} background events from Z in pt: 0 eta: 3 cent: 0 = 0.723341 +/- 0.0292964, 0.0285231
+Number of mu^{-} background events from Z in pt: 0 eta: 3 cent: 0 = 0.63779 +/- 0.0275033, 0.0267306
+Number of mu^{+} background events from W-->tau in pt: 0 eta: 3 cent: 0 = 1.33584 +/- 0.12401, 0.116781
+Number of mu^{-} background events from W-->tau in pt: 0 eta: 3 cent: 0 = 0.767264 +/- 0.08095, 0.0756191
+Number of mu^{+} background events from Z in pt: 0 eta: 4 cent: 0 = 0.463016 +/- 0.0234999, 0.0227268
+Number of mu^{-} background events from Z in pt: 0 eta: 4 cent: 0 = 0.426361 +/- 0.0225248, 0.0217511
+Number of mu^{+} background events from W-->tau in pt: 0 eta: 4 cent: 0 = 1.23968 +/- 0.119586, 0.112355
+Number of mu^{-} background events from W-->tau in pt: 0 eta: 4 cent: 0 = 1.15522 +/- 0.0987842, 0.0934593
+Number of mu^{+} background events from Z in pt: 0 eta: 5 cent: 0 = 0.0739463 +/- 0.00966229, 0.00888735
+Number of mu^{-} background events from Z in pt: 0 eta: 5 cent: 0 = 0.0521136 +/- 0.0081806, 0.00740499
+Number of mu^{+} background events from W-->tau in pt: 0 eta: 5 cent: 0 = 0.253288 +/- 0.0560151, 0.0487352
+Number of mu^{-} background events from W-->tau in pt: 0 eta: 5 cent: 0 = 0.201712 +/- 0.0427645, 0.0374031
+Number of mu^{+} background events from Z in pt: 0 eta: 6 cent: 0 = 0.470392 +/- 0.0236738, 0.0229012
+Number of mu^{-} background events from Z in pt: 0 eta: 6 cent: 0 = 0.448754 +/- 0.0231314, 0.0223585
+Number of mu^{+} background events from W-->tau in pt: 0 eta: 6 cent: 0 = 1.40755 +/- 0.127113, 0.119884
+Number of mu^{-} background events from W-->tau in pt: 0 eta: 6 cent: 0 = 1.19336 +/- 0.100348, 0.0950244
+Number of mu^{+} background events from Z in pt: 0 eta: 7 cent: 0 = 0.746663 +/- 0.0297141, 0.0289414
+Number of mu^{-} background events from Z in pt: 0 eta: 7 cent: 0 = 0.630941 +/- 0.0273075, 0.0265346
+Number of mu^{+} background events from W-->tau in pt: 0 eta: 7 cent: 0 = 1.01772 +/- 0.108751, 0.101515
+Number of mu^{-} background events from W-->tau in pt: 0 eta: 7 cent: 0 = 0.774177 +/- 0.0813496, 0.0760189
+Number of mu^{+} background events from Z in pt: 0 eta: 8 cent: 0 = 1.97586 +/- 0.048036, 0.0472639
+Number of mu^{-} background events from Z in pt: 0 eta: 8 cent: 0 = 1.50438 +/- 0.0420427, 0.0412698
+Number of mu^{+} background events from W-->tau in pt: 0 eta: 8 cent: 0 = 1.57649 +/- 0.134122, 0.126896
+Number of mu^{-} background events from W-->tau in pt: 0 eta: 8 cent: 0 = 1.04136 +/- 0.0937554, 0.0884292
+Number of mu^{+} background events from Z in pt: 0 eta: 9 cent: 0 = 3.16528 +/- 0.0605897, 0.0598174
+Number of mu^{-} background events from Z in pt: 0 eta: 9 cent: 0 = 2.52771 +/- 0.054259, 0.053487
+Number of mu^{+} background events from W-->tau in pt: 0 eta: 9 cent: 0 = 1.55062 +/- 0.13331, 0.126083
+Number of mu^{-} background events from W-->tau in pt: 0 eta: 9 cent: 0 = 1.03687 +/- 0.0936778, 0.0883515
+Number of mu^{+} background events from Z in pt: 0 eta: 10 cent: 0 = 2.16835 +/- 0.0501633, 0.0493906
+Number of mu^{-} background events from Z in pt: 0 eta: 10 cent: 0 = 1.69769 +/- 0.0445751, 0.0438023
+Number of mu^{+} background events from W-->tau in pt: 0 eta: 10 cent: 0 = 0.545879 +/- 0.0801136, 0.0728629
+Number of mu^{-} background events from W-->tau in pt: 0 eta: 10 cent: 0 = 0.610775 +/- 0.0726062, 0.0672714
+Number of mu^{+} background events from Z in pt: 0 eta: 0 cent: 1 = 1.3723 +/- 0.0402145, 0.0394418
+Number of mu^{-} background events from Z in pt: 0 eta: 0 cent: 1 = 0.94655 +/- 0.0334045, 0.0326316
+Number of mu^{+} background events from W-->tau in pt: 0 eta: 0 cent: 1 = 0.367711 +/- 0.0668532, 0.0595916
+Number of mu^{-} background events from W-->tau in pt: 0 eta: 0 cent: 1 = 0.295902 +/- 0.0514387, 0.04609
+Number of mu^{+} background events from Z in pt: 0 eta: 1 cent: 1 = 2.14864 +/- 0.0501942, 0.0494221
+Number of mu^{-} background events from Z in pt: 0 eta: 1 cent: 1 = 1.93372 +/- 0.0476501, 0.0468772
+Number of mu^{+} background events from W-->tau in pt: 0 eta: 1 cent: 1 = 1.34881 +/- 0.124619, 0.117389
+Number of mu^{-} background events from W-->tau in pt: 0 eta: 1 cent: 1 = 0.957249 +/- 0.0901631, 0.0848354
+Number of mu^{+} background events from Z in pt: 0 eta: 2 cent: 1 = 1.45979 +/- 0.0414517, 0.0406791
+Number of mu^{-} background events from Z in pt: 0 eta: 2 cent: 1 = 1.35198 +/- 0.039826, 0.0390531
+Number of mu^{+} background events from W-->tau in pt: 0 eta: 2 cent: 1 = 1.32483 +/- 0.12304, 0.11581
+Number of mu^{-} background events from W-->tau in pt: 0 eta: 2 cent: 1 = 0.889312 +/- 0.086968, 0.0816395
+Number of mu^{+} background events from Z in pt: 0 eta: 3 cent: 1 = 0.654625 +/- 0.027862, 0.0270893
+Number of mu^{-} background events from Z in pt: 0 eta: 3 cent: 1 = 0.534001 +/- 0.0252171, 0.0244438
+Number of mu^{+} background events from W-->tau in pt: 0 eta: 3 cent: 1 = 0.974213 +/- 0.106304, 0.0990677
+Number of mu^{-} background events from W-->tau in pt: 0 eta: 3 cent: 1 = 0.825079 +/- 0.0839347, 0.0786046
+Number of mu^{+} background events from Z in pt: 0 eta: 4 cent: 1 = 0.416642 +/- 0.0223599, 0.0215869
+Number of mu^{-} background events from Z in pt: 0 eta: 4 cent: 1 = 0.405027 +/- 0.0219895, 0.0212164
+Number of mu^{+} background events from W-->tau in pt: 0 eta: 4 cent: 1 = 1.17396 +/- 0.116394, 0.109162
+Number of mu^{-} background events from W-->tau in pt: 0 eta: 4 cent: 1 = 1.06086 +/- 0.0946948, 0.0893688
+Number of mu^{+} background events from Z in pt: 0 eta: 5 cent: 1 = 0.0645723 +/- 0.00905362, 0.00827847
+Number of mu^{-} background events from Z in pt: 0 eta: 5 cent: 1 = 0.052175 +/- 0.00815803, 0.00738237
+Number of mu^{+} background events from W-->tau in pt: 0 eta: 5 cent: 1 = 0.236907 +/- 0.053913, 0.0466258
+Number of mu^{-} background events from W-->tau in pt: 0 eta: 5 cent: 1 = 0.125422 +/- 0.034562, 0.0291813
+Number of mu^{+} background events from Z in pt: 0 eta: 6 cent: 1 = 0.441122 +/- 0.0229532, 0.0221799
+Number of mu^{-} background events from Z in pt: 0 eta: 6 cent: 1 = 0.38702 +/- 0.021545, 0.020772
+Number of mu^{+} background events from W-->tau in pt: 0 eta: 6 cent: 1 = 1.21953 +/- 0.118642, 0.11141
+Number of mu^{-} background events from W-->tau in pt: 0 eta: 6 cent: 1 = 1.04967 +/- 0.0942925, 0.0889664
+Number of mu^{+} background events from Z in pt: 0 eta: 7 cent: 1 = 0.637705 +/- 0.0275035, 0.0267307
+Number of mu^{-} background events from Z in pt: 0 eta: 7 cent: 1 = 0.545608 +/- 0.0253876, 0.024615
+Number of mu^{+} background events from W-->tau in pt: 0 eta: 7 cent: 1 = 0.98639 +/- 0.106909, 0.0996729
+Number of mu^{-} background events from W-->tau in pt: 0 eta: 7 cent: 1 = 0.765494 +/- 0.0808072, 0.0754761
+Number of mu^{+} background events from Z in pt: 0 eta: 8 cent: 1 = 1.75094 +/- 0.0451943, 0.044422
+Number of mu^{-} background events from Z in pt: 0 eta: 8 cent: 1 = 1.33598 +/- 0.0396051, 0.038832
+Number of mu^{+} background events from W-->tau in pt: 0 eta: 8 cent: 1 = 1.56128 +/- 0.133728, 0.126503
+Number of mu^{-} background events from W-->tau in pt: 0 eta: 8 cent: 1 = 1.05411 +/- 0.0944504, 0.0891242
+Number of mu^{+} background events from Z in pt: 0 eta: 9 cent: 1 = 2.95027 +/- 0.0586902, 0.0579181
+Number of mu^{-} background events from Z in pt: 0 eta: 9 cent: 1 = 2.45436 +/- 0.0535041, 0.0527319
+Number of mu^{+} background events from W-->tau in pt: 0 eta: 9 cent: 1 = 1.31703 +/- 0.123148, 0.115918
+Number of mu^{-} background events from W-->tau in pt: 0 eta: 9 cent: 1 = 0.982802 +/- 0.0912756, 0.0859483
+Number of mu^{+} background events from Z in pt: 0 eta: 10 cent: 1 = 1.97239 +/- 0.0479243, 0.0471525
+Number of mu^{-} background events from Z in pt: 0 eta: 10 cent: 1 = 1.64251 +/- 0.0438614, 0.0430884
+Number of mu^{+} background events from W-->tau in pt: 0 eta: 10 cent: 1 = 0.629232 +/- 0.085251, 0.0780033
+Number of mu^{-} background events from W-->tau in pt: 0 eta: 10 cent: 1 = 0.552221 +/- 0.0689955, 0.0636588
+Number of mu^{+} background events from Z in pt: 0 eta: 0 cent: 2 = 2.60917 +/- 0.0552975, 0.0545251
+Number of mu^{-} background events from Z in pt: 0 eta: 0 cent: 2 = 1.76834 +/- 0.0455795, 0.0448078
+Number of mu^{+} background events from W-->tau in pt: 0 eta: 0 cent: 2 = 0.820572 +/- 0.0980073, 0.0907677
+Number of mu^{-} background events from W-->tau in pt: 0 eta: 0 cent: 2 = 0.430542 +/- 0.061439, 0.0560986
+Number of mu^{+} background events from Z in pt: 0 eta: 1 cent: 2 = 4.03639 +/- 0.0686358, 0.0678652
+Number of mu^{-} background events from Z in pt: 0 eta: 1 cent: 2 = 3.524 +/- 0.064129, 0.0633567
+Number of mu^{+} background events from W-->tau in pt: 0 eta: 1 cent: 2 = 2.39663 +/- 0.164533, 0.157317
+Number of mu^{-} background events from W-->tau in pt: 0 eta: 1 cent: 2 = 1.64983 +/- 0.117414, 0.112095
+Number of mu^{+} background events from Z in pt: 0 eta: 2 cent: 2 = 2.62547 +/- 0.0554349, 0.0546628
+Number of mu^{-} background events from Z in pt: 0 eta: 2 cent: 2 = 2.41797 +/- 0.0532111, 0.0524388
+Number of mu^{+} background events from W-->tau in pt: 0 eta: 2 cent: 2 = 2.41184 +/- 0.165318, 0.158102
+Number of mu^{-} background events from W-->tau in pt: 0 eta: 2 cent: 2 = 1.71974 +/- 0.119714, 0.114396
+Number of mu^{+} background events from Z in pt: 0 eta: 3 cent: 2 = 1.1538 +/- 0.036862, 0.0360896
+Number of mu^{-} background events from Z in pt: 0 eta: 3 cent: 2 = 1.00724 +/- 0.0344717, 0.033699
+Number of mu^{+} background events from W-->tau in pt: 0 eta: 3 cent: 2 = 1.92425 +/- 0.148081, 0.140859
+Number of mu^{-} background events from W-->tau in pt: 0 eta: 3 cent: 2 = 1.25937 +/- 0.102972, 0.0976485
+Number of mu^{+} background events from Z in pt: 0 eta: 4 cent: 2 = 0.782889 +/- 0.0305045, 0.0297312
+Number of mu^{-} background events from Z in pt: 0 eta: 4 cent: 2 = 0.747453 +/- 0.0297967, 0.029024
+Number of mu^{+} background events from W-->tau in pt: 0 eta: 4 cent: 2 = 2.50191 +/- 0.168299, 0.161083
+Number of mu^{-} background events from W-->tau in pt: 0 eta: 4 cent: 2 = 1.78146 +/- 0.121871, 0.116554
+Number of mu^{+} background events from Z in pt: 0 eta: 5 cent: 2 = 0.108361 +/- 0.0115757, 0.0108015
+Number of mu^{-} background events from Z in pt: 0 eta: 5 cent: 2 = 0.107763 +/- 0.0115697, 0.0107955
+Number of mu^{+} background events from W-->tau in pt: 0 eta: 5 cent: 2 = 0.420448 +/- 0.0713124, 0.0640555
+Number of mu^{-} background events from W-->tau in pt: 0 eta: 5 cent: 2 = 0.254218 +/- 0.0478288, 0.042476
+Number of mu^{+} background events from Z in pt: 0 eta: 6 cent: 2 = 0.787185 +/- 0.0304552, 0.0296825
+Number of mu^{-} background events from Z in pt: 0 eta: 6 cent: 2 = 0.757086 +/- 0.029921, 0.0291478
+Number of mu^{+} background events from W-->tau in pt: 0 eta: 6 cent: 2 = 2.52949 +/- 0.169155, 0.16194
+Number of mu^{-} background events from W-->tau in pt: 0 eta: 6 cent: 2 = 1.9519 +/- 0.127522, 0.122206
+Number of mu^{+} background events from Z in pt: 0 eta: 7 cent: 2 = 1.21245 +/- 0.0377659, 0.0369935
+Number of mu^{-} background events from Z in pt: 0 eta: 7 cent: 2 = 1.05882 +/- 0.0353412, 0.0345686
+Number of mu^{+} background events from W-->tau in pt: 0 eta: 7 cent: 2 = 1.77804 +/- 0.142511, 0.135287
+Number of mu^{-} background events from W-->tau in pt: 0 eta: 7 cent: 2 = 1.53535 +/- 0.113358, 0.108037
+Number of mu^{+} background events from Z in pt: 0 eta: 8 cent: 2 = 3.28621 +/- 0.0619127, 0.0611408
+Number of mu^{-} background events from Z in pt: 0 eta: 8 cent: 2 = 2.59368 +/- 0.0550368, 0.0542648
+Number of mu^{+} background events from W-->tau in pt: 0 eta: 8 cent: 2 = 2.56834 +/- 0.170425, 0.16321
+Number of mu^{-} background events from W-->tau in pt: 0 eta: 8 cent: 2 = 1.84282 +/- 0.123991, 0.118674
+Number of mu^{+} background events from Z in pt: 0 eta: 9 cent: 2 = 5.56726 +/- 0.0803054, 0.0795346
+Number of mu^{-} background events from Z in pt: 0 eta: 9 cent: 2 = 4.44991 +/- 0.0719224, 0.0711504
+Number of mu^{+} background events from W-->tau in pt: 0 eta: 9 cent: 2 = 2.77687 +/- 0.177068, 0.169855
+Number of mu^{-} background events from W-->tau in pt: 0 eta: 9 cent: 2 = 1.83763 +/- 0.123738, 0.11842
+Number of mu^{+} background events from Z in pt: 0 eta: 10 cent: 2 = 3.70302 +/- 0.0655643, 0.0647935
+Number of mu^{-} background events from Z in pt: 0 eta: 10 cent: 2 = 3.12385 +/- 0.06027, 0.0594979
+Number of mu^{+} background events from W-->tau in pt: 0 eta: 10 cent: 2 = 1.1308 +/- 0.11442, 0.107186
+Number of mu^{-} background events from W-->tau in pt: 0 eta: 10 cent: 2 = 1.08671 +/- 0.0956684, 0.0903427
+Number of mu^{+} background events from Z in pt: 0 eta: 0 cent: 3 = 2.41465 +/- 0.0532229, 0.0524503
+Number of mu^{-} background events from Z in pt: 0 eta: 0 cent: 3 = 1.73826 +/- 0.0452192, 0.044447
+Number of mu^{+} background events from W-->tau in pt: 0 eta: 0 cent: 3 = 0.618853 +/- 0.0856967, 0.0784509
+Number of mu^{-} background events from W-->tau in pt: 0 eta: 0 cent: 3 = 0.447208 +/- 0.0624548, 0.057115
+Number of mu^{+} background events from Z in pt: 0 eta: 1 cent: 3 = 3.98139 +/- 0.068191, 0.0674188
+Number of mu^{-} background events from Z in pt: 0 eta: 1 cent: 3 = 3.43983 +/- 0.0633579, 0.0625862
+Number of mu^{+} background events from W-->tau in pt: 0 eta: 1 cent: 3 = 2.53495 +/- 0.169363, 0.162149
+Number of mu^{-} background events from W-->tau in pt: 0 eta: 1 cent: 3 = 1.67905 +/- 0.118422, 0.113104
+Number of mu^{+} background events from Z in pt: 0 eta: 2 cent: 3 = 2.54225 +/- 0.0544773, 0.0537051
+Number of mu^{-} background events from Z in pt: 0 eta: 2 cent: 3 = 2.29612 +/- 0.0518773, 0.0511054
+Number of mu^{+} background events from W-->tau in pt: 0 eta: 2 cent: 3 = 2.15103 +/- 0.156316, 0.149097
+Number of mu^{-} background events from W-->tau in pt: 0 eta: 2 cent: 3 = 1.66579 +/- 0.117968, 0.112649
+Number of mu^{+} background events from Z in pt: 0 eta: 3 cent: 3 = 1.09002 +/- 0.03583, 0.035057
+Number of mu^{-} background events from Z in pt: 0 eta: 3 cent: 3 = 0.995213 +/- 0.0342632, 0.0334905
+Number of mu^{+} background events from W-->tau in pt: 0 eta: 3 cent: 3 = 1.81771 +/- 0.143605, 0.136382
+Number of mu^{-} background events from W-->tau in pt: 0 eta: 3 cent: 3 = 1.30228 +/- 0.1047, 0.0993773
+Number of mu^{+} background events from Z in pt: 0 eta: 4 cent: 3 = 0.681005 +/- 0.0284211, 0.0276486
+Number of mu^{-} background events from Z in pt: 0 eta: 4 cent: 3 = 0.645665 +/- 0.0276893, 0.0269164
+Number of mu^{+} background events from W-->tau in pt: 0 eta: 4 cent: 3 = 2.28426 +/- 0.160763, 0.153546
+Number of mu^{-} background events from W-->tau in pt: 0 eta: 4 cent: 3 = 1.8185 +/- 0.123188, 0.117871
+Number of mu^{+} background events from Z in pt: 0 eta: 5 cent: 3 = 0.0879661 +/- 0.0104642, 0.00968956
+Number of mu^{-} background events from Z in pt: 0 eta: 5 cent: 3 = 0.0809082 +/- 0.0100011, 0.00922612
+Number of mu^{+} background events from W-->tau in pt: 0 eta: 5 cent: 3 = 0.434683 +/- 0.0724711, 0.0652156
+Number of mu^{-} background events from W-->tau in pt: 0 eta: 5 cent: 3 = 0.297672 +/- 0.0515882, 0.0462399
+Number of mu^{+} background events from Z in pt: 0 eta: 6 cent: 3 = 0.704617 +/- 0.0289099, 0.0281371
+Number of mu^{-} background events from Z in pt: 0 eta: 6 cent: 3 = 0.668119 +/- 0.0281663, 0.0273935
+Number of mu^{+} background events from W-->tau in pt: 0 eta: 6 cent: 3 = 2.23922 +/- 0.159424, 0.152205
+Number of mu^{-} background events from W-->tau in pt: 0 eta: 6 cent: 3 = 1.71262 +/- 0.1196, 0.114282
+Number of mu^{+} background events from Z in pt: 0 eta: 7 cent: 3 = 1.14901 +/- 0.0367582, 0.0359854
+Number of mu^{-} background events from Z in pt: 0 eta: 7 cent: 3 = 1.02504 +/- 0.0347672, 0.0339947
+Number of mu^{+} background events from W-->tau in pt: 0 eta: 7 cent: 3 = 1.74903 +/- 0.141329, 0.134106
+Number of mu^{-} background events from W-->tau in pt: 0 eta: 7 cent: 3 = 1.50914 +/- 0.112464, 0.107144
+Number of mu^{+} background events from Z in pt: 0 eta: 8 cent: 3 = 3.103 +/- 0.0600659, 0.0592945
+Number of mu^{-} background events from Z in pt: 0 eta: 8 cent: 3 = 2.47121 +/- 0.0537181, 0.052946
+Number of mu^{+} background events from W-->tau in pt: 0 eta: 8 cent: 3 = 2.38257 +/- 0.164286, 0.157069
+Number of mu^{-} background events from W-->tau in pt: 0 eta: 8 cent: 3 = 1.67678 +/- 0.118392, 0.113073
+Number of mu^{+} background events from Z in pt: 0 eta: 9 cent: 3 = 5.42203 +/- 0.0791885, 0.0784171
+Number of mu^{-} background events from Z in pt: 0 eta: 9 cent: 3 = 4.27071 +/- 0.0704139, 0.0696419
+Number of mu^{+} background events from W-->tau in pt: 0 eta: 9 cent: 3 = 2.56763 +/- 0.170426, 0.163212
+Number of mu^{-} background events from W-->tau in pt: 0 eta: 9 cent: 3 = 1.71085 +/- 0.11952, 0.114202
+Number of mu^{+} background events from Z in pt: 0 eta: 10 cent: 3 = 3.53908 +/- 0.0640143, 0.0632426
+Number of mu^{-} background events from Z in pt: 0 eta: 10 cent: 3 = 3.03679 +/- 0.0593148, 0.0585433
+Number of mu^{+} background events from W-->tau in pt: 0 eta: 10 cent: 3 = 0.9015 +/- 0.101393, 0.0941544
+Number of mu^{-} background events from W-->tau in pt: 0 eta: 10 cent: 3 = 0.949597 +/- 0.0897823, 0.0844544
+Number of mu^{+} background events from Z in pt: 0 eta: 0 cent: 4 = 2.44438 +/- 0.0534917, 0.0527197
+Number of mu^{-} background events from Z in pt: 0 eta: 0 cent: 4 = 1.68752 +/- 0.0445439, 0.0437714
+Number of mu^{+} background events from W-->tau in pt: 0 eta: 0 cent: 4 = 0.768463 +/- 0.0950158, 0.0877752
+Number of mu^{-} background events from W-->tau in pt: 0 eta: 0 cent: 4 = 0.419185 +/- 0.0606377, 0.0552968
+Number of mu^{+} background events from Z in pt: 0 eta: 1 cent: 4 = 3.87517 +/- 0.0672385, 0.0664671
+Number of mu^{-} background events from Z in pt: 0 eta: 1 cent: 4 = 3.30772 +/- 0.0621623, 0.0613904
+Number of mu^{+} background events from W-->tau in pt: 0 eta: 1 cent: 4 = 2.09893 +/- 0.154476, 0.147256
+Number of mu^{-} background events from W-->tau in pt: 0 eta: 1 cent: 4 = 1.68439 +/- 0.118676, 0.113357
+Number of mu^{+} background events from Z in pt: 0 eta: 2 cent: 4 = 2.50604 +/- 0.0541655, 0.0533937
+Number of mu^{-} background events from Z in pt: 0 eta: 2 cent: 4 = 2.25088 +/- 0.0513475, 0.0505752
+Number of mu^{+} background events from W-->tau in pt: 0 eta: 2 cent: 4 = 1.98593 +/- 0.150386, 0.143164
+Number of mu^{-} background events from W-->tau in pt: 0 eta: 2 cent: 4 = 1.61485 +/- 0.116261, 0.110942
+Number of mu^{+} background events from Z in pt: 0 eta: 3 cent: 4 = 1.05891 +/- 0.0353413, 0.0345686
+Number of mu^{-} background events from Z in pt: 0 eta: 3 cent: 4 = 0.93982 +/- 0.0333032, 0.0325309
+Number of mu^{+} background events from W-->tau in pt: 0 eta: 3 cent: 4 = 1.79076 +/- 0.142872, 0.135649
+Number of mu^{-} background events from W-->tau in pt: 0 eta: 3 cent: 4 = 1.26965 +/- 0.103388, 0.0980652
+Number of mu^{+} background events from Z in pt: 0 eta: 4 cent: 4 = 0.656002 +/- 0.0279106, 0.0271375
+Number of mu^{-} background events from Z in pt: 0 eta: 4 cent: 4 = 0.626989 +/- 0.0273021, 0.0265292
+Number of mu^{+} background events from W-->tau in pt: 0 eta: 4 cent: 4 = 2.19625 +/- 0.157716, 0.150497
+Number of mu^{-} background events from W-->tau in pt: 0 eta: 4 cent: 4 = 1.65765 +/- 0.117609, 0.11229
+Number of mu^{+} background events from Z in pt: 0 eta: 5 cent: 4 = 0.0865039 +/- 0.0102934, 0.00951865
+Number of mu^{-} background events from Z in pt: 0 eta: 5 cent: 4 = 0.0942075 +/- 0.010827, 0.0100523
+Number of mu^{+} background events from W-->tau in pt: 0 eta: 5 cent: 4 = 0.433968 +/- 0.0723128, 0.0650565
+Number of mu^{-} background events from W-->tau in pt: 0 eta: 5 cent: 4 = 0.279237 +/- 0.0498587, 0.044508
+Number of mu^{+} background events from Z in pt: 0 eta: 6 cent: 4 = 0.706787 +/- 0.0289669, 0.0281939
+Number of mu^{-} background events from Z in pt: 0 eta: 6 cent: 4 = 0.644373 +/- 0.0276397, 0.0268669
+Number of mu^{+} background events from W-->tau in pt: 0 eta: 6 cent: 4 = 2.09418 +/- 0.154303, 0.147083
+Number of mu^{-} background events from W-->tau in pt: 0 eta: 6 cent: 4 = 1.82191 +/- 0.123203, 0.117885
+Number of mu^{+} background events from Z in pt: 0 eta: 7 cent: 4 = 1.11982 +/- 0.0363635, 0.0355905
+Number of mu^{-} background events from Z in pt: 0 eta: 7 cent: 4 = 0.945744 +/- 0.033426, 0.0326531
+Number of mu^{+} background events from W-->tau in pt: 0 eta: 7 cent: 4 = 1.6278 +/- 0.136502, 0.129277
+Number of mu^{-} background events from W-->tau in pt: 0 eta: 7 cent: 4 = 1.37203 +/- 0.107244, 0.101922
+Number of mu^{+} background events from Z in pt: 0 eta: 8 cent: 4 = 3.11611 +/- 0.0602729, 0.0595014
+Number of mu^{-} background events from Z in pt: 0 eta: 8 cent: 4 = 2.38428 +/- 0.0527361, 0.0519643
+Number of mu^{+} background events from W-->tau in pt: 0 eta: 8 cent: 4 = 2.22561 +/- 0.158969, 0.151751
+Number of mu^{-} background events from W-->tau in pt: 0 eta: 8 cent: 4 = 1.55774 +/- 0.114236, 0.108917
+Number of mu^{+} background events from Z in pt: 0 eta: 9 cent: 4 = 5.30253 +/- 0.0783953, 0.077624
+Number of mu^{-} background events from Z in pt: 0 eta: 9 cent: 4 = 4.2361 +/- 0.0700906, 0.0693195
+Number of mu^{+} background events from W-->tau in pt: 0 eta: 9 cent: 4 = 2.40101 +/- 0.164956, 0.15774
+Number of mu^{-} background events from W-->tau in pt: 0 eta: 9 cent: 4 = 1.77184 +/- 0.121621, 0.116303
+Number of mu^{+} background events from Z in pt: 0 eta: 10 cent: 4 = 3.52125 +/- 0.0639274, 0.0631556
+Number of mu^{-} background events from Z in pt: 0 eta: 10 cent: 4 = 2.96273 +/- 0.0587384, 0.0579675
+Number of mu^{+} background events from W-->tau in pt: 0 eta: 10 cent: 4 = 1.00151 +/- 0.107835, 0.100599
+Number of mu^{-} background events from W-->tau in pt: 0 eta: 10 cent: 4 = 0.826849 +/- 0.0840181, 0.0786885
+Number of mu^{+} background events from Z in pt: 0 eta: 0 cent: 5 = 4.8753 +/- 0.0753971, 0.0746262
+Number of mu^{-} background events from Z in pt: 0 eta: 0 cent: 5 = 3.43495 +/- 0.0634071, 0.0626358
+Number of mu^{+} background events from W-->tau in pt: 0 eta: 0 cent: 5 = 1.47138 +/- 0.129973, 0.122745
+Number of mu^{-} background events from W-->tau in pt: 0 eta: 0 cent: 5 = 0.963258 +/- 0.0904178, 0.0850902
+Number of mu^{+} background events from Z in pt: 0 eta: 1 cent: 5 = 7.76372 +/- 0.0949857, 0.0942153
+Number of mu^{-} background events from Z in pt: 0 eta: 1 cent: 5 = 6.79467 +/- 0.0888809, 0.0881104
+Number of mu^{+} background events from W-->tau in pt: 0 eta: 1 cent: 5 = 4.45803 +/- 0.223275, 0.216078
+Number of mu^{-} background events from W-->tau in pt: 0 eta: 1 cent: 5 = 2.83039 +/- 0.152941, 0.147634
+Number of mu^{+} background events from Z in pt: 0 eta: 2 cent: 5 = 4.92036 +/- 0.0756369, 0.0748652
+Number of mu^{-} background events from Z in pt: 0 eta: 2 cent: 5 = 4.4067 +/- 0.071658, 0.0708859
+Number of mu^{+} background events from W-->tau in pt: 0 eta: 2 cent: 5 = 4.28541 +/- 0.218987, 0.211788
+Number of mu^{-} background events from W-->tau in pt: 0 eta: 2 cent: 5 = 3.08074 +/- 0.159336, 0.154031
+Number of mu^{+} background events from Z in pt: 0 eta: 3 cent: 5 = 2.1075 +/- 0.0496932, 0.0489217
+Number of mu^{-} background events from Z in pt: 0 eta: 3 cent: 5 = 1.82015 +/- 0.0461839, 0.0454113
+Number of mu^{+} background events from W-->tau in pt: 0 eta: 3 cent: 5 = 3.20583 +/- 0.189879, 0.182671
+Number of mu^{-} background events from W-->tau in pt: 0 eta: 3 cent: 5 = 2.48359 +/- 0.143446, 0.138136
+Number of mu^{+} background events from Z in pt: 0 eta: 4 cent: 5 = 1.31616 +/- 0.0393566, 0.0385841
+Number of mu^{-} background events from Z in pt: 0 eta: 4 cent: 5 = 1.1734 +/- 0.0371753, 0.0364026
+Number of mu^{+} background events from W-->tau in pt: 0 eta: 4 cent: 5 = 4.14843 +/- 0.215513, 0.208313
+Number of mu^{-} background events from W-->tau in pt: 0 eta: 4 cent: 5 = 3.31616 +/- 0.165184, 0.159881
+Number of mu^{+} background events from Z in pt: 0 eta: 5 cent: 5 = 0.181272 +/- 0.0148381, 0.0140645
+Number of mu^{-} background events from Z in pt: 0 eta: 5 cent: 5 = 0.153355 +/- 0.0137181, 0.0129442
+Number of mu^{+} background events from W-->tau in pt: 0 eta: 5 cent: 5 = 0.727188 +/- 0.0925613, 0.0853195
+Number of mu^{-} background events from W-->tau in pt: 0 eta: 5 cent: 5 = 0.639168 +/- 0.074222, 0.0688879
+Number of mu^{+} background events from Z in pt: 0 eta: 6 cent: 5 = 1.3334 +/- 0.0395986, 0.0388259
+Number of mu^{-} background events from Z in pt: 0 eta: 6 cent: 5 = 1.18989 +/- 0.03749, 0.0367175
+Number of mu^{+} background events from W-->tau in pt: 0 eta: 6 cent: 5 = 4.34074 +/- 0.220363, 0.213164
+Number of mu^{-} background events from W-->tau in pt: 0 eta: 6 cent: 5 = 3.59161 +/- 0.171883, 0.166583
+Number of mu^{+} background events from Z in pt: 0 eta: 7 cent: 5 = 2.0903 +/- 0.0494379, 0.0486653
+Number of mu^{-} background events from Z in pt: 0 eta: 7 cent: 5 = 1.9077 +/- 0.047252, 0.0464797
+Number of mu^{+} background events from W-->tau in pt: 0 eta: 7 cent: 5 = 3.16607 +/- 0.188823, 0.181614
+Number of mu^{-} background events from W-->tau in pt: 0 eta: 7 cent: 5 = 2.45631 +/- 0.142535, 0.137225
+Number of mu^{+} background events from Z in pt: 0 eta: 8 cent: 5 = 6.15705 +/- 0.0845079, 0.0837389
+Number of mu^{-} background events from Z in pt: 0 eta: 8 cent: 5 = 4.59737 +/- 0.0731199, 0.0723483
+Number of mu^{+} background events from W-->tau in pt: 0 eta: 8 cent: 5 = 4.65546 +/- 0.227999, 0.220804
+Number of mu^{-} background events from W-->tau in pt: 0 eta: 8 cent: 5 = 3.46261 +/- 0.168813, 0.163511
+Number of mu^{+} background events from Z in pt: 0 eta: 9 cent: 5 = 10.5152 +/- 0.110181, 0.109412
+Number of mu^{-} background events from Z in pt: 0 eta: 9 cent: 5 = 8.36099 +/- 0.0983785, 0.097608
+Number of mu^{+} background events from W-->tau in pt: 0 eta: 9 cent: 5 = 4.75974 +/- 0.230316, 0.223122
+Number of mu^{-} background events from W-->tau in pt: 0 eta: 9 cent: 5 = 3.66424 +/- 0.173321, 0.168021
+Number of mu^{+} background events from Z in pt: 0 eta: 10 cent: 5 = 7.058 +/- 0.0902666, 0.0894973
+Number of mu^{-} background events from Z in pt: 0 eta: 10 cent: 5 = 5.9172 +/- 0.0827862, 0.0820156
+Number of mu^{+} background events from W-->tau in pt: 0 eta: 10 cent: 5 = 2.10133 +/- 0.154184, 0.146964
+Number of mu^{-} background events from W-->tau in pt: 0 eta: 10 cent: 5 = 1.76723 +/- 0.121475, 0.116157
+Number of mu^{+} background events from Z in pt: 0 eta: 0 cent: 6 = 4.18099 +/- 0.0698147, 0.0690427
+Number of mu^{-} background events from Z in pt: 0 eta: 0 cent: 6 = 2.99515 +/- 0.0592049, 0.0584336
+Number of mu^{+} background events from W-->tau in pt: 0 eta: 0 cent: 6 = 1.19374 +/- 0.117477, 0.110245
+Number of mu^{-} background events from W-->tau in pt: 0 eta: 0 cent: 6 = 0.768499 +/- 0.081073, 0.0757422
+Number of mu^{+} background events from Z in pt: 0 eta: 1 cent: 6 = 6.65552 +/- 0.0879974, 0.0872282
+Number of mu^{-} background events from Z in pt: 0 eta: 1 cent: 6 = 5.80322 +/- 0.0821658, 0.0813946
+Number of mu^{+} background events from W-->tau in pt: 0 eta: 1 cent: 6 = 3.79835 +/- 0.20639, 0.199187
+Number of mu^{-} background events from W-->tau in pt: 0 eta: 1 cent: 6 = 2.6379 +/- 0.147755, 0.142446
+Number of mu^{+} background events from Z in pt: 0 eta: 2 cent: 6 = 4.07913 +/- 0.0689314, 0.0681599
+Number of mu^{-} background events from Z in pt: 0 eta: 2 cent: 6 = 3.68833 +/- 0.0656204, 0.0648487
+Number of mu^{+} background events from W-->tau in pt: 0 eta: 2 cent: 6 = 3.54713 +/- 0.199567, 0.192363
+Number of mu^{-} background events from W-->tau in pt: 0 eta: 2 cent: 6 = 2.62922 +/- 0.14752, 0.142211
+Number of mu^{+} background events from Z in pt: 0 eta: 3 cent: 6 = 1.74029 +/- 0.0451711, 0.0443992
+Number of mu^{-} background events from Z in pt: 0 eta: 3 cent: 6 = 1.44927 +/- 0.0412743, 0.0405018
+Number of mu^{+} background events from W-->tau in pt: 0 eta: 3 cent: 6 = 2.84912 +/- 0.179314, 0.172102
+Number of mu^{-} background events from W-->tau in pt: 0 eta: 3 cent: 6 = 2.04029 +/- 0.130221, 0.124907
+Number of mu^{+} background events from Z in pt: 0 eta: 4 cent: 6 = 0.973148 +/- 0.0338928, 0.0331199
+Number of mu^{-} background events from Z in pt: 0 eta: 4 cent: 6 = 0.957946 +/- 0.0336396, 0.0328668
+Number of mu^{+} background events from W-->tau in pt: 0 eta: 4 cent: 6 = 3.20878 +/- 0.190064, 0.182856
+Number of mu^{-} background events from W-->tau in pt: 0 eta: 4 cent: 6 = 2.80114 +/- 0.152146, 0.146838
+Number of mu^{+} background events from Z in pt: 0 eta: 5 cent: 6 = 0.122148 +/- 0.0122463, 0.0114721
+Number of mu^{-} background events from Z in pt: 0 eta: 5 cent: 6 = 0.146748 +/- 0.0134151, 0.012641
+Number of mu^{+} background events from W-->tau in pt: 0 eta: 5 cent: 6 = 0.607932 +/- 0.0847131, 0.077466
+Number of mu^{-} background events from W-->tau in pt: 0 eta: 5 cent: 6 = 0.529176 +/- 0.0677984, 0.062462
+Number of mu^{+} background events from Z in pt: 0 eta: 6 cent: 6 = 0.988216 +/- 0.0341221, 0.033349
+Number of mu^{-} background events from Z in pt: 0 eta: 6 cent: 6 = 0.930675 +/- 0.0331859, 0.0324131
+Number of mu^{+} background events from W-->tau in pt: 0 eta: 6 cent: 6 = 3.52277 +/- 0.198908, 0.191703
+Number of mu^{-} background events from W-->tau in pt: 0 eta: 6 cent: 6 = 2.84159 +/- 0.153214, 0.147906
+Number of mu^{+} background events from Z in pt: 0 eta: 7 cent: 6 = 1.72755 +/- 0.0450054, 0.0442327
+Number of mu^{-} background events from Z in pt: 0 eta: 7 cent: 6 = 1.52389 +/- 0.0422834, 0.0415117
+Number of mu^{+} background events from W-->tau in pt: 0 eta: 7 cent: 6 = 2.74007 +/- 0.175903, 0.16869
+Number of mu^{-} background events from W-->tau in pt: 0 eta: 7 cent: 6 = 2.02219 +/- 0.129701, 0.124385
+Number of mu^{+} background events from Z in pt: 0 eta: 8 cent: 6 = 4.92992 +/- 0.0757495, 0.074979
+Number of mu^{-} background events from Z in pt: 0 eta: 8 cent: 6 = 3.83514 +/- 0.0667884, 0.0660167
+Number of mu^{+} background events from W-->tau in pt: 0 eta: 8 cent: 6 = 3.64211 +/- 0.20222, 0.195016
+Number of mu^{-} background events from W-->tau in pt: 0 eta: 8 cent: 6 = 2.61663 +/- 0.147173, 0.141864
+Number of mu^{+} background events from Z in pt: 0 eta: 9 cent: 6 = 8.60578 +/- 0.0997302, 0.0989604
+Number of mu^{-} background events from Z in pt: 0 eta: 9 cent: 6 = 6.83298 +/- 0.0890073, 0.0882372
+Number of mu^{+} background events from W-->tau in pt: 0 eta: 9 cent: 6 = 4.17833 +/- 0.216296, 0.209097
+Number of mu^{-} background events from W-->tau in pt: 0 eta: 9 cent: 6 = 2.81443 +/- 0.152518, 0.14721
+Number of mu^{+} background events from Z in pt: 0 eta: 10 cent: 6 = 5.64364 +/- 0.0808279, 0.0800573
+Number of mu^{-} background events from Z in pt: 0 eta: 10 cent: 6 = 4.8796 +/- 0.0752138, 0.0744429
+Number of mu^{+} background events from W-->tau in pt: 0 eta: 10 cent: 6 = 1.68546 +/- 0.138692, 0.131468
+Number of mu^{-} background events from W-->tau in pt: 0 eta: 10 cent: 6 = 1.5549 +/- 0.114136, 0.108816

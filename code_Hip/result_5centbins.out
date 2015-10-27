@@ -1,0 +1,2333 @@
+
+[1mRooFit v3.60 -- Developed by Wouter Verkerke and David Kirkby[0m 
+                Copyright (C) 2000-2013 NIKHEF, University of California & Stanford University
+                All rights reserved, please read http://roofit.sourceforge.net/license.txt
+
+==================================================================
+=============== STARTING W --> mu + nu ANALYZER    ===============
+==================================================================
+This package will count the number of muons in the signal space 
+define by the user and save these muons to an output file for  
+later use. Control kinematic histograms -- provided by the user -- 
+are also generated and stored in the output file.
+==================================================================
+********************************************************************
+**                   Running on Period A and B data.              **
+**Using Period B convention i.e. proton towards positive rapidity.**
+********************************************************************
+nEtaBins:11
+W yields will be written to file WAnalysis_fitResultCentChrgEta_PeriodAB.root
+[WBookKeeper::WBookKeeper] Constructing WBookKeeper object.
+Filling the RooDataSet for ntupleW.07.15.2014.root... Number of files: 1
+Number of entries in data tree: 16154
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W+ --> mu+.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 8410 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>-2.5&&muonEta<-2.1000000000000001&&centrality>0&&centrality<0.050000000000000003
+pt: 25 - 400[GeV] 
+eta: -2.5 - -2.1
+centrality: 0 - 5[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 49 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 49
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 49
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W- --> mu-.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 7037 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>-2.5&&muonEta<-2.1000000000000001&&centrality>0&&centrality<0.050000000000000003
+pt: 25 - 400[GeV] 
+eta: -2.5 - -2.1
+centrality: 0 - 5[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 70 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 70
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 70
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W+ --> mu+.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 8410 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>-2.5&&muonEta<-2.1000000000000001&&centrality>0.050000000000000003&&centrality<0.10000000000000001
+pt: 25 - 400[GeV] 
+eta: -2.5 - -2.1
+centrality: 5 - 10[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 35 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 35
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 84
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W- --> mu-.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 7037 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>-2.5&&muonEta<-2.1000000000000001&&centrality>0.050000000000000003&&centrality<0.10000000000000001
+pt: 25 - 400[GeV] 
+eta: -2.5 - -2.1
+centrality: 5 - 10[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 47 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 47
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 117
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W+ --> mu+.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 8410 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>-2.5&&muonEta<-2.1000000000000001&&centrality>0.10000000000000001&&centrality<0.20000000000000001
+pt: 25 - 400[GeV] 
+eta: -2.5 - -2.1
+centrality: 10 - 20[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 50 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 50
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 134
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W- --> mu-.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 7037 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>-2.5&&muonEta<-2.1000000000000001&&centrality>0.10000000000000001&&centrality<0.20000000000000001
+pt: 25 - 400[GeV] 
+eta: -2.5 - -2.1
+centrality: 10 - 20[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 100 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 100
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 217
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W+ --> mu+.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 8410 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>-2.5&&muonEta<-2.1000000000000001&&centrality>0.20000000000000001&&centrality<0.40000000000000002
+pt: 25 - 400[GeV] 
+eta: -2.5 - -2.1
+centrality: 20 - 40[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 91 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 91
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 225
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W- --> mu-.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 7037 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>-2.5&&muonEta<-2.1000000000000001&&centrality>0.20000000000000001&&centrality<0.40000000000000002
+pt: 25 - 400[GeV] 
+eta: -2.5 - -2.1
+centrality: 20 - 40[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 133 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 133
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 350
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W+ --> mu+.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 8410 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>-2.5&&muonEta<-2.1000000000000001&&centrality>0.40000000000000002&&centrality<0.90000000000000002
+pt: 25 - 400[GeV] 
+eta: -2.5 - -2.1
+centrality: 40 - 90[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 102 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 102
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 327
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W- --> mu-.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 7037 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>-2.5&&muonEta<-2.1000000000000001&&centrality>0.40000000000000002&&centrality<0.90000000000000002
+pt: 25 - 400[GeV] 
+eta: -2.5 - -2.1
+centrality: 40 - 90[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 136 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 136
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 486
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W+ --> mu+.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 8410 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>-2.1000000000000001&&muonEta<-1.55&&centrality>0&&centrality<0.050000000000000003
+pt: 25 - 400[GeV] 
+eta: -2.1 - -1.55
+centrality: 0 - 5[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 114 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 114
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 441
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W- --> mu-.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 7037 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>-2.1000000000000001&&muonEta<-1.55&&centrality>0&&centrality<0.050000000000000003
+pt: 25 - 400[GeV] 
+eta: -2.1 - -1.55
+centrality: 0 - 5[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 137 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 137
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 623
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W+ --> mu+.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 8410 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>-2.1000000000000001&&muonEta<-1.55&&centrality>0.050000000000000003&&centrality<0.10000000000000001
+pt: 25 - 400[GeV] 
+eta: -2.1 - -1.55
+centrality: 5 - 10[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 112 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 112
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 553
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W- --> mu-.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 7037 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>-2.1000000000000001&&muonEta<-1.55&&centrality>0.050000000000000003&&centrality<0.10000000000000001
+pt: 25 - 400[GeV] 
+eta: -2.1 - -1.55
+centrality: 5 - 10[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 113 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 113
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 736
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W+ --> mu+.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 8410 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>-2.1000000000000001&&muonEta<-1.55&&centrality>0.10000000000000001&&centrality<0.20000000000000001
+pt: 25 - 400[GeV] 
+eta: -2.1 - -1.55
+centrality: 10 - 20[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 152 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 152
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 705
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W- --> mu-.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 7037 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>-2.1000000000000001&&muonEta<-1.55&&centrality>0.10000000000000001&&centrality<0.20000000000000001
+pt: 25 - 400[GeV] 
+eta: -2.1 - -1.55
+centrality: 10 - 20[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 161 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 161
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 897
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W+ --> mu+.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 8410 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>-2.1000000000000001&&muonEta<-1.55&&centrality>0.20000000000000001&&centrality<0.40000000000000002
+pt: 25 - 400[GeV] 
+eta: -2.1 - -1.55
+centrality: 20 - 40[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 209 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 209
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 914
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W- --> mu-.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 7037 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>-2.1000000000000001&&muonEta<-1.55&&centrality>0.20000000000000001&&centrality<0.40000000000000002
+pt: 25 - 400[GeV] 
+eta: -2.1 - -1.55
+centrality: 20 - 40[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 281 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 281
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 1178
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W+ --> mu+.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 8410 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>-2.1000000000000001&&muonEta<-1.55&&centrality>0.40000000000000002&&centrality<0.90000000000000002
+pt: 25 - 400[GeV] 
+eta: -2.1 - -1.55
+centrality: 40 - 90[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 204 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 204
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 1118
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W- --> mu-.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 7037 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>-2.1000000000000001&&muonEta<-1.55&&centrality>0.40000000000000002&&centrality<0.90000000000000002
+pt: 25 - 400[GeV] 
+eta: -2.1 - -1.55
+centrality: 40 - 90[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 267 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 267
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 1445
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W+ --> mu+.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 8410 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>-1.55&&muonEta<-1.05&&centrality>0&&centrality<0.050000000000000003
+pt: 25 - 400[GeV] 
+eta: -1.55 - -1.05
+centrality: 0 - 5[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 126 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 126
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 1244
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W- --> mu-.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 7037 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>-1.55&&muonEta<-1.05&&centrality>0&&centrality<0.050000000000000003
+pt: 25 - 400[GeV] 
+eta: -1.55 - -1.05
+centrality: 0 - 5[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 127 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 127
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 1572
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W+ --> mu+.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 8410 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>-1.55&&muonEta<-1.05&&centrality>0.050000000000000003&&centrality<0.10000000000000001
+pt: 25 - 400[GeV] 
+eta: -1.55 - -1.05
+centrality: 5 - 10[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 103 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 103
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 1347
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W- --> mu-.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 7037 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>-1.55&&muonEta<-1.05&&centrality>0.050000000000000003&&centrality<0.10000000000000001
+pt: 25 - 400[GeV] 
+eta: -1.55 - -1.05
+centrality: 5 - 10[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 117 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 117
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 1689
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W+ --> mu+.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 8410 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>-1.55&&muonEta<-1.05&&centrality>0.10000000000000001&&centrality<0.20000000000000001
+pt: 25 - 400[GeV] 
+eta: -1.55 - -1.05
+centrality: 10 - 20[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 177 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 177
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 1524
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W- --> mu-.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 7037 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>-1.55&&muonEta<-1.05&&centrality>0.10000000000000001&&centrality<0.20000000000000001
+pt: 25 - 400[GeV] 
+eta: -1.55 - -1.05
+centrality: 10 - 20[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 181 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 181
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 1870
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W+ --> mu+.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 8410 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>-1.55&&muonEta<-1.05&&centrality>0.20000000000000001&&centrality<0.40000000000000002
+pt: 25 - 400[GeV] 
+eta: -1.55 - -1.05
+centrality: 20 - 40[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 243 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 243
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 1767
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W- --> mu-.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 7037 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>-1.55&&muonEta<-1.05&&centrality>0.20000000000000001&&centrality<0.40000000000000002
+pt: 25 - 400[GeV] 
+eta: -1.55 - -1.05
+centrality: 20 - 40[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 221 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 221
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 2091
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W+ --> mu+.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 8410 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>-1.55&&muonEta<-1.05&&centrality>0.40000000000000002&&centrality<0.90000000000000002
+pt: 25 - 400[GeV] 
+eta: -1.55 - -1.05
+centrality: 40 - 90[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 250 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 250
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 2017
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W- --> mu-.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 7037 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>-1.55&&muonEta<-1.05&&centrality>0.40000000000000002&&centrality<0.90000000000000002
+pt: 25 - 400[GeV] 
+eta: -1.55 - -1.05
+centrality: 40 - 90[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 224 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 224
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 2315
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W+ --> mu+.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 8410 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>-1.05&&muonEta<-0.59999999999999998&&centrality>0&&centrality<0.050000000000000003
+pt: 25 - 400[GeV] 
+eta: -1.05 - -0.6
+centrality: 0 - 5[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 92 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 92
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 2109
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W- --> mu-.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 7037 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>-1.05&&muonEta<-0.59999999999999998&&centrality>0&&centrality<0.050000000000000003
+pt: 25 - 400[GeV] 
+eta: -1.05 - -0.6
+centrality: 0 - 5[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 84 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 84
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 2399
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W+ --> mu+.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 8410 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>-1.05&&muonEta<-0.59999999999999998&&centrality>0.050000000000000003&&centrality<0.10000000000000001
+pt: 25 - 400[GeV] 
+eta: -1.05 - -0.6
+centrality: 5 - 10[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 77 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 77
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 2186
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W- --> mu-.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 7037 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>-1.05&&muonEta<-0.59999999999999998&&centrality>0.050000000000000003&&centrality<0.10000000000000001
+pt: 25 - 400[GeV] 
+eta: -1.05 - -0.6
+centrality: 5 - 10[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 77 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 77
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 2476
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W+ --> mu+.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 8410 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>-1.05&&muonEta<-0.59999999999999998&&centrality>0.10000000000000001&&centrality<0.20000000000000001
+pt: 25 - 400[GeV] 
+eta: -1.05 - -0.6
+centrality: 10 - 20[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 110 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 110
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 2296
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W- --> mu-.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 7037 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>-1.05&&muonEta<-0.59999999999999998&&centrality>0.10000000000000001&&centrality<0.20000000000000001
+pt: 25 - 400[GeV] 
+eta: -1.05 - -0.6
+centrality: 10 - 20[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 109 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 109
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 2585
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W+ --> mu+.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 8410 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>-1.05&&muonEta<-0.59999999999999998&&centrality>0.20000000000000001&&centrality<0.40000000000000002
+pt: 25 - 400[GeV] 
+eta: -1.05 - -0.6
+centrality: 20 - 40[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 178 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 178
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 2474
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W- --> mu-.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 7037 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>-1.05&&muonEta<-0.59999999999999998&&centrality>0.20000000000000001&&centrality<0.40000000000000002
+pt: 25 - 400[GeV] 
+eta: -1.05 - -0.6
+centrality: 20 - 40[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 146 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 146
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 2731
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W+ --> mu+.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 8410 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>-1.05&&muonEta<-0.59999999999999998&&centrality>0.40000000000000002&&centrality<0.90000000000000002
+pt: 25 - 400[GeV] 
+eta: -1.05 - -0.6
+centrality: 40 - 90[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 192 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 192
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 2666
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W- --> mu-.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 7037 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>-1.05&&muonEta<-0.59999999999999998&&centrality>0.40000000000000002&&centrality<0.90000000000000002
+pt: 25 - 400[GeV] 
+eta: -1.05 - -0.6
+centrality: 40 - 90[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 181 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 181
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 2912
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W+ --> mu+.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 8410 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>-0.59999999999999998&&muonEta<-0.10000000000000001&&centrality>0&&centrality<0.050000000000000003
+pt: 25 - 400[GeV] 
+eta: -0.6 - -0.1
+centrality: 0 - 5[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 115 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 115
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 2781
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W- --> mu-.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 7037 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>-0.59999999999999998&&muonEta<-0.10000000000000001&&centrality>0&&centrality<0.050000000000000003
+pt: 25 - 400[GeV] 
+eta: -0.6 - -0.1
+centrality: 0 - 5[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 113 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 113
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 3025
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W+ --> mu+.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 8410 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>-0.59999999999999998&&muonEta<-0.10000000000000001&&centrality>0.050000000000000003&&centrality<0.10000000000000001
+pt: 25 - 400[GeV] 
+eta: -0.6 - -0.1
+centrality: 5 - 10[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 108 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 108
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 2889
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W- --> mu-.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 7037 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>-0.59999999999999998&&muonEta<-0.10000000000000001&&centrality>0.050000000000000003&&centrality<0.10000000000000001
+pt: 25 - 400[GeV] 
+eta: -0.6 - -0.1
+centrality: 5 - 10[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 77 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 77
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 3102
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W+ --> mu+.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 8410 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>-0.59999999999999998&&muonEta<-0.10000000000000001&&centrality>0.10000000000000001&&centrality<0.20000000000000001
+pt: 25 - 400[GeV] 
+eta: -0.6 - -0.1
+centrality: 10 - 20[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 178 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 178
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 3067
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W- --> mu-.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 7037 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>-0.59999999999999998&&muonEta<-0.10000000000000001&&centrality>0.10000000000000001&&centrality<0.20000000000000001
+pt: 25 - 400[GeV] 
+eta: -0.6 - -0.1
+centrality: 10 - 20[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 152 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 152
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 3254
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W+ --> mu+.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 8410 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>-0.59999999999999998&&muonEta<-0.10000000000000001&&centrality>0.20000000000000001&&centrality<0.40000000000000002
+pt: 25 - 400[GeV] 
+eta: -0.6 - -0.1
+centrality: 20 - 40[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 247 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 247
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 3314
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W- --> mu-.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 7037 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>-0.59999999999999998&&muonEta<-0.10000000000000001&&centrality>0.20000000000000001&&centrality<0.40000000000000002
+pt: 25 - 400[GeV] 
+eta: -0.6 - -0.1
+centrality: 20 - 40[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 209 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 209
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 3463
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W+ --> mu+.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 8410 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>-0.59999999999999998&&muonEta<-0.10000000000000001&&centrality>0.40000000000000002&&centrality<0.90000000000000002
+pt: 25 - 400[GeV] 
+eta: -0.6 - -0.1
+centrality: 40 - 90[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 252 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 252
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 3566
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W- --> mu-.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 7037 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>-0.59999999999999998&&muonEta<-0.10000000000000001&&centrality>0.40000000000000002&&centrality<0.90000000000000002
+pt: 25 - 400[GeV] 
+eta: -0.6 - -0.1
+centrality: 40 - 90[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 228 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 228
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 3691
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W+ --> mu+.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 8410 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>-0.10000000000000001&&muonEta<0.10000000000000001&&centrality>0&&centrality<0.050000000000000003
+pt: 25 - 400[GeV] 
+eta: -0.1 - 0.1
+centrality: 0 - 5[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 27 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 27
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 3593
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W- --> mu-.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 7037 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>-0.10000000000000001&&muonEta<0.10000000000000001&&centrality>0&&centrality<0.050000000000000003
+pt: 25 - 400[GeV] 
+eta: -0.1 - 0.1
+centrality: 0 - 5[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 22 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 22
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 3713
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W+ --> mu+.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 8410 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>-0.10000000000000001&&muonEta<0.10000000000000001&&centrality>0.050000000000000003&&centrality<0.10000000000000001
+pt: 25 - 400[GeV] 
+eta: -0.1 - 0.1
+centrality: 5 - 10[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 18 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 18
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 3611
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W- --> mu-.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 7037 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>-0.10000000000000001&&muonEta<0.10000000000000001&&centrality>0.050000000000000003&&centrality<0.10000000000000001
+pt: 25 - 400[GeV] 
+eta: -0.1 - 0.1
+centrality: 5 - 10[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 11 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 11
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 3724
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W+ --> mu+.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 8410 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>-0.10000000000000001&&muonEta<0.10000000000000001&&centrality>0.10000000000000001&&centrality<0.20000000000000001
+pt: 25 - 400[GeV] 
+eta: -0.1 - 0.1
+centrality: 10 - 20[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 39 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 39
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 3650
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W- --> mu-.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 7037 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>-0.10000000000000001&&muonEta<0.10000000000000001&&centrality>0.10000000000000001&&centrality<0.20000000000000001
+pt: 25 - 400[GeV] 
+eta: -0.1 - 0.1
+centrality: 10 - 20[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 26 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 26
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 3750
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W+ --> mu+.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 8410 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>-0.10000000000000001&&muonEta<0.10000000000000001&&centrality>0.20000000000000001&&centrality<0.40000000000000002
+pt: 25 - 400[GeV] 
+eta: -0.1 - 0.1
+centrality: 20 - 40[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 40 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 40
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 3690
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W- --> mu-.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 7037 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>-0.10000000000000001&&muonEta<0.10000000000000001&&centrality>0.20000000000000001&&centrality<0.40000000000000002
+pt: 25 - 400[GeV] 
+eta: -0.1 - 0.1
+centrality: 20 - 40[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 36 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 36
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 3786
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W+ --> mu+.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 8410 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>-0.10000000000000001&&muonEta<0.10000000000000001&&centrality>0.40000000000000002&&centrality<0.90000000000000002
+pt: 25 - 400[GeV] 
+eta: -0.1 - 0.1
+centrality: 40 - 90[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 48 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 48
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 3738
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W- --> mu-.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 7037 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>-0.10000000000000001&&muonEta<0.10000000000000001&&centrality>0.40000000000000002&&centrality<0.90000000000000002
+pt: 25 - 400[GeV] 
+eta: -0.1 - 0.1
+centrality: 40 - 90[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 43 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 43
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 3829
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W+ --> mu+.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 8410 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>0.10000000000000001&&muonEta<0.59999999999999998&&centrality>0&&centrality<0.050000000000000003
+pt: 25 - 400[GeV] 
+eta: 0.1 - 0.6
+centrality: 0 - 5[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 136 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 136
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 3874
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W- --> mu-.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 7037 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>0.10000000000000001&&muonEta<0.59999999999999998&&centrality>0&&centrality<0.050000000000000003
+pt: 25 - 400[GeV] 
+eta: 0.1 - 0.6
+centrality: 0 - 5[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 101 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 101
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 3930
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W+ --> mu+.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 8410 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>0.10000000000000001&&muonEta<0.59999999999999998&&centrality>0.050000000000000003&&centrality<0.10000000000000001
+pt: 25 - 400[GeV] 
+eta: 0.1 - 0.6
+centrality: 5 - 10[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 92 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 92
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 3966
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W- --> mu-.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 7037 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>0.10000000000000001&&muonEta<0.59999999999999998&&centrality>0.050000000000000003&&centrality<0.10000000000000001
+pt: 25 - 400[GeV] 
+eta: 0.1 - 0.6
+centrality: 5 - 10[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 91 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 91
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 4021
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W+ --> mu+.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 8410 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>0.10000000000000001&&muonEta<0.59999999999999998&&centrality>0.10000000000000001&&centrality<0.20000000000000001
+pt: 25 - 400[GeV] 
+eta: 0.1 - 0.6
+centrality: 10 - 20[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 179 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 179
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 4145
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W- --> mu-.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 7037 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>0.10000000000000001&&muonEta<0.59999999999999998&&centrality>0.10000000000000001&&centrality<0.20000000000000001
+pt: 25 - 400[GeV] 
+eta: 0.1 - 0.6
+centrality: 10 - 20[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 141 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 141
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 4162
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W+ --> mu+.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 8410 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>0.10000000000000001&&muonEta<0.59999999999999998&&centrality>0.20000000000000001&&centrality<0.40000000000000002
+pt: 25 - 400[GeV] 
+eta: 0.1 - 0.6
+centrality: 20 - 40[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 265 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 265
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 4410
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W- --> mu-.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 7037 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>0.10000000000000001&&muonEta<0.59999999999999998&&centrality>0.20000000000000001&&centrality<0.40000000000000002
+pt: 25 - 400[GeV] 
+eta: 0.1 - 0.6
+centrality: 20 - 40[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 196 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 196
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 4358
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W+ --> mu+.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 8410 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>0.10000000000000001&&muonEta<0.59999999999999998&&centrality>0.40000000000000002&&centrality<0.90000000000000002
+pt: 25 - 400[GeV] 
+eta: 0.1 - 0.6
+centrality: 40 - 90[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 266 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 266
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 4676
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W- --> mu-.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 7037 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>0.10000000000000001&&muonEta<0.59999999999999998&&centrality>0.40000000000000002&&centrality<0.90000000000000002
+pt: 25 - 400[GeV] 
+eta: 0.1 - 0.6
+centrality: 40 - 90[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 196 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 196
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 4554
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W+ --> mu+.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 8410 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>0.59999999999999998&&muonEta<1.05&&centrality>0&&centrality<0.050000000000000003
+pt: 25 - 400[GeV] 
+eta: 0.6 - 1.05
+centrality: 0 - 5[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 98 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 98
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 4774
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W- --> mu-.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 7037 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>0.59999999999999998&&muonEta<1.05&&centrality>0&&centrality<0.050000000000000003
+pt: 25 - 400[GeV] 
+eta: 0.6 - 1.05
+centrality: 0 - 5[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 59 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 59
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 4613
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W+ --> mu+.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 8410 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>0.59999999999999998&&muonEta<1.05&&centrality>0.050000000000000003&&centrality<0.10000000000000001
+pt: 25 - 400[GeV] 
+eta: 0.6 - 1.05
+centrality: 5 - 10[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 78 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 78
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 4852
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W- --> mu-.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 7037 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>0.59999999999999998&&muonEta<1.05&&centrality>0.050000000000000003&&centrality<0.10000000000000001
+pt: 25 - 400[GeV] 
+eta: 0.6 - 1.05
+centrality: 5 - 10[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 69 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 69
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 4682
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W+ --> mu+.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 8410 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>0.59999999999999998&&muonEta<1.05&&centrality>0.10000000000000001&&centrality<0.20000000000000001
+pt: 25 - 400[GeV] 
+eta: 0.6 - 1.05
+centrality: 10 - 20[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 123 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 123
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 4975
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W- --> mu-.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 7037 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>0.59999999999999998&&muonEta<1.05&&centrality>0.10000000000000001&&centrality<0.20000000000000001
+pt: 25 - 400[GeV] 
+eta: 0.6 - 1.05
+centrality: 10 - 20[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 106 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 106
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 4788
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W+ --> mu+.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 8410 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>0.59999999999999998&&muonEta<1.05&&centrality>0.20000000000000001&&centrality<0.40000000000000002
+pt: 25 - 400[GeV] 
+eta: 0.6 - 1.05
+centrality: 20 - 40[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 207 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 207
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 5182
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W- --> mu-.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 7037 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>0.59999999999999998&&muonEta<1.05&&centrality>0.20000000000000001&&centrality<0.40000000000000002
+pt: 25 - 400[GeV] 
+eta: 0.6 - 1.05
+centrality: 20 - 40[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 149 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 149
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 4937
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W+ --> mu+.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 8410 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>0.59999999999999998&&muonEta<1.05&&centrality>0.40000000000000002&&centrality<0.90000000000000002
+pt: 25 - 400[GeV] 
+eta: 0.6 - 1.05
+centrality: 40 - 90[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 213 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 213
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 5395
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W- --> mu-.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 7037 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>0.59999999999999998&&muonEta<1.05&&centrality>0.40000000000000002&&centrality<0.90000000000000002
+pt: 25 - 400[GeV] 
+eta: 0.6 - 1.05
+centrality: 40 - 90[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 161 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 161
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 5098
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W+ --> mu+.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 8410 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>1.05&&muonEta<1.55&&centrality>0&&centrality<0.050000000000000003
+pt: 25 - 400[GeV] 
+eta: 1.05 - 1.55
+centrality: 0 - 5[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 131 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 131
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 5526
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W- --> mu-.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 7037 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>1.05&&muonEta<1.55&&centrality>0&&centrality<0.050000000000000003
+pt: 25 - 400[GeV] 
+eta: 1.05 - 1.55
+centrality: 0 - 5[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 96 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 96
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 5194
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W+ --> mu+.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 8410 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>1.05&&muonEta<1.55&&centrality>0.050000000000000003&&centrality<0.10000000000000001
+pt: 25 - 400[GeV] 
+eta: 1.05 - 1.55
+centrality: 5 - 10[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 107 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 107
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 5633
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W- --> mu-.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 7037 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>1.05&&muonEta<1.55&&centrality>0.050000000000000003&&centrality<0.10000000000000001
+pt: 25 - 400[GeV] 
+eta: 1.05 - 1.55
+centrality: 5 - 10[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 81 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 81
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 5275
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W+ --> mu+.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 8410 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>1.05&&muonEta<1.55&&centrality>0.10000000000000001&&centrality<0.20000000000000001
+pt: 25 - 400[GeV] 
+eta: 1.05 - 1.55
+centrality: 10 - 20[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 194 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 194
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 5827
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W- --> mu-.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 7037 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>1.05&&muonEta<1.55&&centrality>0.10000000000000001&&centrality<0.20000000000000001
+pt: 25 - 400[GeV] 
+eta: 1.05 - 1.55
+centrality: 10 - 20[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 131 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 131
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 5406
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W+ --> mu+.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 8410 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>1.05&&muonEta<1.55&&centrality>0.20000000000000001&&centrality<0.40000000000000002
+pt: 25 - 400[GeV] 
+eta: 1.05 - 1.55
+centrality: 20 - 40[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 313 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 313
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 6140
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W- --> mu-.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 7037 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>1.05&&muonEta<1.55&&centrality>0.20000000000000001&&centrality<0.40000000000000002
+pt: 25 - 400[GeV] 
+eta: 1.05 - 1.55
+centrality: 20 - 40[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 195 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 195
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 5601
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W+ --> mu+.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 8410 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>1.05&&muonEta<1.55&&centrality>0.40000000000000002&&centrality<0.90000000000000002
+pt: 25 - 400[GeV] 
+eta: 1.05 - 1.55
+centrality: 40 - 90[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 342 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 342
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 6482
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W- --> mu-.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 7037 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>1.05&&muonEta<1.55&&centrality>0.40000000000000002&&centrality<0.90000000000000002
+pt: 25 - 400[GeV] 
+eta: 1.05 - 1.55
+centrality: 40 - 90[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 214 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 214
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 5815
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W+ --> mu+.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 8410 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>1.55&&muonEta<2.1000000000000001&&centrality>0&&centrality<0.050000000000000003
+pt: 25 - 400[GeV] 
+eta: 1.55 - 2.1
+centrality: 0 - 5[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 130 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 130
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 6612
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W- --> mu-.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 7037 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>1.55&&muonEta<2.1000000000000001&&centrality>0&&centrality<0.050000000000000003
+pt: 25 - 400[GeV] 
+eta: 1.55 - 2.1
+centrality: 0 - 5[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 91 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 91
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 5906
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W+ --> mu+.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 8410 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>1.55&&muonEta<2.1000000000000001&&centrality>0.050000000000000003&&centrality<0.10000000000000001
+pt: 25 - 400[GeV] 
+eta: 1.55 - 2.1
+centrality: 5 - 10[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 119 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 119
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 6731
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W- --> mu-.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 7037 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>1.55&&muonEta<2.1000000000000001&&centrality>0.050000000000000003&&centrality<0.10000000000000001
+pt: 25 - 400[GeV] 
+eta: 1.55 - 2.1
+centrality: 5 - 10[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 75 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 75
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 5981
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W+ --> mu+.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 8410 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>1.55&&muonEta<2.1000000000000001&&centrality>0.10000000000000001&&centrality<0.20000000000000001
+pt: 25 - 400[GeV] 
+eta: 1.55 - 2.1
+centrality: 10 - 20[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 202 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 202
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 6933
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W- --> mu-.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 7037 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>1.55&&muonEta<2.1000000000000001&&centrality>0.10000000000000001&&centrality<0.20000000000000001
+pt: 25 - 400[GeV] 
+eta: 1.55 - 2.1
+centrality: 10 - 20[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 139 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 139
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 6120
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W+ --> mu+.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 8410 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>1.55&&muonEta<2.1000000000000001&&centrality>0.20000000000000001&&centrality<0.40000000000000002
+pt: 25 - 400[GeV] 
+eta: 1.55 - 2.1
+centrality: 20 - 40[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 347 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 347
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 7280
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W- --> mu-.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 7037 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>1.55&&muonEta<2.1000000000000001&&centrality>0.20000000000000001&&centrality<0.40000000000000002
+pt: 25 - 400[GeV] 
+eta: 1.55 - 2.1
+centrality: 20 - 40[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 216 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 216
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 6336
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W+ --> mu+.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 8410 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>1.55&&muonEta<2.1000000000000001&&centrality>0.40000000000000002&&centrality<0.90000000000000002
+pt: 25 - 400[GeV] 
+eta: 1.55 - 2.1
+centrality: 40 - 90[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 412 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 412
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 7692
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W- --> mu-.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 7037 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>1.55&&muonEta<2.1000000000000001&&centrality>0.40000000000000002&&centrality<0.90000000000000002
+pt: 25 - 400[GeV] 
+eta: 1.55 - 2.1
+centrality: 40 - 90[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 280 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 280
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 6616
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W+ --> mu+.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 8410 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>2.1000000000000001&&muonEta<2.5&&centrality>0&&centrality<0.050000000000000003
+pt: 25 - 400[GeV] 
+eta: 2.1 - 2.5
+centrality: 0 - 5[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 62 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 62
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 7754
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W- --> mu-.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 7037 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>2.1000000000000001&&muonEta<2.5&&centrality>0&&centrality<0.050000000000000003
+pt: 25 - 400[GeV] 
+eta: 2.1 - 2.5
+centrality: 0 - 5[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 40 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 40
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 6656
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W+ --> mu+.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 8410 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>2.1000000000000001&&muonEta<2.5&&centrality>0.050000000000000003&&centrality<0.10000000000000001
+pt: 25 - 400[GeV] 
+eta: 2.1 - 2.5
+centrality: 5 - 10[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 67 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 67
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 7821
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W- --> mu-.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 7037 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>2.1000000000000001&&muonEta<2.5&&centrality>0.050000000000000003&&centrality<0.10000000000000001
+pt: 25 - 400[GeV] 
+eta: 2.1 - 2.5
+centrality: 5 - 10[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 52 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 52
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 6708
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W+ --> mu+.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 8410 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>2.1000000000000001&&muonEta<2.5&&centrality>0.10000000000000001&&centrality<0.20000000000000001
+pt: 25 - 400[GeV] 
+eta: 2.1 - 2.5
+centrality: 10 - 20[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 126 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 126
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 7947
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W- --> mu-.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 7037 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>2.1000000000000001&&muonEta<2.5&&centrality>0.10000000000000001&&centrality<0.20000000000000001
+pt: 25 - 400[GeV] 
+eta: 2.1 - 2.5
+centrality: 10 - 20[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 70 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 70
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 6778
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W+ --> mu+.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 8410 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>2.1000000000000001&&muonEta<2.5&&centrality>0.20000000000000001&&centrality<0.40000000000000002
+pt: 25 - 400[GeV] 
+eta: 2.1 - 2.5
+centrality: 20 - 40[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 232 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 232
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 8179
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W- --> mu-.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 7037 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>2.1000000000000001&&muonEta<2.5&&centrality>0.20000000000000001&&centrality<0.40000000000000002
+pt: 25 - 400[GeV] 
+eta: 2.1 - 2.5
+centrality: 20 - 40[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 121 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 121
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 6899
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W+ --> mu+.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 8410 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>2.1000000000000001&&muonEta<2.5&&centrality>0.40000000000000002&&centrality<0.90000000000000002
+pt: 25 - 400[GeV] 
+eta: 2.1 - 2.5
+centrality: 40 - 90[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 231 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 231
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 8410
+[WAnalysisTool::WAnalysisTool] Dataset initialized.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15618 entries
+[WAnalysisTool::ApplySelectionCuts] Applying selection cuts.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 15447 entries
+[WAnalysisTool::ApplySelectionCuts] W- --> mu-.
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 7037 entries
+[WAnalysisTool::SelectPtEtaCentrality]
+Pt:Eta:Centrality cuts: muonPt>25&&muonPt<400&&muonEta>2.1000000000000001&&muonEta<2.5&&centrality>0.40000000000000002&&centrality<0.90000000000000002
+pt: 25 - 400[GeV] 
+eta: 2.1 - 2.5
+centrality: 40 - 90[%]
+RooDataSet::ntupleW.07.15.2014.root[muonEta,muonPt,missEt,muonMt,isolationMu,centrality,chargeCategory] = 138 entries
+[WAnalysisTool::FillHistogram] Initializing histograms...
+found object: hntupleW.07.15.2014.root__muonEta
+binning in range: [-2.5,2.5]
+bins in hntupleW.07.15.2014.root__muonEta: 11
+Bin low: 1 Bin upp: 12
+[WAnalysisTool::FillHistogram] Number of observed signal candidates: 138
+[WAnalysisTool::GetHistogram] Retrieving histogram.
+Current integral of cumulative histogram: 7037
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WAnalysisTool::~WAnalysisTool] Dtor. 
+[WBookKeeper::~WBookKeeper] Dtor.

@@ -1,0 +1,2892 @@
+[EfficiencyCorrection::EfficiencyCorrection] Running on pp collisions.
+[EfficiencyCorrection::EfficiencyCorrection] Period A configuration.
+[EfficiencyCorrection::EfficiencyCorrection] Initializing histograms for 1 pt bins, 11 eta bins, 7 centrality bins.
+[EfficiencyCorrection::EfficiencyCorrection] Run to calculate Cw efficiency.
+[EfficiencyCorrection::EfficiencyCorrection] W- --> mu- nu~
+[EfficiencyCorrection::EfficiencyCorrection] Histograms initialized and ready for use.
+Number of entries in generator tree: 278258
+Number of entries in reconstructed tree: 93570
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.6332
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.62763
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.41673
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.1335
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.914574
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.69965
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.564082
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.6332
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.62763
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.41673
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.1335
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.914574
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.69965
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.564082
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.6332
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.62763
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.41673
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.1335
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.914574
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.69965
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.564082
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.6332
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.62763
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.41673
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.1335
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.914574
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.69965
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.564082
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.6332
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.62763
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.41673
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.1335
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.914574
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.69965
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.564082
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.6332
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.62763
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.41673
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.1335
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.914574
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.69965
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.564082
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.6332
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.62763
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.41673
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.1335
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.914574
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.69965
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.564082
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.6332
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.62763
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.41673
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.1335
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.914574
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.69965
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.564082
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.6332
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.62763
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.41673
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.1335
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.914574
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.69965
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.564082
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.6332
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.62763
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.41673
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.1335
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.914574
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.69965
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.564082
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.6332
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.62763
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.41673
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.1335
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.914574
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.69965
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.564082
+Writing pp_A_Cw_hNegPass_pt0_eta0_cent0
+Writing pp_A_Cw_hNegPass_pt0_eta0_cent1
+Writing pp_A_Cw_hNegPass_pt0_eta0_cent2
+Writing pp_A_Cw_hNegPass_pt0_eta0_cent3
+Writing pp_A_Cw_hNegPass_pt0_eta0_cent4
+Writing pp_A_Cw_hNegPass_pt0_eta0_cent5
+Writing pp_A_Cw_hNegPass_pt0_eta0_cent6
+Writing pp_A_Cw_hNegPass_pt0_eta10_cent0
+Writing pp_A_Cw_hNegPass_pt0_eta10_cent1
+Writing pp_A_Cw_hNegPass_pt0_eta10_cent2
+Writing pp_A_Cw_hNegPass_pt0_eta10_cent3
+Writing pp_A_Cw_hNegPass_pt0_eta10_cent4
+Writing pp_A_Cw_hNegPass_pt0_eta10_cent5
+Writing pp_A_Cw_hNegPass_pt0_eta10_cent6
+Writing pp_A_Cw_hNegPass_pt0_eta1_cent0
+Writing pp_A_Cw_hNegPass_pt0_eta1_cent1
+Writing pp_A_Cw_hNegPass_pt0_eta1_cent2
+Writing pp_A_Cw_hNegPass_pt0_eta1_cent3
+Writing pp_A_Cw_hNegPass_pt0_eta1_cent4
+Writing pp_A_Cw_hNegPass_pt0_eta1_cent5
+Writing pp_A_Cw_hNegPass_pt0_eta1_cent6
+Writing pp_A_Cw_hNegPass_pt0_eta2_cent0
+Writing pp_A_Cw_hNegPass_pt0_eta2_cent1
+Writing pp_A_Cw_hNegPass_pt0_eta2_cent2
+Writing pp_A_Cw_hNegPass_pt0_eta2_cent3
+Writing pp_A_Cw_hNegPass_pt0_eta2_cent4
+Writing pp_A_Cw_hNegPass_pt0_eta2_cent5
+Writing pp_A_Cw_hNegPass_pt0_eta2_cent6
+Writing pp_A_Cw_hNegPass_pt0_eta3_cent0
+Writing pp_A_Cw_hNegPass_pt0_eta3_cent1
+Writing pp_A_Cw_hNegPass_pt0_eta3_cent2
+Writing pp_A_Cw_hNegPass_pt0_eta3_cent3
+Writing pp_A_Cw_hNegPass_pt0_eta3_cent4
+Writing pp_A_Cw_hNegPass_pt0_eta3_cent5
+Writing pp_A_Cw_hNegPass_pt0_eta3_cent6
+Writing pp_A_Cw_hNegPass_pt0_eta4_cent0
+Writing pp_A_Cw_hNegPass_pt0_eta4_cent1
+Writing pp_A_Cw_hNegPass_pt0_eta4_cent2
+Writing pp_A_Cw_hNegPass_pt0_eta4_cent3
+Writing pp_A_Cw_hNegPass_pt0_eta4_cent4
+Writing pp_A_Cw_hNegPass_pt0_eta4_cent5
+Writing pp_A_Cw_hNegPass_pt0_eta4_cent6
+Writing pp_A_Cw_hNegPass_pt0_eta5_cent0
+Writing pp_A_Cw_hNegPass_pt0_eta5_cent1
+Writing pp_A_Cw_hNegPass_pt0_eta5_cent2
+Writing pp_A_Cw_hNegPass_pt0_eta5_cent3
+Writing pp_A_Cw_hNegPass_pt0_eta5_cent4
+Writing pp_A_Cw_hNegPass_pt0_eta5_cent5
+Writing pp_A_Cw_hNegPass_pt0_eta5_cent6
+Writing pp_A_Cw_hNegPass_pt0_eta6_cent0
+Writing pp_A_Cw_hNegPass_pt0_eta6_cent1
+Writing pp_A_Cw_hNegPass_pt0_eta6_cent2
+Writing pp_A_Cw_hNegPass_pt0_eta6_cent3
+Writing pp_A_Cw_hNegPass_pt0_eta6_cent4
+Writing pp_A_Cw_hNegPass_pt0_eta6_cent5
+Writing pp_A_Cw_hNegPass_pt0_eta6_cent6
+Writing pp_A_Cw_hNegPass_pt0_eta7_cent0
+Writing pp_A_Cw_hNegPass_pt0_eta7_cent1
+Writing pp_A_Cw_hNegPass_pt0_eta7_cent2
+Writing pp_A_Cw_hNegPass_pt0_eta7_cent3
+Writing pp_A_Cw_hNegPass_pt0_eta7_cent4
+Writing pp_A_Cw_hNegPass_pt0_eta7_cent5
+Writing pp_A_Cw_hNegPass_pt0_eta7_cent6
+Writing pp_A_Cw_hNegPass_pt0_eta8_cent0
+Writing pp_A_Cw_hNegPass_pt0_eta8_cent1
+Writing pp_A_Cw_hNegPass_pt0_eta8_cent2
+Writing pp_A_Cw_hNegPass_pt0_eta8_cent3
+Writing pp_A_Cw_hNegPass_pt0_eta8_cent4
+Writing pp_A_Cw_hNegPass_pt0_eta8_cent5
+Writing pp_A_Cw_hNegPass_pt0_eta8_cent6
+Writing pp_A_Cw_hNegPass_pt0_eta9_cent0
+Writing pp_A_Cw_hNegPass_pt0_eta9_cent1
+Writing pp_A_Cw_hNegPass_pt0_eta9_cent2
+Writing pp_A_Cw_hNegPass_pt0_eta9_cent3
+Writing pp_A_Cw_hNegPass_pt0_eta9_cent4
+Writing pp_A_Cw_hNegPass_pt0_eta9_cent5
+Writing pp_A_Cw_hNegPass_pt0_eta9_cent6
+Writing pp_A_Cw_hNegTot_pt0_eta0_cent0
+Writing pp_A_Cw_hNegEff_pt0_eta0_cent0
+Writing pp_A_Cw_hNegTot_pt0_eta0_cent1
+Writing pp_A_Cw_hNegEff_pt0_eta0_cent1
+Writing pp_A_Cw_hNegTot_pt0_eta0_cent2
+Writing pp_A_Cw_hNegEff_pt0_eta0_cent2
+Writing pp_A_Cw_hNegTot_pt0_eta0_cent3
+Writing pp_A_Cw_hNegEff_pt0_eta0_cent3
+Writing pp_A_Cw_hNegTot_pt0_eta0_cent4
+Writing pp_A_Cw_hNegEff_pt0_eta0_cent4
+Writing pp_A_Cw_hNegTot_pt0_eta0_cent5
+Writing pp_A_Cw_hNegEff_pt0_eta0_cent5
+Writing pp_A_Cw_hNegTot_pt0_eta0_cent6
+Writing pp_A_Cw_hNegEff_pt0_eta0_cent6
+Writing pp_A_Cw_hNegTot_pt0_eta10_cent0
+Writing pp_A_Cw_hNegEff_pt0_eta10_cent0
+Writing pp_A_Cw_hNegTot_pt0_eta10_cent1
+Writing pp_A_Cw_hNegEff_pt0_eta10_cent1
+Writing pp_A_Cw_hNegTot_pt0_eta10_cent2
+Writing pp_A_Cw_hNegEff_pt0_eta10_cent2
+Writing pp_A_Cw_hNegTot_pt0_eta10_cent3
+Writing pp_A_Cw_hNegEff_pt0_eta10_cent3
+Writing pp_A_Cw_hNegTot_pt0_eta10_cent4
+Writing pp_A_Cw_hNegEff_pt0_eta10_cent4
+Writing pp_A_Cw_hNegTot_pt0_eta10_cent5
+Writing pp_A_Cw_hNegEff_pt0_eta10_cent5
+Writing pp_A_Cw_hNegTot_pt0_eta10_cent6
+Writing pp_A_Cw_hNegEff_pt0_eta10_cent6
+Writing pp_A_Cw_hNegTot_pt0_eta1_cent0
+Writing pp_A_Cw_hNegEff_pt0_eta1_cent0
+Writing pp_A_Cw_hNegTot_pt0_eta1_cent1
+Writing pp_A_Cw_hNegEff_pt0_eta1_cent1
+Writing pp_A_Cw_hNegTot_pt0_eta1_cent2
+Writing pp_A_Cw_hNegEff_pt0_eta1_cent2
+Writing pp_A_Cw_hNegTot_pt0_eta1_cent3
+Writing pp_A_Cw_hNegEff_pt0_eta1_cent3
+Writing pp_A_Cw_hNegTot_pt0_eta1_cent4
+Writing pp_A_Cw_hNegEff_pt0_eta1_cent4
+Writing pp_A_Cw_hNegTot_pt0_eta1_cent5
+Writing pp_A_Cw_hNegEff_pt0_eta1_cent5
+Writing pp_A_Cw_hNegTot_pt0_eta1_cent6
+Writing pp_A_Cw_hNegEff_pt0_eta1_cent6
+Writing pp_A_Cw_hNegTot_pt0_eta2_cent0
+Writing pp_A_Cw_hNegEff_pt0_eta2_cent0
+Writing pp_A_Cw_hNegTot_pt0_eta2_cent1
+Writing pp_A_Cw_hNegEff_pt0_eta2_cent1
+Writing pp_A_Cw_hNegTot_pt0_eta2_cent2
+Writing pp_A_Cw_hNegEff_pt0_eta2_cent2
+Writing pp_A_Cw_hNegTot_pt0_eta2_cent3
+Writing pp_A_Cw_hNegEff_pt0_eta2_cent3
+Writing pp_A_Cw_hNegTot_pt0_eta2_cent4
+Writing pp_A_Cw_hNegEff_pt0_eta2_cent4
+Writing pp_A_Cw_hNegTot_pt0_eta2_cent5
+Writing pp_A_Cw_hNegEff_pt0_eta2_cent5
+Writing pp_A_Cw_hNegTot_pt0_eta2_cent6
+Writing pp_A_Cw_hNegEff_pt0_eta2_cent6
+Writing pp_A_Cw_hNegTot_pt0_eta3_cent0
+Writing pp_A_Cw_hNegEff_pt0_eta3_cent0
+Writing pp_A_Cw_hNegTot_pt0_eta3_cent1
+Writing pp_A_Cw_hNegEff_pt0_eta3_cent1
+Writing pp_A_Cw_hNegTot_pt0_eta3_cent2
+Writing pp_A_Cw_hNegEff_pt0_eta3_cent2
+Writing pp_A_Cw_hNegTot_pt0_eta3_cent3
+Writing pp_A_Cw_hNegEff_pt0_eta3_cent3
+Writing pp_A_Cw_hNegTot_pt0_eta3_cent4
+Writing pp_A_Cw_hNegEff_pt0_eta3_cent4
+Writing pp_A_Cw_hNegTot_pt0_eta3_cent5
+Writing pp_A_Cw_hNegEff_pt0_eta3_cent5
+Writing pp_A_Cw_hNegTot_pt0_eta3_cent6
+Writing pp_A_Cw_hNegEff_pt0_eta3_cent6
+Writing pp_A_Cw_hNegTot_pt0_eta4_cent0
+Writing pp_A_Cw_hNegEff_pt0_eta4_cent0
+Writing pp_A_Cw_hNegTot_pt0_eta4_cent1
+Writing pp_A_Cw_hNegEff_pt0_eta4_cent1
+Writing pp_A_Cw_hNegTot_pt0_eta4_cent2
+Writing pp_A_Cw_hNegEff_pt0_eta4_cent2
+Writing pp_A_Cw_hNegTot_pt0_eta4_cent3
+Writing pp_A_Cw_hNegEff_pt0_eta4_cent3
+Writing pp_A_Cw_hNegTot_pt0_eta4_cent4
+Writing pp_A_Cw_hNegEff_pt0_eta4_cent4
+Writing pp_A_Cw_hNegTot_pt0_eta4_cent5
+Writing pp_A_Cw_hNegEff_pt0_eta4_cent5
+Writing pp_A_Cw_hNegTot_pt0_eta4_cent6
+Writing pp_A_Cw_hNegEff_pt0_eta4_cent6
+Writing pp_A_Cw_hNegTot_pt0_eta5_cent0
+Writing pp_A_Cw_hNegEff_pt0_eta5_cent0
+Writing pp_A_Cw_hNegTot_pt0_eta5_cent1
+Writing pp_A_Cw_hNegEff_pt0_eta5_cent1
+Writing pp_A_Cw_hNegTot_pt0_eta5_cent2
+Writing pp_A_Cw_hNegEff_pt0_eta5_cent2
+Writing pp_A_Cw_hNegTot_pt0_eta5_cent3
+Writing pp_A_Cw_hNegEff_pt0_eta5_cent3
+Writing pp_A_Cw_hNegTot_pt0_eta5_cent4
+Writing pp_A_Cw_hNegEff_pt0_eta5_cent4
+Writing pp_A_Cw_hNegTot_pt0_eta5_cent5
+Writing pp_A_Cw_hNegEff_pt0_eta5_cent5
+Writing pp_A_Cw_hNegTot_pt0_eta5_cent6
+Writing pp_A_Cw_hNegEff_pt0_eta5_cent6
+Writing pp_A_Cw_hNegTot_pt0_eta6_cent0
+Writing pp_A_Cw_hNegEff_pt0_eta6_cent0
+Writing pp_A_Cw_hNegTot_pt0_eta6_cent1
+Writing pp_A_Cw_hNegEff_pt0_eta6_cent1
+Writing pp_A_Cw_hNegTot_pt0_eta6_cent2
+Writing pp_A_Cw_hNegEff_pt0_eta6_cent2
+Writing pp_A_Cw_hNegTot_pt0_eta6_cent3
+Writing pp_A_Cw_hNegEff_pt0_eta6_cent3
+Writing pp_A_Cw_hNegTot_pt0_eta6_cent4
+Writing pp_A_Cw_hNegEff_pt0_eta6_cent4
+Writing pp_A_Cw_hNegTot_pt0_eta6_cent5
+Writing pp_A_Cw_hNegEff_pt0_eta6_cent5
+Writing pp_A_Cw_hNegTot_pt0_eta6_cent6
+Writing pp_A_Cw_hNegEff_pt0_eta6_cent6
+Writing pp_A_Cw_hNegTot_pt0_eta7_cent0
+Writing pp_A_Cw_hNegEff_pt0_eta7_cent0
+Writing pp_A_Cw_hNegTot_pt0_eta7_cent1
+Writing pp_A_Cw_hNegEff_pt0_eta7_cent1
+Writing pp_A_Cw_hNegTot_pt0_eta7_cent2
+Writing pp_A_Cw_hNegEff_pt0_eta7_cent2
+Writing pp_A_Cw_hNegTot_pt0_eta7_cent3
+Writing pp_A_Cw_hNegEff_pt0_eta7_cent3
+Writing pp_A_Cw_hNegTot_pt0_eta7_cent4
+Writing pp_A_Cw_hNegEff_pt0_eta7_cent4
+Writing pp_A_Cw_hNegTot_pt0_eta7_cent5
+Writing pp_A_Cw_hNegEff_pt0_eta7_cent5
+Writing pp_A_Cw_hNegTot_pt0_eta7_cent6
+Writing pp_A_Cw_hNegEff_pt0_eta7_cent6
+Writing pp_A_Cw_hNegTot_pt0_eta8_cent0
+Writing pp_A_Cw_hNegEff_pt0_eta8_cent0
+Writing pp_A_Cw_hNegTot_pt0_eta8_cent1
+Writing pp_A_Cw_hNegEff_pt0_eta8_cent1
+Writing pp_A_Cw_hNegTot_pt0_eta8_cent2
+Writing pp_A_Cw_hNegEff_pt0_eta8_cent2
+Writing pp_A_Cw_hNegTot_pt0_eta8_cent3
+Writing pp_A_Cw_hNegEff_pt0_eta8_cent3
+Writing pp_A_Cw_hNegTot_pt0_eta8_cent4
+Writing pp_A_Cw_hNegEff_pt0_eta8_cent4
+Writing pp_A_Cw_hNegTot_pt0_eta8_cent5
+Writing pp_A_Cw_hNegEff_pt0_eta8_cent5
+Writing pp_A_Cw_hNegTot_pt0_eta8_cent6
+Writing pp_A_Cw_hNegEff_pt0_eta8_cent6
+Writing pp_A_Cw_hNegTot_pt0_eta9_cent0
+Writing pp_A_Cw_hNegEff_pt0_eta9_cent0
+Writing pp_A_Cw_hNegTot_pt0_eta9_cent1
+Writing pp_A_Cw_hNegEff_pt0_eta9_cent1
+Writing pp_A_Cw_hNegTot_pt0_eta9_cent2
+Writing pp_A_Cw_hNegEff_pt0_eta9_cent2
+Writing pp_A_Cw_hNegTot_pt0_eta9_cent3
+Writing pp_A_Cw_hNegEff_pt0_eta9_cent3
+Writing pp_A_Cw_hNegTot_pt0_eta9_cent4
+Writing pp_A_Cw_hNegEff_pt0_eta9_cent4
+Writing pp_A_Cw_hNegTot_pt0_eta9_cent5
+Writing pp_A_Cw_hNegEff_pt0_eta9_cent5
+Writing pp_A_Cw_hNegTot_pt0_eta9_cent6
+Writing pp_A_Cw_hNegEff_pt0_eta9_cent6
+Writing pp_A_Cw_hNegEff_pt0_cent0
+Writing pp_A_Cw_hNegEff_pt0_cent1
+Writing pp_A_Cw_hNegEff_pt0_cent2
+Writing pp_A_Cw_hNegEff_pt0_cent3
+Writing pp_A_Cw_hNegEff_pt0_cent4
+Writing pp_A_Cw_hNegEff_pt0_cent5
+Writing pp_A_Cw_hNegEff_pt0_cent6
+[EfficiencyCorrection::EfficiencyCorrection] Running on np collisions.
+[EfficiencyCorrection::EfficiencyCorrection] Period A configuration.
+[EfficiencyCorrection::EfficiencyCorrection] Initializing histograms for 1 pt bins, 11 eta bins, 7 centrality bins.
+[EfficiencyCorrection::EfficiencyCorrection] Run to calculate Cw efficiency.
+[EfficiencyCorrection::EfficiencyCorrection] W- --> mu- nu~
+[EfficiencyCorrection::EfficiencyCorrection] Histograms initialized and ready for use.
+Number of entries in generator tree: 146234
+Number of entries in reconstructed tree: 43818
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.6332
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.62763
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.41673
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.1335
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.914574
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.69965
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.564082
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.6332
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.62763
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.41673
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.1335
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.914574
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.69965
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.564082
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.6332
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.62763
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.41673
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.1335
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.914574
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.69965
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.564082
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.6332
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.62763
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.41673
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.1335
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.914574
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.69965
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.564082
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.6332
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.62763
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.41673
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.1335
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.914574
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.69965
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.564082
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.6332
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.62763
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.41673
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.1335
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.914574
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.69965
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.564082
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.6332
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.62763
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.41673
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.1335
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.914574
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.69965
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.564082
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.6332
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.62763
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.41673
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.1335
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.914574
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.69965
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.564082
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.6332
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.62763
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.41673
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.1335
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.914574
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.69965
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.564082
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.6332
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.62763
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.41673
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.1335
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.914574
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.69965
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.564082
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.6332
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.62763
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.41673
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.1335
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.914574
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.69965
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.564082
+Writing np_A_Cw_hNegPass_pt0_eta0_cent0
+Writing np_A_Cw_hNegPass_pt0_eta0_cent1
+Writing np_A_Cw_hNegPass_pt0_eta0_cent2
+Writing np_A_Cw_hNegPass_pt0_eta0_cent3
+Writing np_A_Cw_hNegPass_pt0_eta0_cent4
+Writing np_A_Cw_hNegPass_pt0_eta0_cent5
+Writing np_A_Cw_hNegPass_pt0_eta0_cent6
+Writing np_A_Cw_hNegPass_pt0_eta10_cent0
+Writing np_A_Cw_hNegPass_pt0_eta10_cent1
+Writing np_A_Cw_hNegPass_pt0_eta10_cent2
+Writing np_A_Cw_hNegPass_pt0_eta10_cent3
+Writing np_A_Cw_hNegPass_pt0_eta10_cent4
+Writing np_A_Cw_hNegPass_pt0_eta10_cent5
+Writing np_A_Cw_hNegPass_pt0_eta10_cent6
+Writing np_A_Cw_hNegPass_pt0_eta1_cent0
+Writing np_A_Cw_hNegPass_pt0_eta1_cent1
+Writing np_A_Cw_hNegPass_pt0_eta1_cent2
+Writing np_A_Cw_hNegPass_pt0_eta1_cent3
+Writing np_A_Cw_hNegPass_pt0_eta1_cent4
+Writing np_A_Cw_hNegPass_pt0_eta1_cent5
+Writing np_A_Cw_hNegPass_pt0_eta1_cent6
+Writing np_A_Cw_hNegPass_pt0_eta2_cent0
+Writing np_A_Cw_hNegPass_pt0_eta2_cent1
+Writing np_A_Cw_hNegPass_pt0_eta2_cent2
+Writing np_A_Cw_hNegPass_pt0_eta2_cent3
+Writing np_A_Cw_hNegPass_pt0_eta2_cent4
+Writing np_A_Cw_hNegPass_pt0_eta2_cent5
+Writing np_A_Cw_hNegPass_pt0_eta2_cent6
+Writing np_A_Cw_hNegPass_pt0_eta3_cent0
+Writing np_A_Cw_hNegPass_pt0_eta3_cent1
+Writing np_A_Cw_hNegPass_pt0_eta3_cent2
+Writing np_A_Cw_hNegPass_pt0_eta3_cent3
+Writing np_A_Cw_hNegPass_pt0_eta3_cent4
+Writing np_A_Cw_hNegPass_pt0_eta3_cent5
+Writing np_A_Cw_hNegPass_pt0_eta3_cent6
+Writing np_A_Cw_hNegPass_pt0_eta4_cent0
+Writing np_A_Cw_hNegPass_pt0_eta4_cent1
+Writing np_A_Cw_hNegPass_pt0_eta4_cent2
+Writing np_A_Cw_hNegPass_pt0_eta4_cent3
+Writing np_A_Cw_hNegPass_pt0_eta4_cent4
+Writing np_A_Cw_hNegPass_pt0_eta4_cent5
+Writing np_A_Cw_hNegPass_pt0_eta4_cent6
+Writing np_A_Cw_hNegPass_pt0_eta5_cent0
+Writing np_A_Cw_hNegPass_pt0_eta5_cent1
+Writing np_A_Cw_hNegPass_pt0_eta5_cent2
+Writing np_A_Cw_hNegPass_pt0_eta5_cent3
+Writing np_A_Cw_hNegPass_pt0_eta5_cent4
+Writing np_A_Cw_hNegPass_pt0_eta5_cent5
+Writing np_A_Cw_hNegPass_pt0_eta5_cent6
+Writing np_A_Cw_hNegPass_pt0_eta6_cent0
+Writing np_A_Cw_hNegPass_pt0_eta6_cent1
+Writing np_A_Cw_hNegPass_pt0_eta6_cent2
+Writing np_A_Cw_hNegPass_pt0_eta6_cent3
+Writing np_A_Cw_hNegPass_pt0_eta6_cent4
+Writing np_A_Cw_hNegPass_pt0_eta6_cent5
+Writing np_A_Cw_hNegPass_pt0_eta6_cent6
+Writing np_A_Cw_hNegPass_pt0_eta7_cent0
+Writing np_A_Cw_hNegPass_pt0_eta7_cent1
+Writing np_A_Cw_hNegPass_pt0_eta7_cent2
+Writing np_A_Cw_hNegPass_pt0_eta7_cent3
+Writing np_A_Cw_hNegPass_pt0_eta7_cent4
+Writing np_A_Cw_hNegPass_pt0_eta7_cent5
+Writing np_A_Cw_hNegPass_pt0_eta7_cent6
+Writing np_A_Cw_hNegPass_pt0_eta8_cent0
+Writing np_A_Cw_hNegPass_pt0_eta8_cent1
+Writing np_A_Cw_hNegPass_pt0_eta8_cent2
+Writing np_A_Cw_hNegPass_pt0_eta8_cent3
+Writing np_A_Cw_hNegPass_pt0_eta8_cent4
+Writing np_A_Cw_hNegPass_pt0_eta8_cent5
+Writing np_A_Cw_hNegPass_pt0_eta8_cent6
+Writing np_A_Cw_hNegPass_pt0_eta9_cent0
+Writing np_A_Cw_hNegPass_pt0_eta9_cent1
+Writing np_A_Cw_hNegPass_pt0_eta9_cent2
+Writing np_A_Cw_hNegPass_pt0_eta9_cent3
+Writing np_A_Cw_hNegPass_pt0_eta9_cent4
+Writing np_A_Cw_hNegPass_pt0_eta9_cent5
+Writing np_A_Cw_hNegPass_pt0_eta9_cent6
+Writing np_A_Cw_hNegTot_pt0_eta0_cent0
+Writing np_A_Cw_hNegEff_pt0_eta0_cent0
+Writing np_A_Cw_hNegTot_pt0_eta0_cent1
+Writing np_A_Cw_hNegEff_pt0_eta0_cent1
+Writing np_A_Cw_hNegTot_pt0_eta0_cent2
+Writing np_A_Cw_hNegEff_pt0_eta0_cent2
+Writing np_A_Cw_hNegTot_pt0_eta0_cent3
+Writing np_A_Cw_hNegEff_pt0_eta0_cent3
+Writing np_A_Cw_hNegTot_pt0_eta0_cent4
+Writing np_A_Cw_hNegEff_pt0_eta0_cent4
+Writing np_A_Cw_hNegTot_pt0_eta0_cent5
+Writing np_A_Cw_hNegEff_pt0_eta0_cent5
+Writing np_A_Cw_hNegTot_pt0_eta0_cent6
+Writing np_A_Cw_hNegEff_pt0_eta0_cent6
+Writing np_A_Cw_hNegTot_pt0_eta10_cent0
+Writing np_A_Cw_hNegEff_pt0_eta10_cent0
+Writing np_A_Cw_hNegTot_pt0_eta10_cent1
+Writing np_A_Cw_hNegEff_pt0_eta10_cent1
+Writing np_A_Cw_hNegTot_pt0_eta10_cent2
+Writing np_A_Cw_hNegEff_pt0_eta10_cent2
+Writing np_A_Cw_hNegTot_pt0_eta10_cent3
+Writing np_A_Cw_hNegEff_pt0_eta10_cent3
+Writing np_A_Cw_hNegTot_pt0_eta10_cent4
+Writing np_A_Cw_hNegEff_pt0_eta10_cent4
+Writing np_A_Cw_hNegTot_pt0_eta10_cent5
+Writing np_A_Cw_hNegEff_pt0_eta10_cent5
+Writing np_A_Cw_hNegTot_pt0_eta10_cent6
+Writing np_A_Cw_hNegEff_pt0_eta10_cent6
+Writing np_A_Cw_hNegTot_pt0_eta1_cent0
+Writing np_A_Cw_hNegEff_pt0_eta1_cent0
+Writing np_A_Cw_hNegTot_pt0_eta1_cent1
+Writing np_A_Cw_hNegEff_pt0_eta1_cent1
+Writing np_A_Cw_hNegTot_pt0_eta1_cent2
+Writing np_A_Cw_hNegEff_pt0_eta1_cent2
+Writing np_A_Cw_hNegTot_pt0_eta1_cent3
+Writing np_A_Cw_hNegEff_pt0_eta1_cent3
+Writing np_A_Cw_hNegTot_pt0_eta1_cent4
+Writing np_A_Cw_hNegEff_pt0_eta1_cent4
+Writing np_A_Cw_hNegTot_pt0_eta1_cent5
+Writing np_A_Cw_hNegEff_pt0_eta1_cent5
+Writing np_A_Cw_hNegTot_pt0_eta1_cent6
+Writing np_A_Cw_hNegEff_pt0_eta1_cent6
+Writing np_A_Cw_hNegTot_pt0_eta2_cent0
+Writing np_A_Cw_hNegEff_pt0_eta2_cent0
+Writing np_A_Cw_hNegTot_pt0_eta2_cent1
+Writing np_A_Cw_hNegEff_pt0_eta2_cent1
+Writing np_A_Cw_hNegTot_pt0_eta2_cent2
+Writing np_A_Cw_hNegEff_pt0_eta2_cent2
+Writing np_A_Cw_hNegTot_pt0_eta2_cent3
+Writing np_A_Cw_hNegEff_pt0_eta2_cent3
+Writing np_A_Cw_hNegTot_pt0_eta2_cent4
+Writing np_A_Cw_hNegEff_pt0_eta2_cent4
+Writing np_A_Cw_hNegTot_pt0_eta2_cent5
+Writing np_A_Cw_hNegEff_pt0_eta2_cent5
+Writing np_A_Cw_hNegTot_pt0_eta2_cent6
+Writing np_A_Cw_hNegEff_pt0_eta2_cent6
+Writing np_A_Cw_hNegTot_pt0_eta3_cent0
+Writing np_A_Cw_hNegEff_pt0_eta3_cent0
+Writing np_A_Cw_hNegTot_pt0_eta3_cent1
+Writing np_A_Cw_hNegEff_pt0_eta3_cent1
+Writing np_A_Cw_hNegTot_pt0_eta3_cent2
+Writing np_A_Cw_hNegEff_pt0_eta3_cent2
+Writing np_A_Cw_hNegTot_pt0_eta3_cent3
+Writing np_A_Cw_hNegEff_pt0_eta3_cent3
+Writing np_A_Cw_hNegTot_pt0_eta3_cent4
+Writing np_A_Cw_hNegEff_pt0_eta3_cent4
+Writing np_A_Cw_hNegTot_pt0_eta3_cent5
+Writing np_A_Cw_hNegEff_pt0_eta3_cent5
+Writing np_A_Cw_hNegTot_pt0_eta3_cent6
+Writing np_A_Cw_hNegEff_pt0_eta3_cent6
+Writing np_A_Cw_hNegTot_pt0_eta4_cent0
+Writing np_A_Cw_hNegEff_pt0_eta4_cent0
+Writing np_A_Cw_hNegTot_pt0_eta4_cent1
+Writing np_A_Cw_hNegEff_pt0_eta4_cent1
+Writing np_A_Cw_hNegTot_pt0_eta4_cent2
+Writing np_A_Cw_hNegEff_pt0_eta4_cent2
+Writing np_A_Cw_hNegTot_pt0_eta4_cent3
+Writing np_A_Cw_hNegEff_pt0_eta4_cent3
+Writing np_A_Cw_hNegTot_pt0_eta4_cent4
+Writing np_A_Cw_hNegEff_pt0_eta4_cent4
+Writing np_A_Cw_hNegTot_pt0_eta4_cent5
+Writing np_A_Cw_hNegEff_pt0_eta4_cent5
+Writing np_A_Cw_hNegTot_pt0_eta4_cent6
+Writing np_A_Cw_hNegEff_pt0_eta4_cent6
+Writing np_A_Cw_hNegTot_pt0_eta5_cent0
+Writing np_A_Cw_hNegEff_pt0_eta5_cent0
+Writing np_A_Cw_hNegTot_pt0_eta5_cent1
+Writing np_A_Cw_hNegEff_pt0_eta5_cent1
+Writing np_A_Cw_hNegTot_pt0_eta5_cent2
+Writing np_A_Cw_hNegEff_pt0_eta5_cent2
+Writing np_A_Cw_hNegTot_pt0_eta5_cent3
+Writing np_A_Cw_hNegEff_pt0_eta5_cent3
+Writing np_A_Cw_hNegTot_pt0_eta5_cent4
+Writing np_A_Cw_hNegEff_pt0_eta5_cent4
+Writing np_A_Cw_hNegTot_pt0_eta5_cent5
+Writing np_A_Cw_hNegEff_pt0_eta5_cent5
+Writing np_A_Cw_hNegTot_pt0_eta5_cent6
+Writing np_A_Cw_hNegEff_pt0_eta5_cent6
+Writing np_A_Cw_hNegTot_pt0_eta6_cent0
+Writing np_A_Cw_hNegEff_pt0_eta6_cent0
+Writing np_A_Cw_hNegTot_pt0_eta6_cent1
+Writing np_A_Cw_hNegEff_pt0_eta6_cent1
+Writing np_A_Cw_hNegTot_pt0_eta6_cent2
+Writing np_A_Cw_hNegEff_pt0_eta6_cent2
+Writing np_A_Cw_hNegTot_pt0_eta6_cent3
+Writing np_A_Cw_hNegEff_pt0_eta6_cent3
+Writing np_A_Cw_hNegTot_pt0_eta6_cent4
+Writing np_A_Cw_hNegEff_pt0_eta6_cent4
+Writing np_A_Cw_hNegTot_pt0_eta6_cent5
+Writing np_A_Cw_hNegEff_pt0_eta6_cent5
+Writing np_A_Cw_hNegTot_pt0_eta6_cent6
+Writing np_A_Cw_hNegEff_pt0_eta6_cent6
+Writing np_A_Cw_hNegTot_pt0_eta7_cent0
+Writing np_A_Cw_hNegEff_pt0_eta7_cent0
+Writing np_A_Cw_hNegTot_pt0_eta7_cent1
+Writing np_A_Cw_hNegEff_pt0_eta7_cent1
+Writing np_A_Cw_hNegTot_pt0_eta7_cent2
+Writing np_A_Cw_hNegEff_pt0_eta7_cent2
+Writing np_A_Cw_hNegTot_pt0_eta7_cent3
+Writing np_A_Cw_hNegEff_pt0_eta7_cent3
+Writing np_A_Cw_hNegTot_pt0_eta7_cent4
+Writing np_A_Cw_hNegEff_pt0_eta7_cent4
+Writing np_A_Cw_hNegTot_pt0_eta7_cent5
+Writing np_A_Cw_hNegEff_pt0_eta7_cent5
+Writing np_A_Cw_hNegTot_pt0_eta7_cent6
+Writing np_A_Cw_hNegEff_pt0_eta7_cent6
+Writing np_A_Cw_hNegTot_pt0_eta8_cent0
+Writing np_A_Cw_hNegEff_pt0_eta8_cent0
+Writing np_A_Cw_hNegTot_pt0_eta8_cent1
+Writing np_A_Cw_hNegEff_pt0_eta8_cent1
+Writing np_A_Cw_hNegTot_pt0_eta8_cent2
+Writing np_A_Cw_hNegEff_pt0_eta8_cent2
+Writing np_A_Cw_hNegTot_pt0_eta8_cent3
+Writing np_A_Cw_hNegEff_pt0_eta8_cent3
+Writing np_A_Cw_hNegTot_pt0_eta8_cent4
+Writing np_A_Cw_hNegEff_pt0_eta8_cent4
+Writing np_A_Cw_hNegTot_pt0_eta8_cent5
+Writing np_A_Cw_hNegEff_pt0_eta8_cent5
+Writing np_A_Cw_hNegTot_pt0_eta8_cent6
+Writing np_A_Cw_hNegEff_pt0_eta8_cent6
+Writing np_A_Cw_hNegTot_pt0_eta9_cent0
+Writing np_A_Cw_hNegEff_pt0_eta9_cent0
+Writing np_A_Cw_hNegTot_pt0_eta9_cent1
+Writing np_A_Cw_hNegEff_pt0_eta9_cent1
+Writing np_A_Cw_hNegTot_pt0_eta9_cent2
+Writing np_A_Cw_hNegEff_pt0_eta9_cent2
+Writing np_A_Cw_hNegTot_pt0_eta9_cent3
+Writing np_A_Cw_hNegEff_pt0_eta9_cent3
+Writing np_A_Cw_hNegTot_pt0_eta9_cent4
+Writing np_A_Cw_hNegEff_pt0_eta9_cent4
+Writing np_A_Cw_hNegTot_pt0_eta9_cent5
+Writing np_A_Cw_hNegEff_pt0_eta9_cent5
+Writing np_A_Cw_hNegTot_pt0_eta9_cent6
+Writing np_A_Cw_hNegEff_pt0_eta9_cent6
+Writing np_A_Cw_hNegEff_pt0_cent0
+Writing np_A_Cw_hNegEff_pt0_cent1
+Writing np_A_Cw_hNegEff_pt0_cent2
+Writing np_A_Cw_hNegEff_pt0_cent3
+Writing np_A_Cw_hNegEff_pt0_cent4
+Writing np_A_Cw_hNegEff_pt0_cent5
+Writing np_A_Cw_hNegEff_pt0_cent6
+[EfficiencyCorrection::EfficiencyCorrection] Running on pp collisions.
+[EfficiencyCorrection::EfficiencyCorrection] Period B configuration.
+[EfficiencyCorrection::EfficiencyCorrection] Initializing histograms for 1 pt bins, 11 eta bins, 7 centrality bins.
+[EfficiencyCorrection::EfficiencyCorrection] Run to calculate Cw efficiency.
+[EfficiencyCorrection::EfficiencyCorrection] W- --> mu- nu~
+[EfficiencyCorrection::EfficiencyCorrection] Histograms initialized and ready for use.
+Number of entries in generator tree: 553837
+Number of entries in reconstructed tree: 186953
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.6332
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.62763
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.41673
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.1335
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.914574
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.69965
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.564082
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.6332
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.62763
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.41673
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.1335
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.914574
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.69965
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.564082
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.6332
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.62763
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.41673
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.1335
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.914574
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.69965
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.564082
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.6332
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.62763
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.41673
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.1335
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.914574
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.69965
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.564082
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.6332
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.62763
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.41673
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.1335
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.914574
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.69965
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.564082
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.6332
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.62763
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.41673
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.1335
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.914574
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.69965
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.564082
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.6332
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.62763
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.41673
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.1335
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.914574
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.69965
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.564082
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.6332
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.62763
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.41673
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.1335
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.914574
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.69965
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.564082
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.6332
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.62763
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.41673
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.1335
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.914574
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.69965
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.564082
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.6332
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.62763
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.41673
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.1335
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.914574
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.69965
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.564082
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.6332
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.62763
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.41673
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.1335
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.914574
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.69965
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.564082
+Writing pp_B_Cw_hNegPass_pt0_eta0_cent0
+Writing pp_B_Cw_hNegPass_pt0_eta0_cent1
+Writing pp_B_Cw_hNegPass_pt0_eta0_cent2
+Writing pp_B_Cw_hNegPass_pt0_eta0_cent3
+Writing pp_B_Cw_hNegPass_pt0_eta0_cent4
+Writing pp_B_Cw_hNegPass_pt0_eta0_cent5
+Writing pp_B_Cw_hNegPass_pt0_eta0_cent6
+Writing pp_B_Cw_hNegPass_pt0_eta10_cent0
+Writing pp_B_Cw_hNegPass_pt0_eta10_cent1
+Writing pp_B_Cw_hNegPass_pt0_eta10_cent2
+Writing pp_B_Cw_hNegPass_pt0_eta10_cent3
+Writing pp_B_Cw_hNegPass_pt0_eta10_cent4
+Writing pp_B_Cw_hNegPass_pt0_eta10_cent5
+Writing pp_B_Cw_hNegPass_pt0_eta10_cent6
+Writing pp_B_Cw_hNegPass_pt0_eta1_cent0
+Writing pp_B_Cw_hNegPass_pt0_eta1_cent1
+Writing pp_B_Cw_hNegPass_pt0_eta1_cent2
+Writing pp_B_Cw_hNegPass_pt0_eta1_cent3
+Writing pp_B_Cw_hNegPass_pt0_eta1_cent4
+Writing pp_B_Cw_hNegPass_pt0_eta1_cent5
+Writing pp_B_Cw_hNegPass_pt0_eta1_cent6
+Writing pp_B_Cw_hNegPass_pt0_eta2_cent0
+Writing pp_B_Cw_hNegPass_pt0_eta2_cent1
+Writing pp_B_Cw_hNegPass_pt0_eta2_cent2
+Writing pp_B_Cw_hNegPass_pt0_eta2_cent3
+Writing pp_B_Cw_hNegPass_pt0_eta2_cent4
+Writing pp_B_Cw_hNegPass_pt0_eta2_cent5
+Writing pp_B_Cw_hNegPass_pt0_eta2_cent6
+Writing pp_B_Cw_hNegPass_pt0_eta3_cent0
+Writing pp_B_Cw_hNegPass_pt0_eta3_cent1
+Writing pp_B_Cw_hNegPass_pt0_eta3_cent2
+Writing pp_B_Cw_hNegPass_pt0_eta3_cent3
+Writing pp_B_Cw_hNegPass_pt0_eta3_cent4
+Writing pp_B_Cw_hNegPass_pt0_eta3_cent5
+Writing pp_B_Cw_hNegPass_pt0_eta3_cent6
+Writing pp_B_Cw_hNegPass_pt0_eta4_cent0
+Writing pp_B_Cw_hNegPass_pt0_eta4_cent1
+Writing pp_B_Cw_hNegPass_pt0_eta4_cent2
+Writing pp_B_Cw_hNegPass_pt0_eta4_cent3
+Writing pp_B_Cw_hNegPass_pt0_eta4_cent4
+Writing pp_B_Cw_hNegPass_pt0_eta4_cent5
+Writing pp_B_Cw_hNegPass_pt0_eta4_cent6
+Writing pp_B_Cw_hNegPass_pt0_eta5_cent0
+Writing pp_B_Cw_hNegPass_pt0_eta5_cent1
+Writing pp_B_Cw_hNegPass_pt0_eta5_cent2
+Writing pp_B_Cw_hNegPass_pt0_eta5_cent3
+Writing pp_B_Cw_hNegPass_pt0_eta5_cent4
+Writing pp_B_Cw_hNegPass_pt0_eta5_cent5
+Writing pp_B_Cw_hNegPass_pt0_eta5_cent6
+Writing pp_B_Cw_hNegPass_pt0_eta6_cent0
+Writing pp_B_Cw_hNegPass_pt0_eta6_cent1
+Writing pp_B_Cw_hNegPass_pt0_eta6_cent2
+Writing pp_B_Cw_hNegPass_pt0_eta6_cent3
+Writing pp_B_Cw_hNegPass_pt0_eta6_cent4
+Writing pp_B_Cw_hNegPass_pt0_eta6_cent5
+Writing pp_B_Cw_hNegPass_pt0_eta6_cent6
+Writing pp_B_Cw_hNegPass_pt0_eta7_cent0
+Writing pp_B_Cw_hNegPass_pt0_eta7_cent1
+Writing pp_B_Cw_hNegPass_pt0_eta7_cent2
+Writing pp_B_Cw_hNegPass_pt0_eta7_cent3
+Writing pp_B_Cw_hNegPass_pt0_eta7_cent4
+Writing pp_B_Cw_hNegPass_pt0_eta7_cent5
+Writing pp_B_Cw_hNegPass_pt0_eta7_cent6
+Writing pp_B_Cw_hNegPass_pt0_eta8_cent0
+Writing pp_B_Cw_hNegPass_pt0_eta8_cent1
+Writing pp_B_Cw_hNegPass_pt0_eta8_cent2
+Writing pp_B_Cw_hNegPass_pt0_eta8_cent3
+Writing pp_B_Cw_hNegPass_pt0_eta8_cent4
+Writing pp_B_Cw_hNegPass_pt0_eta8_cent5
+Writing pp_B_Cw_hNegPass_pt0_eta8_cent6
+Writing pp_B_Cw_hNegPass_pt0_eta9_cent0
+Writing pp_B_Cw_hNegPass_pt0_eta9_cent1
+Writing pp_B_Cw_hNegPass_pt0_eta9_cent2
+Writing pp_B_Cw_hNegPass_pt0_eta9_cent3
+Writing pp_B_Cw_hNegPass_pt0_eta9_cent4
+Writing pp_B_Cw_hNegPass_pt0_eta9_cent5
+Writing pp_B_Cw_hNegPass_pt0_eta9_cent6
+Writing pp_B_Cw_hNegTot_pt0_eta0_cent0
+Writing pp_B_Cw_hNegEff_pt0_eta0_cent0
+Writing pp_B_Cw_hNegTot_pt0_eta0_cent1
+Writing pp_B_Cw_hNegEff_pt0_eta0_cent1
+Writing pp_B_Cw_hNegTot_pt0_eta0_cent2
+Writing pp_B_Cw_hNegEff_pt0_eta0_cent2
+Writing pp_B_Cw_hNegTot_pt0_eta0_cent3
+Writing pp_B_Cw_hNegEff_pt0_eta0_cent3
+Writing pp_B_Cw_hNegTot_pt0_eta0_cent4
+Writing pp_B_Cw_hNegEff_pt0_eta0_cent4
+Writing pp_B_Cw_hNegTot_pt0_eta0_cent5
+Writing pp_B_Cw_hNegEff_pt0_eta0_cent5
+Writing pp_B_Cw_hNegTot_pt0_eta0_cent6
+Writing pp_B_Cw_hNegEff_pt0_eta0_cent6
+Writing pp_B_Cw_hNegTot_pt0_eta10_cent0
+Writing pp_B_Cw_hNegEff_pt0_eta10_cent0
+Writing pp_B_Cw_hNegTot_pt0_eta10_cent1
+Writing pp_B_Cw_hNegEff_pt0_eta10_cent1
+Writing pp_B_Cw_hNegTot_pt0_eta10_cent2
+Writing pp_B_Cw_hNegEff_pt0_eta10_cent2
+Writing pp_B_Cw_hNegTot_pt0_eta10_cent3
+Writing pp_B_Cw_hNegEff_pt0_eta10_cent3
+Writing pp_B_Cw_hNegTot_pt0_eta10_cent4
+Writing pp_B_Cw_hNegEff_pt0_eta10_cent4
+Writing pp_B_Cw_hNegTot_pt0_eta10_cent5
+Writing pp_B_Cw_hNegEff_pt0_eta10_cent5
+Writing pp_B_Cw_hNegTot_pt0_eta10_cent6
+Writing pp_B_Cw_hNegEff_pt0_eta10_cent6
+Writing pp_B_Cw_hNegTot_pt0_eta1_cent0
+Writing pp_B_Cw_hNegEff_pt0_eta1_cent0
+Writing pp_B_Cw_hNegTot_pt0_eta1_cent1
+Writing pp_B_Cw_hNegEff_pt0_eta1_cent1
+Writing pp_B_Cw_hNegTot_pt0_eta1_cent2
+Writing pp_B_Cw_hNegEff_pt0_eta1_cent2
+Writing pp_B_Cw_hNegTot_pt0_eta1_cent3
+Writing pp_B_Cw_hNegEff_pt0_eta1_cent3
+Writing pp_B_Cw_hNegTot_pt0_eta1_cent4
+Writing pp_B_Cw_hNegEff_pt0_eta1_cent4
+Writing pp_B_Cw_hNegTot_pt0_eta1_cent5
+Writing pp_B_Cw_hNegEff_pt0_eta1_cent5
+Writing pp_B_Cw_hNegTot_pt0_eta1_cent6
+Writing pp_B_Cw_hNegEff_pt0_eta1_cent6
+Writing pp_B_Cw_hNegTot_pt0_eta2_cent0
+Writing pp_B_Cw_hNegEff_pt0_eta2_cent0
+Writing pp_B_Cw_hNegTot_pt0_eta2_cent1
+Writing pp_B_Cw_hNegEff_pt0_eta2_cent1
+Writing pp_B_Cw_hNegTot_pt0_eta2_cent2
+Writing pp_B_Cw_hNegEff_pt0_eta2_cent2
+Writing pp_B_Cw_hNegTot_pt0_eta2_cent3
+Writing pp_B_Cw_hNegEff_pt0_eta2_cent3
+Writing pp_B_Cw_hNegTot_pt0_eta2_cent4
+Writing pp_B_Cw_hNegEff_pt0_eta2_cent4
+Writing pp_B_Cw_hNegTot_pt0_eta2_cent5
+Writing pp_B_Cw_hNegEff_pt0_eta2_cent5
+Writing pp_B_Cw_hNegTot_pt0_eta2_cent6
+Writing pp_B_Cw_hNegEff_pt0_eta2_cent6
+Writing pp_B_Cw_hNegTot_pt0_eta3_cent0
+Writing pp_B_Cw_hNegEff_pt0_eta3_cent0
+Writing pp_B_Cw_hNegTot_pt0_eta3_cent1
+Writing pp_B_Cw_hNegEff_pt0_eta3_cent1
+Writing pp_B_Cw_hNegTot_pt0_eta3_cent2
+Writing pp_B_Cw_hNegEff_pt0_eta3_cent2
+Writing pp_B_Cw_hNegTot_pt0_eta3_cent3
+Writing pp_B_Cw_hNegEff_pt0_eta3_cent3
+Writing pp_B_Cw_hNegTot_pt0_eta3_cent4
+Writing pp_B_Cw_hNegEff_pt0_eta3_cent4
+Writing pp_B_Cw_hNegTot_pt0_eta3_cent5
+Writing pp_B_Cw_hNegEff_pt0_eta3_cent5
+Writing pp_B_Cw_hNegTot_pt0_eta3_cent6
+Writing pp_B_Cw_hNegEff_pt0_eta3_cent6
+Writing pp_B_Cw_hNegTot_pt0_eta4_cent0
+Writing pp_B_Cw_hNegEff_pt0_eta4_cent0
+Writing pp_B_Cw_hNegTot_pt0_eta4_cent1
+Writing pp_B_Cw_hNegEff_pt0_eta4_cent1
+Writing pp_B_Cw_hNegTot_pt0_eta4_cent2
+Writing pp_B_Cw_hNegEff_pt0_eta4_cent2
+Writing pp_B_Cw_hNegTot_pt0_eta4_cent3
+Writing pp_B_Cw_hNegEff_pt0_eta4_cent3
+Writing pp_B_Cw_hNegTot_pt0_eta4_cent4
+Writing pp_B_Cw_hNegEff_pt0_eta4_cent4
+Writing pp_B_Cw_hNegTot_pt0_eta4_cent5
+Writing pp_B_Cw_hNegEff_pt0_eta4_cent5
+Writing pp_B_Cw_hNegTot_pt0_eta4_cent6
+Writing pp_B_Cw_hNegEff_pt0_eta4_cent6
+Writing pp_B_Cw_hNegTot_pt0_eta5_cent0
+Writing pp_B_Cw_hNegEff_pt0_eta5_cent0
+Writing pp_B_Cw_hNegTot_pt0_eta5_cent1
+Writing pp_B_Cw_hNegEff_pt0_eta5_cent1
+Writing pp_B_Cw_hNegTot_pt0_eta5_cent2
+Writing pp_B_Cw_hNegEff_pt0_eta5_cent2
+Writing pp_B_Cw_hNegTot_pt0_eta5_cent3
+Writing pp_B_Cw_hNegEff_pt0_eta5_cent3
+Writing pp_B_Cw_hNegTot_pt0_eta5_cent4
+Writing pp_B_Cw_hNegEff_pt0_eta5_cent4
+Writing pp_B_Cw_hNegTot_pt0_eta5_cent5
+Writing pp_B_Cw_hNegEff_pt0_eta5_cent5
+Writing pp_B_Cw_hNegTot_pt0_eta5_cent6
+Writing pp_B_Cw_hNegEff_pt0_eta5_cent6
+Writing pp_B_Cw_hNegTot_pt0_eta6_cent0
+Writing pp_B_Cw_hNegEff_pt0_eta6_cent0
+Writing pp_B_Cw_hNegTot_pt0_eta6_cent1
+Writing pp_B_Cw_hNegEff_pt0_eta6_cent1
+Writing pp_B_Cw_hNegTot_pt0_eta6_cent2
+Writing pp_B_Cw_hNegEff_pt0_eta6_cent2
+Writing pp_B_Cw_hNegTot_pt0_eta6_cent3
+Writing pp_B_Cw_hNegEff_pt0_eta6_cent3
+Writing pp_B_Cw_hNegTot_pt0_eta6_cent4
+Writing pp_B_Cw_hNegEff_pt0_eta6_cent4
+Writing pp_B_Cw_hNegTot_pt0_eta6_cent5
+Writing pp_B_Cw_hNegEff_pt0_eta6_cent5
+Writing pp_B_Cw_hNegTot_pt0_eta6_cent6
+Writing pp_B_Cw_hNegEff_pt0_eta6_cent6
+Writing pp_B_Cw_hNegTot_pt0_eta7_cent0
+Writing pp_B_Cw_hNegEff_pt0_eta7_cent0
+Writing pp_B_Cw_hNegTot_pt0_eta7_cent1
+Writing pp_B_Cw_hNegEff_pt0_eta7_cent1
+Writing pp_B_Cw_hNegTot_pt0_eta7_cent2
+Writing pp_B_Cw_hNegEff_pt0_eta7_cent2
+Writing pp_B_Cw_hNegTot_pt0_eta7_cent3
+Writing pp_B_Cw_hNegEff_pt0_eta7_cent3
+Writing pp_B_Cw_hNegTot_pt0_eta7_cent4
+Writing pp_B_Cw_hNegEff_pt0_eta7_cent4
+Writing pp_B_Cw_hNegTot_pt0_eta7_cent5
+Writing pp_B_Cw_hNegEff_pt0_eta7_cent5
+Writing pp_B_Cw_hNegTot_pt0_eta7_cent6
+Writing pp_B_Cw_hNegEff_pt0_eta7_cent6
+Writing pp_B_Cw_hNegTot_pt0_eta8_cent0
+Writing pp_B_Cw_hNegEff_pt0_eta8_cent0
+Writing pp_B_Cw_hNegTot_pt0_eta8_cent1
+Writing pp_B_Cw_hNegEff_pt0_eta8_cent1
+Writing pp_B_Cw_hNegTot_pt0_eta8_cent2
+Writing pp_B_Cw_hNegEff_pt0_eta8_cent2
+Writing pp_B_Cw_hNegTot_pt0_eta8_cent3
+Writing pp_B_Cw_hNegEff_pt0_eta8_cent3
+Writing pp_B_Cw_hNegTot_pt0_eta8_cent4
+Writing pp_B_Cw_hNegEff_pt0_eta8_cent4
+Writing pp_B_Cw_hNegTot_pt0_eta8_cent5
+Writing pp_B_Cw_hNegEff_pt0_eta8_cent5
+Writing pp_B_Cw_hNegTot_pt0_eta8_cent6
+Writing pp_B_Cw_hNegEff_pt0_eta8_cent6
+Writing pp_B_Cw_hNegTot_pt0_eta9_cent0
+Writing pp_B_Cw_hNegEff_pt0_eta9_cent0
+Writing pp_B_Cw_hNegTot_pt0_eta9_cent1
+Writing pp_B_Cw_hNegEff_pt0_eta9_cent1
+Writing pp_B_Cw_hNegTot_pt0_eta9_cent2
+Writing pp_B_Cw_hNegEff_pt0_eta9_cent2
+Writing pp_B_Cw_hNegTot_pt0_eta9_cent3
+Writing pp_B_Cw_hNegEff_pt0_eta9_cent3
+Writing pp_B_Cw_hNegTot_pt0_eta9_cent4
+Writing pp_B_Cw_hNegEff_pt0_eta9_cent4
+Writing pp_B_Cw_hNegTot_pt0_eta9_cent5
+Writing pp_B_Cw_hNegEff_pt0_eta9_cent5
+Writing pp_B_Cw_hNegTot_pt0_eta9_cent6
+Writing pp_B_Cw_hNegEff_pt0_eta9_cent6
+Writing pp_B_Cw_hNegEff_pt0_cent0
+Writing pp_B_Cw_hNegEff_pt0_cent1
+Writing pp_B_Cw_hNegEff_pt0_cent2
+Writing pp_B_Cw_hNegEff_pt0_cent3
+Writing pp_B_Cw_hNegEff_pt0_cent4
+Writing pp_B_Cw_hNegEff_pt0_cent5
+Writing pp_B_Cw_hNegEff_pt0_cent6
+[EfficiencyCorrection::EfficiencyCorrection] Running on pn collisions.
+[EfficiencyCorrection::EfficiencyCorrection] Period B configuration.
+[EfficiencyCorrection::EfficiencyCorrection] Initializing histograms for 1 pt bins, 11 eta bins, 7 centrality bins.
+[EfficiencyCorrection::EfficiencyCorrection] Run to calculate Cw efficiency.
+[EfficiencyCorrection::EfficiencyCorrection] W- --> mu- nu~
+[EfficiencyCorrection::EfficiencyCorrection] Histograms initialized and ready for use.
+Number of entries in generator tree: 331359
+Number of entries in reconstructed tree: 100057
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.6332
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.62763
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.41673
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.1335
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.914574
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.69965
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.564082
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.6332
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.62763
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.41673
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.1335
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.914574
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.69965
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.564082
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.6332
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.62763
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.41673
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.1335
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.914574
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.69965
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.564082
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.6332
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.62763
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.41673
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.1335
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.914574
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.69965
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.564082
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.6332
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.62763
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.41673
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.1335
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.914574
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.69965
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.564082
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.6332
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.62763
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.41673
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.1335
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.914574
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.69965
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.564082
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.6332
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.62763
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.41673
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.1335
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.914574
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.69965
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.564082
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.6332
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.62763
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.41673
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.1335
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.914574
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.69965
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.564082
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.6332
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.62763
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.41673
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.1335
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.914574
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.69965
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.564082
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.6332
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.62763
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.41673
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.1335
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.914574
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.69965
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.564082
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.6332
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.62763
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.41673
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.1335
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.914574
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.69965
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.564082
+Writing pn_B_Cw_hNegPass_pt0_eta0_cent0
+Writing pn_B_Cw_hNegPass_pt0_eta0_cent1
+Writing pn_B_Cw_hNegPass_pt0_eta0_cent2
+Writing pn_B_Cw_hNegPass_pt0_eta0_cent3
+Writing pn_B_Cw_hNegPass_pt0_eta0_cent4
+Writing pn_B_Cw_hNegPass_pt0_eta0_cent5
+Writing pn_B_Cw_hNegPass_pt0_eta0_cent6
+Writing pn_B_Cw_hNegPass_pt0_eta10_cent0
+Writing pn_B_Cw_hNegPass_pt0_eta10_cent1
+Writing pn_B_Cw_hNegPass_pt0_eta10_cent2
+Writing pn_B_Cw_hNegPass_pt0_eta10_cent3
+Writing pn_B_Cw_hNegPass_pt0_eta10_cent4
+Writing pn_B_Cw_hNegPass_pt0_eta10_cent5
+Writing pn_B_Cw_hNegPass_pt0_eta10_cent6
+Writing pn_B_Cw_hNegPass_pt0_eta1_cent0
+Writing pn_B_Cw_hNegPass_pt0_eta1_cent1
+Writing pn_B_Cw_hNegPass_pt0_eta1_cent2
+Writing pn_B_Cw_hNegPass_pt0_eta1_cent3
+Writing pn_B_Cw_hNegPass_pt0_eta1_cent4
+Writing pn_B_Cw_hNegPass_pt0_eta1_cent5
+Writing pn_B_Cw_hNegPass_pt0_eta1_cent6
+Writing pn_B_Cw_hNegPass_pt0_eta2_cent0
+Writing pn_B_Cw_hNegPass_pt0_eta2_cent1
+Writing pn_B_Cw_hNegPass_pt0_eta2_cent2
+Writing pn_B_Cw_hNegPass_pt0_eta2_cent3
+Writing pn_B_Cw_hNegPass_pt0_eta2_cent4
+Writing pn_B_Cw_hNegPass_pt0_eta2_cent5
+Writing pn_B_Cw_hNegPass_pt0_eta2_cent6
+Writing pn_B_Cw_hNegPass_pt0_eta3_cent0
+Writing pn_B_Cw_hNegPass_pt0_eta3_cent1
+Writing pn_B_Cw_hNegPass_pt0_eta3_cent2
+Writing pn_B_Cw_hNegPass_pt0_eta3_cent3
+Writing pn_B_Cw_hNegPass_pt0_eta3_cent4
+Writing pn_B_Cw_hNegPass_pt0_eta3_cent5
+Writing pn_B_Cw_hNegPass_pt0_eta3_cent6
+Writing pn_B_Cw_hNegPass_pt0_eta4_cent0
+Writing pn_B_Cw_hNegPass_pt0_eta4_cent1
+Writing pn_B_Cw_hNegPass_pt0_eta4_cent2
+Writing pn_B_Cw_hNegPass_pt0_eta4_cent3
+Writing pn_B_Cw_hNegPass_pt0_eta4_cent4
+Writing pn_B_Cw_hNegPass_pt0_eta4_cent5
+Writing pn_B_Cw_hNegPass_pt0_eta4_cent6
+Writing pn_B_Cw_hNegPass_pt0_eta5_cent0
+Writing pn_B_Cw_hNegPass_pt0_eta5_cent1
+Writing pn_B_Cw_hNegPass_pt0_eta5_cent2
+Writing pn_B_Cw_hNegPass_pt0_eta5_cent3
+Writing pn_B_Cw_hNegPass_pt0_eta5_cent4
+Writing pn_B_Cw_hNegPass_pt0_eta5_cent5
+Writing pn_B_Cw_hNegPass_pt0_eta5_cent6
+Writing pn_B_Cw_hNegPass_pt0_eta6_cent0
+Writing pn_B_Cw_hNegPass_pt0_eta6_cent1
+Writing pn_B_Cw_hNegPass_pt0_eta6_cent2
+Writing pn_B_Cw_hNegPass_pt0_eta6_cent3
+Writing pn_B_Cw_hNegPass_pt0_eta6_cent4
+Writing pn_B_Cw_hNegPass_pt0_eta6_cent5
+Writing pn_B_Cw_hNegPass_pt0_eta6_cent6
+Writing pn_B_Cw_hNegPass_pt0_eta7_cent0
+Writing pn_B_Cw_hNegPass_pt0_eta7_cent1
+Writing pn_B_Cw_hNegPass_pt0_eta7_cent2
+Writing pn_B_Cw_hNegPass_pt0_eta7_cent3
+Writing pn_B_Cw_hNegPass_pt0_eta7_cent4
+Writing pn_B_Cw_hNegPass_pt0_eta7_cent5
+Writing pn_B_Cw_hNegPass_pt0_eta7_cent6
+Writing pn_B_Cw_hNegPass_pt0_eta8_cent0
+Writing pn_B_Cw_hNegPass_pt0_eta8_cent1
+Writing pn_B_Cw_hNegPass_pt0_eta8_cent2
+Writing pn_B_Cw_hNegPass_pt0_eta8_cent3
+Writing pn_B_Cw_hNegPass_pt0_eta8_cent4
+Writing pn_B_Cw_hNegPass_pt0_eta8_cent5
+Writing pn_B_Cw_hNegPass_pt0_eta8_cent6
+Writing pn_B_Cw_hNegPass_pt0_eta9_cent0
+Writing pn_B_Cw_hNegPass_pt0_eta9_cent1
+Writing pn_B_Cw_hNegPass_pt0_eta9_cent2
+Writing pn_B_Cw_hNegPass_pt0_eta9_cent3
+Writing pn_B_Cw_hNegPass_pt0_eta9_cent4
+Writing pn_B_Cw_hNegPass_pt0_eta9_cent5
+Writing pn_B_Cw_hNegPass_pt0_eta9_cent6
+Writing pn_B_Cw_hNegTot_pt0_eta0_cent0
+Writing pn_B_Cw_hNegEff_pt0_eta0_cent0
+Writing pn_B_Cw_hNegTot_pt0_eta0_cent1
+Writing pn_B_Cw_hNegEff_pt0_eta0_cent1
+Writing pn_B_Cw_hNegTot_pt0_eta0_cent2
+Writing pn_B_Cw_hNegEff_pt0_eta0_cent2
+Writing pn_B_Cw_hNegTot_pt0_eta0_cent3
+Writing pn_B_Cw_hNegEff_pt0_eta0_cent3
+Writing pn_B_Cw_hNegTot_pt0_eta0_cent4
+Writing pn_B_Cw_hNegEff_pt0_eta0_cent4
+Writing pn_B_Cw_hNegTot_pt0_eta0_cent5
+Writing pn_B_Cw_hNegEff_pt0_eta0_cent5
+Writing pn_B_Cw_hNegTot_pt0_eta0_cent6
+Writing pn_B_Cw_hNegEff_pt0_eta0_cent6
+Writing pn_B_Cw_hNegTot_pt0_eta10_cent0
+Writing pn_B_Cw_hNegEff_pt0_eta10_cent0
+Writing pn_B_Cw_hNegTot_pt0_eta10_cent1
+Writing pn_B_Cw_hNegEff_pt0_eta10_cent1
+Writing pn_B_Cw_hNegTot_pt0_eta10_cent2
+Writing pn_B_Cw_hNegEff_pt0_eta10_cent2
+Writing pn_B_Cw_hNegTot_pt0_eta10_cent3
+Writing pn_B_Cw_hNegEff_pt0_eta10_cent3
+Writing pn_B_Cw_hNegTot_pt0_eta10_cent4
+Writing pn_B_Cw_hNegEff_pt0_eta10_cent4
+Writing pn_B_Cw_hNegTot_pt0_eta10_cent5
+Writing pn_B_Cw_hNegEff_pt0_eta10_cent5
+Writing pn_B_Cw_hNegTot_pt0_eta10_cent6
+Writing pn_B_Cw_hNegEff_pt0_eta10_cent6
+Writing pn_B_Cw_hNegTot_pt0_eta1_cent0
+Writing pn_B_Cw_hNegEff_pt0_eta1_cent0
+Writing pn_B_Cw_hNegTot_pt0_eta1_cent1
+Writing pn_B_Cw_hNegEff_pt0_eta1_cent1
+Writing pn_B_Cw_hNegTot_pt0_eta1_cent2
+Writing pn_B_Cw_hNegEff_pt0_eta1_cent2
+Writing pn_B_Cw_hNegTot_pt0_eta1_cent3
+Writing pn_B_Cw_hNegEff_pt0_eta1_cent3
+Writing pn_B_Cw_hNegTot_pt0_eta1_cent4
+Writing pn_B_Cw_hNegEff_pt0_eta1_cent4
+Writing pn_B_Cw_hNegTot_pt0_eta1_cent5
+Writing pn_B_Cw_hNegEff_pt0_eta1_cent5
+Writing pn_B_Cw_hNegTot_pt0_eta1_cent6
+Writing pn_B_Cw_hNegEff_pt0_eta1_cent6
+Writing pn_B_Cw_hNegTot_pt0_eta2_cent0
+Writing pn_B_Cw_hNegEff_pt0_eta2_cent0
+Writing pn_B_Cw_hNegTot_pt0_eta2_cent1
+Writing pn_B_Cw_hNegEff_pt0_eta2_cent1
+Writing pn_B_Cw_hNegTot_pt0_eta2_cent2
+Writing pn_B_Cw_hNegEff_pt0_eta2_cent2
+Writing pn_B_Cw_hNegTot_pt0_eta2_cent3
+Writing pn_B_Cw_hNegEff_pt0_eta2_cent3
+Writing pn_B_Cw_hNegTot_pt0_eta2_cent4
+Writing pn_B_Cw_hNegEff_pt0_eta2_cent4
+Writing pn_B_Cw_hNegTot_pt0_eta2_cent5
+Writing pn_B_Cw_hNegEff_pt0_eta2_cent5
+Writing pn_B_Cw_hNegTot_pt0_eta2_cent6
+Writing pn_B_Cw_hNegEff_pt0_eta2_cent6
+Writing pn_B_Cw_hNegTot_pt0_eta3_cent0
+Writing pn_B_Cw_hNegEff_pt0_eta3_cent0
+Writing pn_B_Cw_hNegTot_pt0_eta3_cent1
+Writing pn_B_Cw_hNegEff_pt0_eta3_cent1
+Writing pn_B_Cw_hNegTot_pt0_eta3_cent2
+Writing pn_B_Cw_hNegEff_pt0_eta3_cent2
+Writing pn_B_Cw_hNegTot_pt0_eta3_cent3
+Writing pn_B_Cw_hNegEff_pt0_eta3_cent3
+Writing pn_B_Cw_hNegTot_pt0_eta3_cent4
+Writing pn_B_Cw_hNegEff_pt0_eta3_cent4
+Writing pn_B_Cw_hNegTot_pt0_eta3_cent5
+Writing pn_B_Cw_hNegEff_pt0_eta3_cent5
+Writing pn_B_Cw_hNegTot_pt0_eta3_cent6
+Writing pn_B_Cw_hNegEff_pt0_eta3_cent6
+Writing pn_B_Cw_hNegTot_pt0_eta4_cent0
+Writing pn_B_Cw_hNegEff_pt0_eta4_cent0
+Writing pn_B_Cw_hNegTot_pt0_eta4_cent1
+Writing pn_B_Cw_hNegEff_pt0_eta4_cent1
+Writing pn_B_Cw_hNegTot_pt0_eta4_cent2
+Writing pn_B_Cw_hNegEff_pt0_eta4_cent2
+Writing pn_B_Cw_hNegTot_pt0_eta4_cent3
+Writing pn_B_Cw_hNegEff_pt0_eta4_cent3
+Writing pn_B_Cw_hNegTot_pt0_eta4_cent4
+Writing pn_B_Cw_hNegEff_pt0_eta4_cent4
+Writing pn_B_Cw_hNegTot_pt0_eta4_cent5
+Writing pn_B_Cw_hNegEff_pt0_eta4_cent5
+Writing pn_B_Cw_hNegTot_pt0_eta4_cent6
+Writing pn_B_Cw_hNegEff_pt0_eta4_cent6
+Writing pn_B_Cw_hNegTot_pt0_eta5_cent0
+Writing pn_B_Cw_hNegEff_pt0_eta5_cent0
+Writing pn_B_Cw_hNegTot_pt0_eta5_cent1
+Writing pn_B_Cw_hNegEff_pt0_eta5_cent1
+Writing pn_B_Cw_hNegTot_pt0_eta5_cent2
+Writing pn_B_Cw_hNegEff_pt0_eta5_cent2
+Writing pn_B_Cw_hNegTot_pt0_eta5_cent3
+Writing pn_B_Cw_hNegEff_pt0_eta5_cent3
+Writing pn_B_Cw_hNegTot_pt0_eta5_cent4
+Writing pn_B_Cw_hNegEff_pt0_eta5_cent4
+Writing pn_B_Cw_hNegTot_pt0_eta5_cent5
+Writing pn_B_Cw_hNegEff_pt0_eta5_cent5
+Writing pn_B_Cw_hNegTot_pt0_eta5_cent6
+Writing pn_B_Cw_hNegEff_pt0_eta5_cent6
+Writing pn_B_Cw_hNegTot_pt0_eta6_cent0
+Writing pn_B_Cw_hNegEff_pt0_eta6_cent0
+Writing pn_B_Cw_hNegTot_pt0_eta6_cent1
+Writing pn_B_Cw_hNegEff_pt0_eta6_cent1
+Writing pn_B_Cw_hNegTot_pt0_eta6_cent2
+Writing pn_B_Cw_hNegEff_pt0_eta6_cent2
+Writing pn_B_Cw_hNegTot_pt0_eta6_cent3
+Writing pn_B_Cw_hNegEff_pt0_eta6_cent3
+Writing pn_B_Cw_hNegTot_pt0_eta6_cent4
+Writing pn_B_Cw_hNegEff_pt0_eta6_cent4
+Writing pn_B_Cw_hNegTot_pt0_eta6_cent5
+Writing pn_B_Cw_hNegEff_pt0_eta6_cent5
+Writing pn_B_Cw_hNegTot_pt0_eta6_cent6
+Writing pn_B_Cw_hNegEff_pt0_eta6_cent6
+Writing pn_B_Cw_hNegTot_pt0_eta7_cent0
+Writing pn_B_Cw_hNegEff_pt0_eta7_cent0
+Writing pn_B_Cw_hNegTot_pt0_eta7_cent1
+Writing pn_B_Cw_hNegEff_pt0_eta7_cent1
+Writing pn_B_Cw_hNegTot_pt0_eta7_cent2
+Writing pn_B_Cw_hNegEff_pt0_eta7_cent2
+Writing pn_B_Cw_hNegTot_pt0_eta7_cent3
+Writing pn_B_Cw_hNegEff_pt0_eta7_cent3
+Writing pn_B_Cw_hNegTot_pt0_eta7_cent4
+Writing pn_B_Cw_hNegEff_pt0_eta7_cent4
+Writing pn_B_Cw_hNegTot_pt0_eta7_cent5
+Writing pn_B_Cw_hNegEff_pt0_eta7_cent5
+Writing pn_B_Cw_hNegTot_pt0_eta7_cent6
+Writing pn_B_Cw_hNegEff_pt0_eta7_cent6
+Writing pn_B_Cw_hNegTot_pt0_eta8_cent0
+Writing pn_B_Cw_hNegEff_pt0_eta8_cent0
+Writing pn_B_Cw_hNegTot_pt0_eta8_cent1
+Writing pn_B_Cw_hNegEff_pt0_eta8_cent1
+Writing pn_B_Cw_hNegTot_pt0_eta8_cent2
+Writing pn_B_Cw_hNegEff_pt0_eta8_cent2
+Writing pn_B_Cw_hNegTot_pt0_eta8_cent3
+Writing pn_B_Cw_hNegEff_pt0_eta8_cent3
+Writing pn_B_Cw_hNegTot_pt0_eta8_cent4
+Writing pn_B_Cw_hNegEff_pt0_eta8_cent4
+Writing pn_B_Cw_hNegTot_pt0_eta8_cent5
+Writing pn_B_Cw_hNegEff_pt0_eta8_cent5
+Writing pn_B_Cw_hNegTot_pt0_eta8_cent6
+Writing pn_B_Cw_hNegEff_pt0_eta8_cent6
+Writing pn_B_Cw_hNegTot_pt0_eta9_cent0
+Writing pn_B_Cw_hNegEff_pt0_eta9_cent0
+Writing pn_B_Cw_hNegTot_pt0_eta9_cent1
+Writing pn_B_Cw_hNegEff_pt0_eta9_cent1
+Writing pn_B_Cw_hNegTot_pt0_eta9_cent2
+Writing pn_B_Cw_hNegEff_pt0_eta9_cent2
+Writing pn_B_Cw_hNegTot_pt0_eta9_cent3
+Writing pn_B_Cw_hNegEff_pt0_eta9_cent3
+Writing pn_B_Cw_hNegTot_pt0_eta9_cent4
+Writing pn_B_Cw_hNegEff_pt0_eta9_cent4
+Writing pn_B_Cw_hNegTot_pt0_eta9_cent5
+Writing pn_B_Cw_hNegEff_pt0_eta9_cent5
+Writing pn_B_Cw_hNegTot_pt0_eta9_cent6
+Writing pn_B_Cw_hNegEff_pt0_eta9_cent6
+Writing pn_B_Cw_hNegEff_pt0_cent0
+Writing pn_B_Cw_hNegEff_pt0_cent1
+Writing pn_B_Cw_hNegEff_pt0_cent2
+Writing pn_B_Cw_hNegEff_pt0_cent3
+Writing pn_B_Cw_hNegEff_pt0_cent4
+Writing pn_B_Cw_hNegEff_pt0_cent5
+Writing pn_B_Cw_hNegEff_pt0_cent6
+[EfficiencyCorrection::EfficiencyCorrection] Running on pp collisions.
+[EfficiencyCorrection::EfficiencyCorrection] Period A configuration.
+[EfficiencyCorrection::EfficiencyCorrection] Initializing histograms for 1 pt bins, 11 eta bins, 7 centrality bins.
+[EfficiencyCorrection::EfficiencyCorrection] Run to calculate Cw efficiency.
+[EfficiencyCorrection::EfficiencyCorrection] W+ --> mu+ nu
+[EfficiencyCorrection::EfficiencyCorrection] Histograms initialized and ready for use.
+Number of entries in generator tree: 280549
+Number of entries in reconstructed tree: 103305
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.6332
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.62763
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.41673
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.1335
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.914574
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.69965
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.564082
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.6332
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.62763
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.41673
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.1335
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.914574
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.69965
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.564082
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.6332
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.62763
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.41673
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.1335
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.914574
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.69965
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.564082
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.6332
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.62763
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.41673
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.1335
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.914574
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.69965
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.564082
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.6332
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.62763
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.41673
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.1335
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.914574
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.69965
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.564082
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.6332
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.62763
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.41673
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.1335
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.914574
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.69965
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.564082
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.6332
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.62763
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.41673
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.1335
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.914574
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.69965
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.564082
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.6332
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.62763
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.41673
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.1335
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.914574
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.69965
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.564082
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.6332
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.62763
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.41673
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.1335
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.914574
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.69965
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.564082
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.6332
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.62763
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.41673
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.1335
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.914574
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.69965
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.564082
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.6332
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.62763
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.41673
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.1335
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.914574
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.69965
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.564082
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.6332
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.62763
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.41673
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.1335
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.914574
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.69965
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.564082
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.6332
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.62763
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.41673
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.1335
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.914574
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.69965
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.564082
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.6332
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.62763
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.41673
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.1335
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.914574
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.69965
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.564082
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.6332
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.62763
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.41673
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.1335
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.914574
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.69965
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.564082
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.6332
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.62763
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.41673
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.1335
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.914574
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.69965
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.564082
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.6332
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.62763
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.41673
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.1335
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.914574
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.69965
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.564082
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.6332
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.62763
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.41673
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.1335
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.914574
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.69965
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.564082
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.6332
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.62763
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.41673
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.1335
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.914574
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.69965
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.564082
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.6332
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.62763
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.41673
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.1335
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.914574
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.69965
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.564082
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.6332
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.62763
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.41673
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.1335
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.914574
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.69965
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.564082
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.6332
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.62763
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.41673
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.1335
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.914574
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.69965
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.564082
+Writing pp_A_Cw_hPosPass_pt0_eta0_cent0
+Writing pp_A_Cw_hPosPass_pt0_eta0_cent1
+Writing pp_A_Cw_hPosPass_pt0_eta0_cent2
+Writing pp_A_Cw_hPosPass_pt0_eta0_cent3
+Writing pp_A_Cw_hPosPass_pt0_eta0_cent4
+Writing pp_A_Cw_hPosPass_pt0_eta0_cent5
+Writing pp_A_Cw_hPosPass_pt0_eta0_cent6
+Writing pp_A_Cw_hPosPass_pt0_eta10_cent0
+Writing pp_A_Cw_hPosPass_pt0_eta10_cent1
+Writing pp_A_Cw_hPosPass_pt0_eta10_cent2
+Writing pp_A_Cw_hPosPass_pt0_eta10_cent3
+Writing pp_A_Cw_hPosPass_pt0_eta10_cent4
+Writing pp_A_Cw_hPosPass_pt0_eta10_cent5
+Writing pp_A_Cw_hPosPass_pt0_eta10_cent6
+Writing pp_A_Cw_hPosPass_pt0_eta1_cent0
+Writing pp_A_Cw_hPosPass_pt0_eta1_cent1
+Writing pp_A_Cw_hPosPass_pt0_eta1_cent2
+Writing pp_A_Cw_hPosPass_pt0_eta1_cent3
+Writing pp_A_Cw_hPosPass_pt0_eta1_cent4
+Writing pp_A_Cw_hPosPass_pt0_eta1_cent5
+Writing pp_A_Cw_hPosPass_pt0_eta1_cent6
+Writing pp_A_Cw_hPosPass_pt0_eta2_cent0
+Writing pp_A_Cw_hPosPass_pt0_eta2_cent1
+Writing pp_A_Cw_hPosPass_pt0_eta2_cent2
+Writing pp_A_Cw_hPosPass_pt0_eta2_cent3
+Writing pp_A_Cw_hPosPass_pt0_eta2_cent4
+Writing pp_A_Cw_hPosPass_pt0_eta2_cent5
+Writing pp_A_Cw_hPosPass_pt0_eta2_cent6
+Writing pp_A_Cw_hPosPass_pt0_eta3_cent0
+Writing pp_A_Cw_hPosPass_pt0_eta3_cent1
+Writing pp_A_Cw_hPosPass_pt0_eta3_cent2
+Writing pp_A_Cw_hPosPass_pt0_eta3_cent3
+Writing pp_A_Cw_hPosPass_pt0_eta3_cent4
+Writing pp_A_Cw_hPosPass_pt0_eta3_cent5
+Writing pp_A_Cw_hPosPass_pt0_eta3_cent6
+Writing pp_A_Cw_hPosPass_pt0_eta4_cent0
+Writing pp_A_Cw_hPosPass_pt0_eta4_cent1
+Writing pp_A_Cw_hPosPass_pt0_eta4_cent2
+Writing pp_A_Cw_hPosPass_pt0_eta4_cent3
+Writing pp_A_Cw_hPosPass_pt0_eta4_cent4
+Writing pp_A_Cw_hPosPass_pt0_eta4_cent5
+Writing pp_A_Cw_hPosPass_pt0_eta4_cent6
+Writing pp_A_Cw_hPosPass_pt0_eta5_cent0
+Writing pp_A_Cw_hPosPass_pt0_eta5_cent1
+Writing pp_A_Cw_hPosPass_pt0_eta5_cent2
+Writing pp_A_Cw_hPosPass_pt0_eta5_cent3
+Writing pp_A_Cw_hPosPass_pt0_eta5_cent4
+Writing pp_A_Cw_hPosPass_pt0_eta5_cent5
+Writing pp_A_Cw_hPosPass_pt0_eta5_cent6
+Writing pp_A_Cw_hPosPass_pt0_eta6_cent0
+Writing pp_A_Cw_hPosPass_pt0_eta6_cent1
+Writing pp_A_Cw_hPosPass_pt0_eta6_cent2
+Writing pp_A_Cw_hPosPass_pt0_eta6_cent3
+Writing pp_A_Cw_hPosPass_pt0_eta6_cent4
+Writing pp_A_Cw_hPosPass_pt0_eta6_cent5
+Writing pp_A_Cw_hPosPass_pt0_eta6_cent6
+Writing pp_A_Cw_hPosPass_pt0_eta7_cent0
+Writing pp_A_Cw_hPosPass_pt0_eta7_cent1
+Writing pp_A_Cw_hPosPass_pt0_eta7_cent2
+Writing pp_A_Cw_hPosPass_pt0_eta7_cent3
+Writing pp_A_Cw_hPosPass_pt0_eta7_cent4
+Writing pp_A_Cw_hPosPass_pt0_eta7_cent5
+Writing pp_A_Cw_hPosPass_pt0_eta7_cent6
+Writing pp_A_Cw_hPosPass_pt0_eta8_cent0
+Writing pp_A_Cw_hPosPass_pt0_eta8_cent1
+Writing pp_A_Cw_hPosPass_pt0_eta8_cent2
+Writing pp_A_Cw_hPosPass_pt0_eta8_cent3
+Writing pp_A_Cw_hPosPass_pt0_eta8_cent4
+Writing pp_A_Cw_hPosPass_pt0_eta8_cent5
+Writing pp_A_Cw_hPosPass_pt0_eta8_cent6
+Writing pp_A_Cw_hPosPass_pt0_eta9_cent0
+Writing pp_A_Cw_hPosPass_pt0_eta9_cent1
+Writing pp_A_Cw_hPosPass_pt0_eta9_cent2
+Writing pp_A_Cw_hPosPass_pt0_eta9_cent3
+Writing pp_A_Cw_hPosPass_pt0_eta9_cent4
+Writing pp_A_Cw_hPosPass_pt0_eta9_cent5
+Writing pp_A_Cw_hPosPass_pt0_eta9_cent6
+Writing pp_A_Cw_hPosTot_pt0_eta0_cent0
+Writing pp_A_Cw_hPosEff_pt0_eta0_cent0
+Writing pp_A_Cw_hPosTot_pt0_eta0_cent1
+Writing pp_A_Cw_hPosEff_pt0_eta0_cent1
+Writing pp_A_Cw_hPosTot_pt0_eta0_cent2
+Writing pp_A_Cw_hPosEff_pt0_eta0_cent2
+Writing pp_A_Cw_hPosTot_pt0_eta0_cent3
+Writing pp_A_Cw_hPosEff_pt0_eta0_cent3
+Writing pp_A_Cw_hPosTot_pt0_eta0_cent4
+Writing pp_A_Cw_hPosEff_pt0_eta0_cent4
+Writing pp_A_Cw_hPosTot_pt0_eta0_cent5
+Writing pp_A_Cw_hPosEff_pt0_eta0_cent5
+Writing pp_A_Cw_hPosTot_pt0_eta0_cent6
+Writing pp_A_Cw_hPosEff_pt0_eta0_cent6
+Writing pp_A_Cw_hPosTot_pt0_eta10_cent0
+Writing pp_A_Cw_hPosEff_pt0_eta10_cent0
+Writing pp_A_Cw_hPosTot_pt0_eta10_cent1
+Writing pp_A_Cw_hPosEff_pt0_eta10_cent1
+Writing pp_A_Cw_hPosTot_pt0_eta10_cent2
+Writing pp_A_Cw_hPosEff_pt0_eta10_cent2
+Writing pp_A_Cw_hPosTot_pt0_eta10_cent3
+Writing pp_A_Cw_hPosEff_pt0_eta10_cent3
+Writing pp_A_Cw_hPosTot_pt0_eta10_cent4
+Writing pp_A_Cw_hPosEff_pt0_eta10_cent4
+Writing pp_A_Cw_hPosTot_pt0_eta10_cent5
+Writing pp_A_Cw_hPosEff_pt0_eta10_cent5
+Writing pp_A_Cw_hPosTot_pt0_eta10_cent6
+Writing pp_A_Cw_hPosEff_pt0_eta10_cent6
+Writing pp_A_Cw_hPosTot_pt0_eta1_cent0
+Writing pp_A_Cw_hPosEff_pt0_eta1_cent0
+Writing pp_A_Cw_hPosTot_pt0_eta1_cent1
+Writing pp_A_Cw_hPosEff_pt0_eta1_cent1
+Writing pp_A_Cw_hPosTot_pt0_eta1_cent2
+Writing pp_A_Cw_hPosEff_pt0_eta1_cent2
+Writing pp_A_Cw_hPosTot_pt0_eta1_cent3
+Writing pp_A_Cw_hPosEff_pt0_eta1_cent3
+Writing pp_A_Cw_hPosTot_pt0_eta1_cent4
+Writing pp_A_Cw_hPosEff_pt0_eta1_cent4
+Writing pp_A_Cw_hPosTot_pt0_eta1_cent5
+Writing pp_A_Cw_hPosEff_pt0_eta1_cent5
+Writing pp_A_Cw_hPosTot_pt0_eta1_cent6
+Writing pp_A_Cw_hPosEff_pt0_eta1_cent6
+Writing pp_A_Cw_hPosTot_pt0_eta2_cent0
+Writing pp_A_Cw_hPosEff_pt0_eta2_cent0
+Writing pp_A_Cw_hPosTot_pt0_eta2_cent1
+Writing pp_A_Cw_hPosEff_pt0_eta2_cent1
+Writing pp_A_Cw_hPosTot_pt0_eta2_cent2
+Writing pp_A_Cw_hPosEff_pt0_eta2_cent2
+Writing pp_A_Cw_hPosTot_pt0_eta2_cent3
+Writing pp_A_Cw_hPosEff_pt0_eta2_cent3
+Writing pp_A_Cw_hPosTot_pt0_eta2_cent4
+Writing pp_A_Cw_hPosEff_pt0_eta2_cent4
+Writing pp_A_Cw_hPosTot_pt0_eta2_cent5
+Writing pp_A_Cw_hPosEff_pt0_eta2_cent5
+Writing pp_A_Cw_hPosTot_pt0_eta2_cent6
+Writing pp_A_Cw_hPosEff_pt0_eta2_cent6
+Writing pp_A_Cw_hPosTot_pt0_eta3_cent0
+Writing pp_A_Cw_hPosEff_pt0_eta3_cent0
+Writing pp_A_Cw_hPosTot_pt0_eta3_cent1
+Writing pp_A_Cw_hPosEff_pt0_eta3_cent1
+Writing pp_A_Cw_hPosTot_pt0_eta3_cent2
+Writing pp_A_Cw_hPosEff_pt0_eta3_cent2
+Writing pp_A_Cw_hPosTot_pt0_eta3_cent3
+Writing pp_A_Cw_hPosEff_pt0_eta3_cent3
+Writing pp_A_Cw_hPosTot_pt0_eta3_cent4
+Writing pp_A_Cw_hPosEff_pt0_eta3_cent4
+Writing pp_A_Cw_hPosTot_pt0_eta3_cent5
+Writing pp_A_Cw_hPosEff_pt0_eta3_cent5
+Writing pp_A_Cw_hPosTot_pt0_eta3_cent6
+Writing pp_A_Cw_hPosEff_pt0_eta3_cent6
+Writing pp_A_Cw_hPosTot_pt0_eta4_cent0
+Writing pp_A_Cw_hPosEff_pt0_eta4_cent0
+Writing pp_A_Cw_hPosTot_pt0_eta4_cent1
+Writing pp_A_Cw_hPosEff_pt0_eta4_cent1
+Writing pp_A_Cw_hPosTot_pt0_eta4_cent2
+Writing pp_A_Cw_hPosEff_pt0_eta4_cent2
+Writing pp_A_Cw_hPosTot_pt0_eta4_cent3
+Writing pp_A_Cw_hPosEff_pt0_eta4_cent3
+Writing pp_A_Cw_hPosTot_pt0_eta4_cent4
+Writing pp_A_Cw_hPosEff_pt0_eta4_cent4
+Writing pp_A_Cw_hPosTot_pt0_eta4_cent5
+Writing pp_A_Cw_hPosEff_pt0_eta4_cent5
+Writing pp_A_Cw_hPosTot_pt0_eta4_cent6
+Writing pp_A_Cw_hPosEff_pt0_eta4_cent6
+Writing pp_A_Cw_hPosTot_pt0_eta5_cent0
+Writing pp_A_Cw_hPosEff_pt0_eta5_cent0
+Writing pp_A_Cw_hPosTot_pt0_eta5_cent1
+Writing pp_A_Cw_hPosEff_pt0_eta5_cent1
+Writing pp_A_Cw_hPosTot_pt0_eta5_cent2
+Writing pp_A_Cw_hPosEff_pt0_eta5_cent2
+Writing pp_A_Cw_hPosTot_pt0_eta5_cent3
+Writing pp_A_Cw_hPosEff_pt0_eta5_cent3
+Writing pp_A_Cw_hPosTot_pt0_eta5_cent4
+Writing pp_A_Cw_hPosEff_pt0_eta5_cent4
+Writing pp_A_Cw_hPosTot_pt0_eta5_cent5
+Writing pp_A_Cw_hPosEff_pt0_eta5_cent5
+Writing pp_A_Cw_hPosTot_pt0_eta5_cent6
+Writing pp_A_Cw_hPosEff_pt0_eta5_cent6
+Writing pp_A_Cw_hPosTot_pt0_eta6_cent0
+Writing pp_A_Cw_hPosEff_pt0_eta6_cent0
+Writing pp_A_Cw_hPosTot_pt0_eta6_cent1
+Writing pp_A_Cw_hPosEff_pt0_eta6_cent1
+Writing pp_A_Cw_hPosTot_pt0_eta6_cent2
+Writing pp_A_Cw_hPosEff_pt0_eta6_cent2
+Writing pp_A_Cw_hPosTot_pt0_eta6_cent3
+Writing pp_A_Cw_hPosEff_pt0_eta6_cent3
+Writing pp_A_Cw_hPosTot_pt0_eta6_cent4
+Writing pp_A_Cw_hPosEff_pt0_eta6_cent4
+Writing pp_A_Cw_hPosTot_pt0_eta6_cent5
+Writing pp_A_Cw_hPosEff_pt0_eta6_cent5
+Writing pp_A_Cw_hPosTot_pt0_eta6_cent6
+Writing pp_A_Cw_hPosEff_pt0_eta6_cent6
+Writing pp_A_Cw_hPosTot_pt0_eta7_cent0
+Writing pp_A_Cw_hPosEff_pt0_eta7_cent0
+Writing pp_A_Cw_hPosTot_pt0_eta7_cent1
+Writing pp_A_Cw_hPosEff_pt0_eta7_cent1
+Writing pp_A_Cw_hPosTot_pt0_eta7_cent2
+Writing pp_A_Cw_hPosEff_pt0_eta7_cent2
+Writing pp_A_Cw_hPosTot_pt0_eta7_cent3
+Writing pp_A_Cw_hPosEff_pt0_eta7_cent3
+Writing pp_A_Cw_hPosTot_pt0_eta7_cent4
+Writing pp_A_Cw_hPosEff_pt0_eta7_cent4
+Writing pp_A_Cw_hPosTot_pt0_eta7_cent5
+Writing pp_A_Cw_hPosEff_pt0_eta7_cent5
+Writing pp_A_Cw_hPosTot_pt0_eta7_cent6
+Writing pp_A_Cw_hPosEff_pt0_eta7_cent6
+Writing pp_A_Cw_hPosTot_pt0_eta8_cent0
+Writing pp_A_Cw_hPosEff_pt0_eta8_cent0
+Writing pp_A_Cw_hPosTot_pt0_eta8_cent1
+Writing pp_A_Cw_hPosEff_pt0_eta8_cent1
+Writing pp_A_Cw_hPosTot_pt0_eta8_cent2
+Writing pp_A_Cw_hPosEff_pt0_eta8_cent2
+Writing pp_A_Cw_hPosTot_pt0_eta8_cent3
+Writing pp_A_Cw_hPosEff_pt0_eta8_cent3
+Writing pp_A_Cw_hPosTot_pt0_eta8_cent4
+Writing pp_A_Cw_hPosEff_pt0_eta8_cent4
+Writing pp_A_Cw_hPosTot_pt0_eta8_cent5
+Writing pp_A_Cw_hPosEff_pt0_eta8_cent5
+Writing pp_A_Cw_hPosTot_pt0_eta8_cent6
+Writing pp_A_Cw_hPosEff_pt0_eta8_cent6
+Writing pp_A_Cw_hPosTot_pt0_eta9_cent0
+Writing pp_A_Cw_hPosEff_pt0_eta9_cent0
+Writing pp_A_Cw_hPosTot_pt0_eta9_cent1
+Writing pp_A_Cw_hPosEff_pt0_eta9_cent1
+Writing pp_A_Cw_hPosTot_pt0_eta9_cent2
+Writing pp_A_Cw_hPosEff_pt0_eta9_cent2
+Writing pp_A_Cw_hPosTot_pt0_eta9_cent3
+Writing pp_A_Cw_hPosEff_pt0_eta9_cent3
+Writing pp_A_Cw_hPosTot_pt0_eta9_cent4
+Writing pp_A_Cw_hPosEff_pt0_eta9_cent4
+Writing pp_A_Cw_hPosTot_pt0_eta9_cent5
+Writing pp_A_Cw_hPosEff_pt0_eta9_cent5
+Writing pp_A_Cw_hPosTot_pt0_eta9_cent6
+Writing pp_A_Cw_hPosEff_pt0_eta9_cent6
+Writing pp_A_Cw_hPosEff_pt0_cent0
+Writing pp_A_Cw_hPosEff_pt0_cent1
+Writing pp_A_Cw_hPosEff_pt0_cent2
+Writing pp_A_Cw_hPosEff_pt0_cent3
+Writing pp_A_Cw_hPosEff_pt0_cent4
+Writing pp_A_Cw_hPosEff_pt0_cent5
+Writing pp_A_Cw_hPosEff_pt0_cent6
+[EfficiencyCorrection::EfficiencyCorrection] Running on np collisions.
+[EfficiencyCorrection::EfficiencyCorrection] Period A configuration.
+[EfficiencyCorrection::EfficiencyCorrection] Initializing histograms for 1 pt bins, 11 eta bins, 7 centrality bins.
+[EfficiencyCorrection::EfficiencyCorrection] Run to calculate Cw efficiency.
+[EfficiencyCorrection::EfficiencyCorrection] W+ --> mu+ nu
+[EfficiencyCorrection::EfficiencyCorrection] Histograms initialized and ready for use.
+Number of entries in generator tree: 146253
+Number of entries in reconstructed tree: 57146
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.6332
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.62763
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.41673
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.1335
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.914574
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.69965
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.564082
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.6332
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.62763
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.41673
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.1335
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.914574
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.69965
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.564082
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.6332
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.62763
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.41673
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.1335
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.914574
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.69965
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.564082
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.6332
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.62763
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.41673
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.1335
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.914574
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.69965
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.564082
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.6332
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.62763
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.41673
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.1335
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.914574
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.69965
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.564082
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.6332
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.62763
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.41673
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.1335
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.914574
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.69965
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.564082
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.6332
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.62763
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.41673
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.1335
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.914574
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.69965
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.564082
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.6332
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.62763
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.41673
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.1335
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.914574
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.69965
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.564082
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.6332
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.62763
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.41673
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.1335
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.914574
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.69965
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.564082
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.6332
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.62763
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.41673
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.1335
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.914574
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.69965
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.564082
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.6332
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.62763
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.41673
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.1335
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.914574
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.69965
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.564082
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.6332
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.62763
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.41673
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.1335
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.914574
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.69965
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.564082
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.6332
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.62763
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.41673
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.1335
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.914574
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.69965
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.564082
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.6332
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.62763
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.41673
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.1335
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.914574
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.69965
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.564082
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.6332
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.62763
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.41673
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.1335
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.914574
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.69965
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.564082
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.6332
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.62763
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.41673
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.1335
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.914574
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.69965
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.564082
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.6332
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.62763
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.41673
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.1335
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.914574
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.69965
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.564082
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.6332
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.62763
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.41673
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.1335
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.914574
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.69965
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.564082
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.6332
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.62763
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.41673
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.1335
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.914574
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.69965
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.564082
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.6332
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.62763
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.41673
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.1335
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.914574
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.69965
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.564082
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.6332
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.62763
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.41673
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.1335
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.914574
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.69965
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.564082
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.6332
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.62763
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.41673
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.1335
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.914574
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.69965
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.564082
+Writing np_A_Cw_hPosPass_pt0_eta0_cent0
+Writing np_A_Cw_hPosPass_pt0_eta0_cent1
+Writing np_A_Cw_hPosPass_pt0_eta0_cent2
+Writing np_A_Cw_hPosPass_pt0_eta0_cent3
+Writing np_A_Cw_hPosPass_pt0_eta0_cent4
+Writing np_A_Cw_hPosPass_pt0_eta0_cent5
+Writing np_A_Cw_hPosPass_pt0_eta0_cent6
+Writing np_A_Cw_hPosPass_pt0_eta10_cent0
+Writing np_A_Cw_hPosPass_pt0_eta10_cent1
+Writing np_A_Cw_hPosPass_pt0_eta10_cent2
+Writing np_A_Cw_hPosPass_pt0_eta10_cent3
+Writing np_A_Cw_hPosPass_pt0_eta10_cent4
+Writing np_A_Cw_hPosPass_pt0_eta10_cent5
+Writing np_A_Cw_hPosPass_pt0_eta10_cent6
+Writing np_A_Cw_hPosPass_pt0_eta1_cent0
+Writing np_A_Cw_hPosPass_pt0_eta1_cent1
+Writing np_A_Cw_hPosPass_pt0_eta1_cent2
+Writing np_A_Cw_hPosPass_pt0_eta1_cent3
+Writing np_A_Cw_hPosPass_pt0_eta1_cent4
+Writing np_A_Cw_hPosPass_pt0_eta1_cent5
+Writing np_A_Cw_hPosPass_pt0_eta1_cent6
+Writing np_A_Cw_hPosPass_pt0_eta2_cent0
+Writing np_A_Cw_hPosPass_pt0_eta2_cent1
+Writing np_A_Cw_hPosPass_pt0_eta2_cent2
+Writing np_A_Cw_hPosPass_pt0_eta2_cent3
+Writing np_A_Cw_hPosPass_pt0_eta2_cent4
+Writing np_A_Cw_hPosPass_pt0_eta2_cent5
+Writing np_A_Cw_hPosPass_pt0_eta2_cent6
+Writing np_A_Cw_hPosPass_pt0_eta3_cent0
+Writing np_A_Cw_hPosPass_pt0_eta3_cent1
+Writing np_A_Cw_hPosPass_pt0_eta3_cent2
+Writing np_A_Cw_hPosPass_pt0_eta3_cent3
+Writing np_A_Cw_hPosPass_pt0_eta3_cent4
+Writing np_A_Cw_hPosPass_pt0_eta3_cent5
+Writing np_A_Cw_hPosPass_pt0_eta3_cent6
+Writing np_A_Cw_hPosPass_pt0_eta4_cent0
+Writing np_A_Cw_hPosPass_pt0_eta4_cent1
+Writing np_A_Cw_hPosPass_pt0_eta4_cent2
+Writing np_A_Cw_hPosPass_pt0_eta4_cent3
+Writing np_A_Cw_hPosPass_pt0_eta4_cent4
+Writing np_A_Cw_hPosPass_pt0_eta4_cent5
+Writing np_A_Cw_hPosPass_pt0_eta4_cent6
+Writing np_A_Cw_hPosPass_pt0_eta5_cent0
+Writing np_A_Cw_hPosPass_pt0_eta5_cent1
+Writing np_A_Cw_hPosPass_pt0_eta5_cent2
+Writing np_A_Cw_hPosPass_pt0_eta5_cent3
+Writing np_A_Cw_hPosPass_pt0_eta5_cent4
+Writing np_A_Cw_hPosPass_pt0_eta5_cent5
+Writing np_A_Cw_hPosPass_pt0_eta5_cent6
+Writing np_A_Cw_hPosPass_pt0_eta6_cent0
+Writing np_A_Cw_hPosPass_pt0_eta6_cent1
+Writing np_A_Cw_hPosPass_pt0_eta6_cent2
+Writing np_A_Cw_hPosPass_pt0_eta6_cent3
+Writing np_A_Cw_hPosPass_pt0_eta6_cent4
+Writing np_A_Cw_hPosPass_pt0_eta6_cent5
+Writing np_A_Cw_hPosPass_pt0_eta6_cent6
+Writing np_A_Cw_hPosPass_pt0_eta7_cent0
+Writing np_A_Cw_hPosPass_pt0_eta7_cent1
+Writing np_A_Cw_hPosPass_pt0_eta7_cent2
+Writing np_A_Cw_hPosPass_pt0_eta7_cent3
+Writing np_A_Cw_hPosPass_pt0_eta7_cent4
+Writing np_A_Cw_hPosPass_pt0_eta7_cent5
+Writing np_A_Cw_hPosPass_pt0_eta7_cent6
+Writing np_A_Cw_hPosPass_pt0_eta8_cent0
+Writing np_A_Cw_hPosPass_pt0_eta8_cent1
+Writing np_A_Cw_hPosPass_pt0_eta8_cent2
+Writing np_A_Cw_hPosPass_pt0_eta8_cent3
+Writing np_A_Cw_hPosPass_pt0_eta8_cent4
+Writing np_A_Cw_hPosPass_pt0_eta8_cent5
+Writing np_A_Cw_hPosPass_pt0_eta8_cent6
+Writing np_A_Cw_hPosPass_pt0_eta9_cent0
+Writing np_A_Cw_hPosPass_pt0_eta9_cent1
+Writing np_A_Cw_hPosPass_pt0_eta9_cent2
+Writing np_A_Cw_hPosPass_pt0_eta9_cent3
+Writing np_A_Cw_hPosPass_pt0_eta9_cent4
+Writing np_A_Cw_hPosPass_pt0_eta9_cent5
+Writing np_A_Cw_hPosPass_pt0_eta9_cent6
+Writing np_A_Cw_hPosTot_pt0_eta0_cent0
+Writing np_A_Cw_hPosEff_pt0_eta0_cent0
+Writing np_A_Cw_hPosTot_pt0_eta0_cent1
+Writing np_A_Cw_hPosEff_pt0_eta0_cent1
+Writing np_A_Cw_hPosTot_pt0_eta0_cent2
+Writing np_A_Cw_hPosEff_pt0_eta0_cent2
+Writing np_A_Cw_hPosTot_pt0_eta0_cent3
+Writing np_A_Cw_hPosEff_pt0_eta0_cent3
+Writing np_A_Cw_hPosTot_pt0_eta0_cent4
+Writing np_A_Cw_hPosEff_pt0_eta0_cent4
+Writing np_A_Cw_hPosTot_pt0_eta0_cent5
+Writing np_A_Cw_hPosEff_pt0_eta0_cent5
+Writing np_A_Cw_hPosTot_pt0_eta0_cent6
+Writing np_A_Cw_hPosEff_pt0_eta0_cent6
+Writing np_A_Cw_hPosTot_pt0_eta10_cent0
+Writing np_A_Cw_hPosEff_pt0_eta10_cent0
+Writing np_A_Cw_hPosTot_pt0_eta10_cent1
+Writing np_A_Cw_hPosEff_pt0_eta10_cent1
+Writing np_A_Cw_hPosTot_pt0_eta10_cent2
+Writing np_A_Cw_hPosEff_pt0_eta10_cent2
+Writing np_A_Cw_hPosTot_pt0_eta10_cent3
+Writing np_A_Cw_hPosEff_pt0_eta10_cent3
+Writing np_A_Cw_hPosTot_pt0_eta10_cent4
+Writing np_A_Cw_hPosEff_pt0_eta10_cent4
+Writing np_A_Cw_hPosTot_pt0_eta10_cent5
+Writing np_A_Cw_hPosEff_pt0_eta10_cent5
+Writing np_A_Cw_hPosTot_pt0_eta10_cent6
+Writing np_A_Cw_hPosEff_pt0_eta10_cent6
+Writing np_A_Cw_hPosTot_pt0_eta1_cent0
+Writing np_A_Cw_hPosEff_pt0_eta1_cent0
+Writing np_A_Cw_hPosTot_pt0_eta1_cent1
+Writing np_A_Cw_hPosEff_pt0_eta1_cent1
+Writing np_A_Cw_hPosTot_pt0_eta1_cent2
+Writing np_A_Cw_hPosEff_pt0_eta1_cent2
+Writing np_A_Cw_hPosTot_pt0_eta1_cent3
+Writing np_A_Cw_hPosEff_pt0_eta1_cent3
+Writing np_A_Cw_hPosTot_pt0_eta1_cent4
+Writing np_A_Cw_hPosEff_pt0_eta1_cent4
+Writing np_A_Cw_hPosTot_pt0_eta1_cent5
+Writing np_A_Cw_hPosEff_pt0_eta1_cent5
+Writing np_A_Cw_hPosTot_pt0_eta1_cent6
+Writing np_A_Cw_hPosEff_pt0_eta1_cent6
+Writing np_A_Cw_hPosTot_pt0_eta2_cent0
+Writing np_A_Cw_hPosEff_pt0_eta2_cent0
+Writing np_A_Cw_hPosTot_pt0_eta2_cent1
+Writing np_A_Cw_hPosEff_pt0_eta2_cent1
+Writing np_A_Cw_hPosTot_pt0_eta2_cent2
+Writing np_A_Cw_hPosEff_pt0_eta2_cent2
+Writing np_A_Cw_hPosTot_pt0_eta2_cent3
+Writing np_A_Cw_hPosEff_pt0_eta2_cent3
+Writing np_A_Cw_hPosTot_pt0_eta2_cent4
+Writing np_A_Cw_hPosEff_pt0_eta2_cent4
+Writing np_A_Cw_hPosTot_pt0_eta2_cent5
+Writing np_A_Cw_hPosEff_pt0_eta2_cent5
+Writing np_A_Cw_hPosTot_pt0_eta2_cent6
+Writing np_A_Cw_hPosEff_pt0_eta2_cent6
+Writing np_A_Cw_hPosTot_pt0_eta3_cent0
+Writing np_A_Cw_hPosEff_pt0_eta3_cent0
+Writing np_A_Cw_hPosTot_pt0_eta3_cent1
+Writing np_A_Cw_hPosEff_pt0_eta3_cent1
+Writing np_A_Cw_hPosTot_pt0_eta3_cent2
+Writing np_A_Cw_hPosEff_pt0_eta3_cent2
+Writing np_A_Cw_hPosTot_pt0_eta3_cent3
+Writing np_A_Cw_hPosEff_pt0_eta3_cent3
+Writing np_A_Cw_hPosTot_pt0_eta3_cent4
+Writing np_A_Cw_hPosEff_pt0_eta3_cent4
+Writing np_A_Cw_hPosTot_pt0_eta3_cent5
+Writing np_A_Cw_hPosEff_pt0_eta3_cent5
+Writing np_A_Cw_hPosTot_pt0_eta3_cent6
+Writing np_A_Cw_hPosEff_pt0_eta3_cent6
+Writing np_A_Cw_hPosTot_pt0_eta4_cent0
+Writing np_A_Cw_hPosEff_pt0_eta4_cent0
+Writing np_A_Cw_hPosTot_pt0_eta4_cent1
+Writing np_A_Cw_hPosEff_pt0_eta4_cent1
+Writing np_A_Cw_hPosTot_pt0_eta4_cent2
+Writing np_A_Cw_hPosEff_pt0_eta4_cent2
+Writing np_A_Cw_hPosTot_pt0_eta4_cent3
+Writing np_A_Cw_hPosEff_pt0_eta4_cent3
+Writing np_A_Cw_hPosTot_pt0_eta4_cent4
+Writing np_A_Cw_hPosEff_pt0_eta4_cent4
+Writing np_A_Cw_hPosTot_pt0_eta4_cent5
+Writing np_A_Cw_hPosEff_pt0_eta4_cent5
+Writing np_A_Cw_hPosTot_pt0_eta4_cent6
+Writing np_A_Cw_hPosEff_pt0_eta4_cent6
+Writing np_A_Cw_hPosTot_pt0_eta5_cent0
+Writing np_A_Cw_hPosEff_pt0_eta5_cent0
+Writing np_A_Cw_hPosTot_pt0_eta5_cent1
+Writing np_A_Cw_hPosEff_pt0_eta5_cent1
+Writing np_A_Cw_hPosTot_pt0_eta5_cent2
+Writing np_A_Cw_hPosEff_pt0_eta5_cent2
+Writing np_A_Cw_hPosTot_pt0_eta5_cent3
+Writing np_A_Cw_hPosEff_pt0_eta5_cent3
+Writing np_A_Cw_hPosTot_pt0_eta5_cent4
+Writing np_A_Cw_hPosEff_pt0_eta5_cent4
+Writing np_A_Cw_hPosTot_pt0_eta5_cent5
+Writing np_A_Cw_hPosEff_pt0_eta5_cent5
+Writing np_A_Cw_hPosTot_pt0_eta5_cent6
+Writing np_A_Cw_hPosEff_pt0_eta5_cent6
+Writing np_A_Cw_hPosTot_pt0_eta6_cent0
+Writing np_A_Cw_hPosEff_pt0_eta6_cent0
+Writing np_A_Cw_hPosTot_pt0_eta6_cent1
+Writing np_A_Cw_hPosEff_pt0_eta6_cent1
+Writing np_A_Cw_hPosTot_pt0_eta6_cent2
+Writing np_A_Cw_hPosEff_pt0_eta6_cent2
+Writing np_A_Cw_hPosTot_pt0_eta6_cent3
+Writing np_A_Cw_hPosEff_pt0_eta6_cent3
+Writing np_A_Cw_hPosTot_pt0_eta6_cent4
+Writing np_A_Cw_hPosEff_pt0_eta6_cent4
+Writing np_A_Cw_hPosTot_pt0_eta6_cent5
+Writing np_A_Cw_hPosEff_pt0_eta6_cent5
+Writing np_A_Cw_hPosTot_pt0_eta6_cent6
+Writing np_A_Cw_hPosEff_pt0_eta6_cent6
+Writing np_A_Cw_hPosTot_pt0_eta7_cent0
+Writing np_A_Cw_hPosEff_pt0_eta7_cent0
+Writing np_A_Cw_hPosTot_pt0_eta7_cent1
+Writing np_A_Cw_hPosEff_pt0_eta7_cent1
+Writing np_A_Cw_hPosTot_pt0_eta7_cent2
+Writing np_A_Cw_hPosEff_pt0_eta7_cent2
+Writing np_A_Cw_hPosTot_pt0_eta7_cent3
+Writing np_A_Cw_hPosEff_pt0_eta7_cent3
+Writing np_A_Cw_hPosTot_pt0_eta7_cent4
+Writing np_A_Cw_hPosEff_pt0_eta7_cent4
+Writing np_A_Cw_hPosTot_pt0_eta7_cent5
+Writing np_A_Cw_hPosEff_pt0_eta7_cent5
+Writing np_A_Cw_hPosTot_pt0_eta7_cent6
+Writing np_A_Cw_hPosEff_pt0_eta7_cent6
+Writing np_A_Cw_hPosTot_pt0_eta8_cent0
+Writing np_A_Cw_hPosEff_pt0_eta8_cent0
+Writing np_A_Cw_hPosTot_pt0_eta8_cent1
+Writing np_A_Cw_hPosEff_pt0_eta8_cent1
+Writing np_A_Cw_hPosTot_pt0_eta8_cent2
+Writing np_A_Cw_hPosEff_pt0_eta8_cent2
+Writing np_A_Cw_hPosTot_pt0_eta8_cent3
+Writing np_A_Cw_hPosEff_pt0_eta8_cent3
+Writing np_A_Cw_hPosTot_pt0_eta8_cent4
+Writing np_A_Cw_hPosEff_pt0_eta8_cent4
+Writing np_A_Cw_hPosTot_pt0_eta8_cent5
+Writing np_A_Cw_hPosEff_pt0_eta8_cent5
+Writing np_A_Cw_hPosTot_pt0_eta8_cent6
+Writing np_A_Cw_hPosEff_pt0_eta8_cent6
+Writing np_A_Cw_hPosTot_pt0_eta9_cent0
+Writing np_A_Cw_hPosEff_pt0_eta9_cent0
+Writing np_A_Cw_hPosTot_pt0_eta9_cent1
+Writing np_A_Cw_hPosEff_pt0_eta9_cent1
+Writing np_A_Cw_hPosTot_pt0_eta9_cent2
+Writing np_A_Cw_hPosEff_pt0_eta9_cent2
+Writing np_A_Cw_hPosTot_pt0_eta9_cent3
+Writing np_A_Cw_hPosEff_pt0_eta9_cent3
+Writing np_A_Cw_hPosTot_pt0_eta9_cent4
+Writing np_A_Cw_hPosEff_pt0_eta9_cent4
+Writing np_A_Cw_hPosTot_pt0_eta9_cent5
+Writing np_A_Cw_hPosEff_pt0_eta9_cent5
+Writing np_A_Cw_hPosTot_pt0_eta9_cent6
+Writing np_A_Cw_hPosEff_pt0_eta9_cent6
+Writing np_A_Cw_hPosEff_pt0_cent0
+Writing np_A_Cw_hPosEff_pt0_cent1
+Writing np_A_Cw_hPosEff_pt0_cent2
+Writing np_A_Cw_hPosEff_pt0_cent3
+Writing np_A_Cw_hPosEff_pt0_cent4
+Writing np_A_Cw_hPosEff_pt0_cent5
+Writing np_A_Cw_hPosEff_pt0_cent6
+[EfficiencyCorrection::EfficiencyCorrection] Running on pp collisions.
+[EfficiencyCorrection::EfficiencyCorrection] Period B configuration.
+[EfficiencyCorrection::EfficiencyCorrection] Initializing histograms for 1 pt bins, 11 eta bins, 7 centrality bins.
+[EfficiencyCorrection::EfficiencyCorrection] Run to calculate Cw efficiency.
+[EfficiencyCorrection::EfficiencyCorrection] W+ --> mu+ nu
+[EfficiencyCorrection::EfficiencyCorrection] Histograms initialized and ready for use.
+Number of entries in generator tree: 489988
+Number of entries in reconstructed tree: 179951
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.6332
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.62763
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.41673
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.1335
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.914574
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.69965
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.564082
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.6332
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.62763
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.41673
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.1335
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.914574
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.69965
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.564082
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.6332
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.62763
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.41673
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.1335
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.914574
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.69965
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.564082
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.6332
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.62763
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.41673
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.1335
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.914574
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.69965
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.564082
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.6332
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.62763
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.41673
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.1335
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.914574
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.69965
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.564082
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.6332
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.62763
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.41673
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.1335
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.914574
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.69965
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.564082
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.6332
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.62763
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.41673
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.1335
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.914574
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.69965
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.564082
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.6332
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.62763
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.41673
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.1335
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.914574
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.69965
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.564082
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.6332
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.62763
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.41673
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.1335
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.914574
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.69965
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.564082
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.6332
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.62763
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.41673
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.1335
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.914574
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.69965
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.564082
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.6332
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.62763
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.41673
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.1335
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.914574
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.69965
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.564082
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.6332
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.62763
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.41673
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.1335
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.914574
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.69965
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.564082
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.6332
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.62763
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.41673
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.1335
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.914574
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.69965
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.564082
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.6332
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.62763
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.41673
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.1335
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.914574
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.69965
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.564082
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.6332
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.62763
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.41673
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.1335
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.914574
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.69965
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.564082
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.6332
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.62763
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.41673
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.1335
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.914574
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.69965
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.564082
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.6332
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.62763
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.41673
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.1335
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.914574
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.69965
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.564082
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.6332
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.62763
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.41673
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.1335
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.914574
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.69965
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.564082
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.6332
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.62763
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.41673
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.1335
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.914574
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.69965
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.564082
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.6332
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.62763
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.41673
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.1335
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.914574
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.69965
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.564082
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.6332
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.62763
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.41673
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.1335
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.914574
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.69965
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.564082
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.6332
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.62763
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.41673
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.1335
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.914574
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.69965
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.564082
+Writing pp_B_Cw_hPosPass_pt0_eta0_cent0
+Writing pp_B_Cw_hPosPass_pt0_eta0_cent1
+Writing pp_B_Cw_hPosPass_pt0_eta0_cent2
+Writing pp_B_Cw_hPosPass_pt0_eta0_cent3
+Writing pp_B_Cw_hPosPass_pt0_eta0_cent4
+Writing pp_B_Cw_hPosPass_pt0_eta0_cent5
+Writing pp_B_Cw_hPosPass_pt0_eta0_cent6
+Writing pp_B_Cw_hPosPass_pt0_eta10_cent0
+Writing pp_B_Cw_hPosPass_pt0_eta10_cent1
+Writing pp_B_Cw_hPosPass_pt0_eta10_cent2
+Writing pp_B_Cw_hPosPass_pt0_eta10_cent3
+Writing pp_B_Cw_hPosPass_pt0_eta10_cent4
+Writing pp_B_Cw_hPosPass_pt0_eta10_cent5
+Writing pp_B_Cw_hPosPass_pt0_eta10_cent6
+Writing pp_B_Cw_hPosPass_pt0_eta1_cent0
+Writing pp_B_Cw_hPosPass_pt0_eta1_cent1
+Writing pp_B_Cw_hPosPass_pt0_eta1_cent2
+Writing pp_B_Cw_hPosPass_pt0_eta1_cent3
+Writing pp_B_Cw_hPosPass_pt0_eta1_cent4
+Writing pp_B_Cw_hPosPass_pt0_eta1_cent5
+Writing pp_B_Cw_hPosPass_pt0_eta1_cent6
+Writing pp_B_Cw_hPosPass_pt0_eta2_cent0
+Writing pp_B_Cw_hPosPass_pt0_eta2_cent1
+Writing pp_B_Cw_hPosPass_pt0_eta2_cent2
+Writing pp_B_Cw_hPosPass_pt0_eta2_cent3
+Writing pp_B_Cw_hPosPass_pt0_eta2_cent4
+Writing pp_B_Cw_hPosPass_pt0_eta2_cent5
+Writing pp_B_Cw_hPosPass_pt0_eta2_cent6
+Writing pp_B_Cw_hPosPass_pt0_eta3_cent0
+Writing pp_B_Cw_hPosPass_pt0_eta3_cent1
+Writing pp_B_Cw_hPosPass_pt0_eta3_cent2
+Writing pp_B_Cw_hPosPass_pt0_eta3_cent3
+Writing pp_B_Cw_hPosPass_pt0_eta3_cent4
+Writing pp_B_Cw_hPosPass_pt0_eta3_cent5
+Writing pp_B_Cw_hPosPass_pt0_eta3_cent6
+Writing pp_B_Cw_hPosPass_pt0_eta4_cent0
+Writing pp_B_Cw_hPosPass_pt0_eta4_cent1
+Writing pp_B_Cw_hPosPass_pt0_eta4_cent2
+Writing pp_B_Cw_hPosPass_pt0_eta4_cent3
+Writing pp_B_Cw_hPosPass_pt0_eta4_cent4
+Writing pp_B_Cw_hPosPass_pt0_eta4_cent5
+Writing pp_B_Cw_hPosPass_pt0_eta4_cent6
+Writing pp_B_Cw_hPosPass_pt0_eta5_cent0
+Writing pp_B_Cw_hPosPass_pt0_eta5_cent1
+Writing pp_B_Cw_hPosPass_pt0_eta5_cent2
+Writing pp_B_Cw_hPosPass_pt0_eta5_cent3
+Writing pp_B_Cw_hPosPass_pt0_eta5_cent4
+Writing pp_B_Cw_hPosPass_pt0_eta5_cent5
+Writing pp_B_Cw_hPosPass_pt0_eta5_cent6
+Writing pp_B_Cw_hPosPass_pt0_eta6_cent0
+Writing pp_B_Cw_hPosPass_pt0_eta6_cent1
+Writing pp_B_Cw_hPosPass_pt0_eta6_cent2
+Writing pp_B_Cw_hPosPass_pt0_eta6_cent3
+Writing pp_B_Cw_hPosPass_pt0_eta6_cent4
+Writing pp_B_Cw_hPosPass_pt0_eta6_cent5
+Writing pp_B_Cw_hPosPass_pt0_eta6_cent6
+Writing pp_B_Cw_hPosPass_pt0_eta7_cent0
+Writing pp_B_Cw_hPosPass_pt0_eta7_cent1
+Writing pp_B_Cw_hPosPass_pt0_eta7_cent2
+Writing pp_B_Cw_hPosPass_pt0_eta7_cent3
+Writing pp_B_Cw_hPosPass_pt0_eta7_cent4
+Writing pp_B_Cw_hPosPass_pt0_eta7_cent5
+Writing pp_B_Cw_hPosPass_pt0_eta7_cent6
+Writing pp_B_Cw_hPosPass_pt0_eta8_cent0
+Writing pp_B_Cw_hPosPass_pt0_eta8_cent1
+Writing pp_B_Cw_hPosPass_pt0_eta8_cent2
+Writing pp_B_Cw_hPosPass_pt0_eta8_cent3
+Writing pp_B_Cw_hPosPass_pt0_eta8_cent4
+Writing pp_B_Cw_hPosPass_pt0_eta8_cent5
+Writing pp_B_Cw_hPosPass_pt0_eta8_cent6
+Writing pp_B_Cw_hPosPass_pt0_eta9_cent0
+Writing pp_B_Cw_hPosPass_pt0_eta9_cent1
+Writing pp_B_Cw_hPosPass_pt0_eta9_cent2
+Writing pp_B_Cw_hPosPass_pt0_eta9_cent3
+Writing pp_B_Cw_hPosPass_pt0_eta9_cent4
+Writing pp_B_Cw_hPosPass_pt0_eta9_cent5
+Writing pp_B_Cw_hPosPass_pt0_eta9_cent6
+Writing pp_B_Cw_hPosTot_pt0_eta0_cent0
+Writing pp_B_Cw_hPosEff_pt0_eta0_cent0
+Writing pp_B_Cw_hPosTot_pt0_eta0_cent1
+Writing pp_B_Cw_hPosEff_pt0_eta0_cent1
+Writing pp_B_Cw_hPosTot_pt0_eta0_cent2
+Writing pp_B_Cw_hPosEff_pt0_eta0_cent2
+Writing pp_B_Cw_hPosTot_pt0_eta0_cent3
+Writing pp_B_Cw_hPosEff_pt0_eta0_cent3
+Writing pp_B_Cw_hPosTot_pt0_eta0_cent4
+Writing pp_B_Cw_hPosEff_pt0_eta0_cent4
+Writing pp_B_Cw_hPosTot_pt0_eta0_cent5
+Writing pp_B_Cw_hPosEff_pt0_eta0_cent5
+Writing pp_B_Cw_hPosTot_pt0_eta0_cent6
+Writing pp_B_Cw_hPosEff_pt0_eta0_cent6
+Writing pp_B_Cw_hPosTot_pt0_eta10_cent0
+Writing pp_B_Cw_hPosEff_pt0_eta10_cent0
+Writing pp_B_Cw_hPosTot_pt0_eta10_cent1
+Writing pp_B_Cw_hPosEff_pt0_eta10_cent1
+Writing pp_B_Cw_hPosTot_pt0_eta10_cent2
+Writing pp_B_Cw_hPosEff_pt0_eta10_cent2
+Writing pp_B_Cw_hPosTot_pt0_eta10_cent3
+Writing pp_B_Cw_hPosEff_pt0_eta10_cent3
+Writing pp_B_Cw_hPosTot_pt0_eta10_cent4
+Writing pp_B_Cw_hPosEff_pt0_eta10_cent4
+Writing pp_B_Cw_hPosTot_pt0_eta10_cent5
+Writing pp_B_Cw_hPosEff_pt0_eta10_cent5
+Writing pp_B_Cw_hPosTot_pt0_eta10_cent6
+Writing pp_B_Cw_hPosEff_pt0_eta10_cent6
+Writing pp_B_Cw_hPosTot_pt0_eta1_cent0
+Writing pp_B_Cw_hPosEff_pt0_eta1_cent0
+Writing pp_B_Cw_hPosTot_pt0_eta1_cent1
+Writing pp_B_Cw_hPosEff_pt0_eta1_cent1
+Writing pp_B_Cw_hPosTot_pt0_eta1_cent2
+Writing pp_B_Cw_hPosEff_pt0_eta1_cent2
+Writing pp_B_Cw_hPosTot_pt0_eta1_cent3
+Writing pp_B_Cw_hPosEff_pt0_eta1_cent3
+Writing pp_B_Cw_hPosTot_pt0_eta1_cent4
+Writing pp_B_Cw_hPosEff_pt0_eta1_cent4
+Writing pp_B_Cw_hPosTot_pt0_eta1_cent5
+Writing pp_B_Cw_hPosEff_pt0_eta1_cent5
+Writing pp_B_Cw_hPosTot_pt0_eta1_cent6
+Writing pp_B_Cw_hPosEff_pt0_eta1_cent6
+Writing pp_B_Cw_hPosTot_pt0_eta2_cent0
+Writing pp_B_Cw_hPosEff_pt0_eta2_cent0
+Writing pp_B_Cw_hPosTot_pt0_eta2_cent1
+Writing pp_B_Cw_hPosEff_pt0_eta2_cent1
+Writing pp_B_Cw_hPosTot_pt0_eta2_cent2
+Writing pp_B_Cw_hPosEff_pt0_eta2_cent2
+Writing pp_B_Cw_hPosTot_pt0_eta2_cent3
+Writing pp_B_Cw_hPosEff_pt0_eta2_cent3
+Writing pp_B_Cw_hPosTot_pt0_eta2_cent4
+Writing pp_B_Cw_hPosEff_pt0_eta2_cent4
+Writing pp_B_Cw_hPosTot_pt0_eta2_cent5
+Writing pp_B_Cw_hPosEff_pt0_eta2_cent5
+Writing pp_B_Cw_hPosTot_pt0_eta2_cent6
+Writing pp_B_Cw_hPosEff_pt0_eta2_cent6
+Writing pp_B_Cw_hPosTot_pt0_eta3_cent0
+Writing pp_B_Cw_hPosEff_pt0_eta3_cent0
+Writing pp_B_Cw_hPosTot_pt0_eta3_cent1
+Writing pp_B_Cw_hPosEff_pt0_eta3_cent1
+Writing pp_B_Cw_hPosTot_pt0_eta3_cent2
+Writing pp_B_Cw_hPosEff_pt0_eta3_cent2
+Writing pp_B_Cw_hPosTot_pt0_eta3_cent3
+Writing pp_B_Cw_hPosEff_pt0_eta3_cent3
+Writing pp_B_Cw_hPosTot_pt0_eta3_cent4
+Writing pp_B_Cw_hPosEff_pt0_eta3_cent4
+Writing pp_B_Cw_hPosTot_pt0_eta3_cent5
+Writing pp_B_Cw_hPosEff_pt0_eta3_cent5
+Writing pp_B_Cw_hPosTot_pt0_eta3_cent6
+Writing pp_B_Cw_hPosEff_pt0_eta3_cent6
+Writing pp_B_Cw_hPosTot_pt0_eta4_cent0
+Writing pp_B_Cw_hPosEff_pt0_eta4_cent0
+Writing pp_B_Cw_hPosTot_pt0_eta4_cent1
+Writing pp_B_Cw_hPosEff_pt0_eta4_cent1
+Writing pp_B_Cw_hPosTot_pt0_eta4_cent2
+Writing pp_B_Cw_hPosEff_pt0_eta4_cent2
+Writing pp_B_Cw_hPosTot_pt0_eta4_cent3
+Writing pp_B_Cw_hPosEff_pt0_eta4_cent3
+Writing pp_B_Cw_hPosTot_pt0_eta4_cent4
+Writing pp_B_Cw_hPosEff_pt0_eta4_cent4
+Writing pp_B_Cw_hPosTot_pt0_eta4_cent5
+Writing pp_B_Cw_hPosEff_pt0_eta4_cent5
+Writing pp_B_Cw_hPosTot_pt0_eta4_cent6
+Writing pp_B_Cw_hPosEff_pt0_eta4_cent6
+Writing pp_B_Cw_hPosTot_pt0_eta5_cent0
+Writing pp_B_Cw_hPosEff_pt0_eta5_cent0
+Writing pp_B_Cw_hPosTot_pt0_eta5_cent1
+Writing pp_B_Cw_hPosEff_pt0_eta5_cent1
+Writing pp_B_Cw_hPosTot_pt0_eta5_cent2
+Writing pp_B_Cw_hPosEff_pt0_eta5_cent2
+Writing pp_B_Cw_hPosTot_pt0_eta5_cent3
+Writing pp_B_Cw_hPosEff_pt0_eta5_cent3
+Writing pp_B_Cw_hPosTot_pt0_eta5_cent4
+Writing pp_B_Cw_hPosEff_pt0_eta5_cent4
+Writing pp_B_Cw_hPosTot_pt0_eta5_cent5
+Writing pp_B_Cw_hPosEff_pt0_eta5_cent5
+Writing pp_B_Cw_hPosTot_pt0_eta5_cent6
+Writing pp_B_Cw_hPosEff_pt0_eta5_cent6
+Writing pp_B_Cw_hPosTot_pt0_eta6_cent0
+Writing pp_B_Cw_hPosEff_pt0_eta6_cent0
+Writing pp_B_Cw_hPosTot_pt0_eta6_cent1
+Writing pp_B_Cw_hPosEff_pt0_eta6_cent1
+Writing pp_B_Cw_hPosTot_pt0_eta6_cent2
+Writing pp_B_Cw_hPosEff_pt0_eta6_cent2
+Writing pp_B_Cw_hPosTot_pt0_eta6_cent3
+Writing pp_B_Cw_hPosEff_pt0_eta6_cent3
+Writing pp_B_Cw_hPosTot_pt0_eta6_cent4
+Writing pp_B_Cw_hPosEff_pt0_eta6_cent4
+Writing pp_B_Cw_hPosTot_pt0_eta6_cent5
+Writing pp_B_Cw_hPosEff_pt0_eta6_cent5
+Writing pp_B_Cw_hPosTot_pt0_eta6_cent6
+Writing pp_B_Cw_hPosEff_pt0_eta6_cent6
+Writing pp_B_Cw_hPosTot_pt0_eta7_cent0
+Writing pp_B_Cw_hPosEff_pt0_eta7_cent0
+Writing pp_B_Cw_hPosTot_pt0_eta7_cent1
+Writing pp_B_Cw_hPosEff_pt0_eta7_cent1
+Writing pp_B_Cw_hPosTot_pt0_eta7_cent2
+Writing pp_B_Cw_hPosEff_pt0_eta7_cent2
+Writing pp_B_Cw_hPosTot_pt0_eta7_cent3
+Writing pp_B_Cw_hPosEff_pt0_eta7_cent3
+Writing pp_B_Cw_hPosTot_pt0_eta7_cent4
+Writing pp_B_Cw_hPosEff_pt0_eta7_cent4
+Writing pp_B_Cw_hPosTot_pt0_eta7_cent5
+Writing pp_B_Cw_hPosEff_pt0_eta7_cent5
+Writing pp_B_Cw_hPosTot_pt0_eta7_cent6
+Writing pp_B_Cw_hPosEff_pt0_eta7_cent6
+Writing pp_B_Cw_hPosTot_pt0_eta8_cent0
+Writing pp_B_Cw_hPosEff_pt0_eta8_cent0
+Writing pp_B_Cw_hPosTot_pt0_eta8_cent1
+Writing pp_B_Cw_hPosEff_pt0_eta8_cent1
+Writing pp_B_Cw_hPosTot_pt0_eta8_cent2
+Writing pp_B_Cw_hPosEff_pt0_eta8_cent2
+Writing pp_B_Cw_hPosTot_pt0_eta8_cent3
+Writing pp_B_Cw_hPosEff_pt0_eta8_cent3
+Writing pp_B_Cw_hPosTot_pt0_eta8_cent4
+Writing pp_B_Cw_hPosEff_pt0_eta8_cent4
+Writing pp_B_Cw_hPosTot_pt0_eta8_cent5
+Writing pp_B_Cw_hPosEff_pt0_eta8_cent5
+Writing pp_B_Cw_hPosTot_pt0_eta8_cent6
+Writing pp_B_Cw_hPosEff_pt0_eta8_cent6
+Writing pp_B_Cw_hPosTot_pt0_eta9_cent0
+Writing pp_B_Cw_hPosEff_pt0_eta9_cent0
+Writing pp_B_Cw_hPosTot_pt0_eta9_cent1
+Writing pp_B_Cw_hPosEff_pt0_eta9_cent1
+Writing pp_B_Cw_hPosTot_pt0_eta9_cent2
+Writing pp_B_Cw_hPosEff_pt0_eta9_cent2
+Writing pp_B_Cw_hPosTot_pt0_eta9_cent3
+Writing pp_B_Cw_hPosEff_pt0_eta9_cent3
+Writing pp_B_Cw_hPosTot_pt0_eta9_cent4
+Writing pp_B_Cw_hPosEff_pt0_eta9_cent4
+Writing pp_B_Cw_hPosTot_pt0_eta9_cent5
+Writing pp_B_Cw_hPosEff_pt0_eta9_cent5
+Writing pp_B_Cw_hPosTot_pt0_eta9_cent6
+Writing pp_B_Cw_hPosEff_pt0_eta9_cent6
+Writing pp_B_Cw_hPosEff_pt0_cent0
+Writing pp_B_Cw_hPosEff_pt0_cent1
+Writing pp_B_Cw_hPosEff_pt0_cent2
+Writing pp_B_Cw_hPosEff_pt0_cent3
+Writing pp_B_Cw_hPosEff_pt0_cent4
+Writing pp_B_Cw_hPosEff_pt0_cent5
+Writing pp_B_Cw_hPosEff_pt0_cent6
+[EfficiencyCorrection::EfficiencyCorrection] Running on pn collisions.
+[EfficiencyCorrection::EfficiencyCorrection] Period B configuration.
+[EfficiencyCorrection::EfficiencyCorrection] Initializing histograms for 1 pt bins, 11 eta bins, 7 centrality bins.
+[EfficiencyCorrection::EfficiencyCorrection] Run to calculate Cw efficiency.
+[EfficiencyCorrection::EfficiencyCorrection] W+ --> mu+ nu
+[EfficiencyCorrection::EfficiencyCorrection] Histograms initialized and ready for use.
+Number of entries in generator tree: 331269
+Number of entries in reconstructed tree: 128598
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.6332
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.62763
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.41673
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.1335
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.914574
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.69965
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.564082
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.6332
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.62763
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.41673
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.1335
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.914574
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.69965
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.564082
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.6332
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.62763
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.41673
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.1335
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.914574
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.69965
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.564082
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.6332
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.62763
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.41673
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.1335
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.914574
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.69965
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.564082
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.6332
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.62763
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.41673
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.1335
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.914574
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.69965
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.564082
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.6332
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.62763
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.41673
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.1335
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.914574
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.69965
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.564082
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.6332
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.62763
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.41673
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.1335
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.914574
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.69965
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.564082
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.6332
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.62763
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.41673
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.1335
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.914574
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.69965
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.564082
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.6332
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.62763
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.41673
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.1335
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.914574
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.69965
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.564082
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.6332
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.62763
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.41673
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.1335
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.914574
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.69965
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.564082
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.6332
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.62763
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.41673
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 1.1335
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.914574
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.69965
+[EfficiencyCorrection::CalculateEfficiency] Efficiency weight: 0.564082
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.6332
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.62763
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.41673
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.1335
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.914574
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.69965
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.564082
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.6332
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.62763
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.41673
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.1335
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.914574
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.69965
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.564082
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.6332
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.62763
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.41673
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.1335
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.914574
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.69965
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.564082
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.6332
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.62763
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.41673
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.1335
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.914574
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.69965
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.564082
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.6332
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.62763
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.41673
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.1335
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.914574
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.69965
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.564082
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.6332
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.62763
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.41673
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.1335
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.914574
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.69965
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.564082
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.6332
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.62763
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.41673
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.1335
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.914574
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.69965
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.564082
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.6332
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.62763
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.41673
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.1335
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.914574
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.69965
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.564082
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.6332
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.62763
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.41673
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.1335
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.914574
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.69965
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.564082
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.6332
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.62763
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.41673
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.1335
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.914574
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.69965
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.564082
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.6332
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.62763
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.41673
+[EfficiencyCorrection::getEtaCentDep] Weight: 1.1335
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.914574
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.69965
+[EfficiencyCorrection::getEtaCentDep] Weight: 0.564082
+Writing pn_B_Cw_hPosPass_pt0_eta0_cent0
+Writing pn_B_Cw_hPosPass_pt0_eta0_cent1
+Writing pn_B_Cw_hPosPass_pt0_eta0_cent2
+Writing pn_B_Cw_hPosPass_pt0_eta0_cent3
+Writing pn_B_Cw_hPosPass_pt0_eta0_cent4
+Writing pn_B_Cw_hPosPass_pt0_eta0_cent5
+Writing pn_B_Cw_hPosPass_pt0_eta0_cent6
+Writing pn_B_Cw_hPosPass_pt0_eta10_cent0
+Writing pn_B_Cw_hPosPass_pt0_eta10_cent1
+Writing pn_B_Cw_hPosPass_pt0_eta10_cent2
+Writing pn_B_Cw_hPosPass_pt0_eta10_cent3
+Writing pn_B_Cw_hPosPass_pt0_eta10_cent4
+Writing pn_B_Cw_hPosPass_pt0_eta10_cent5
+Writing pn_B_Cw_hPosPass_pt0_eta10_cent6
+Writing pn_B_Cw_hPosPass_pt0_eta1_cent0
+Writing pn_B_Cw_hPosPass_pt0_eta1_cent1
+Writing pn_B_Cw_hPosPass_pt0_eta1_cent2
+Writing pn_B_Cw_hPosPass_pt0_eta1_cent3
+Writing pn_B_Cw_hPosPass_pt0_eta1_cent4
+Writing pn_B_Cw_hPosPass_pt0_eta1_cent5
+Writing pn_B_Cw_hPosPass_pt0_eta1_cent6
+Writing pn_B_Cw_hPosPass_pt0_eta2_cent0
+Writing pn_B_Cw_hPosPass_pt0_eta2_cent1
+Writing pn_B_Cw_hPosPass_pt0_eta2_cent2
+Writing pn_B_Cw_hPosPass_pt0_eta2_cent3
+Writing pn_B_Cw_hPosPass_pt0_eta2_cent4
+Writing pn_B_Cw_hPosPass_pt0_eta2_cent5
+Writing pn_B_Cw_hPosPass_pt0_eta2_cent6
+Writing pn_B_Cw_hPosPass_pt0_eta3_cent0
+Writing pn_B_Cw_hPosPass_pt0_eta3_cent1
+Writing pn_B_Cw_hPosPass_pt0_eta3_cent2
+Writing pn_B_Cw_hPosPass_pt0_eta3_cent3
+Writing pn_B_Cw_hPosPass_pt0_eta3_cent4
+Writing pn_B_Cw_hPosPass_pt0_eta3_cent5
+Writing pn_B_Cw_hPosPass_pt0_eta3_cent6
+Writing pn_B_Cw_hPosPass_pt0_eta4_cent0
+Writing pn_B_Cw_hPosPass_pt0_eta4_cent1
+Writing pn_B_Cw_hPosPass_pt0_eta4_cent2
+Writing pn_B_Cw_hPosPass_pt0_eta4_cent3
+Writing pn_B_Cw_hPosPass_pt0_eta4_cent4
+Writing pn_B_Cw_hPosPass_pt0_eta4_cent5
+Writing pn_B_Cw_hPosPass_pt0_eta4_cent6
+Writing pn_B_Cw_hPosPass_pt0_eta5_cent0
+Writing pn_B_Cw_hPosPass_pt0_eta5_cent1
+Writing pn_B_Cw_hPosPass_pt0_eta5_cent2
+Writing pn_B_Cw_hPosPass_pt0_eta5_cent3
+Writing pn_B_Cw_hPosPass_pt0_eta5_cent4
+Writing pn_B_Cw_hPosPass_pt0_eta5_cent5
+Writing pn_B_Cw_hPosPass_pt0_eta5_cent6
+Writing pn_B_Cw_hPosPass_pt0_eta6_cent0
+Writing pn_B_Cw_hPosPass_pt0_eta6_cent1
+Writing pn_B_Cw_hPosPass_pt0_eta6_cent2
+Writing pn_B_Cw_hPosPass_pt0_eta6_cent3
+Writing pn_B_Cw_hPosPass_pt0_eta6_cent4
+Writing pn_B_Cw_hPosPass_pt0_eta6_cent5
+Writing pn_B_Cw_hPosPass_pt0_eta6_cent6
+Writing pn_B_Cw_hPosPass_pt0_eta7_cent0
+Writing pn_B_Cw_hPosPass_pt0_eta7_cent1
+Writing pn_B_Cw_hPosPass_pt0_eta7_cent2
+Writing pn_B_Cw_hPosPass_pt0_eta7_cent3
+Writing pn_B_Cw_hPosPass_pt0_eta7_cent4
+Writing pn_B_Cw_hPosPass_pt0_eta7_cent5
+Writing pn_B_Cw_hPosPass_pt0_eta7_cent6
+Writing pn_B_Cw_hPosPass_pt0_eta8_cent0
+Writing pn_B_Cw_hPosPass_pt0_eta8_cent1
+Writing pn_B_Cw_hPosPass_pt0_eta8_cent2
+Writing pn_B_Cw_hPosPass_pt0_eta8_cent3
+Writing pn_B_Cw_hPosPass_pt0_eta8_cent4
+Writing pn_B_Cw_hPosPass_pt0_eta8_cent5
+Writing pn_B_Cw_hPosPass_pt0_eta8_cent6
+Writing pn_B_Cw_hPosPass_pt0_eta9_cent0
+Writing pn_B_Cw_hPosPass_pt0_eta9_cent1
+Writing pn_B_Cw_hPosPass_pt0_eta9_cent2
+Writing pn_B_Cw_hPosPass_pt0_eta9_cent3
+Writing pn_B_Cw_hPosPass_pt0_eta9_cent4
+Writing pn_B_Cw_hPosPass_pt0_eta9_cent5
+Writing pn_B_Cw_hPosPass_pt0_eta9_cent6
+Writing pn_B_Cw_hPosTot_pt0_eta0_cent0
+Writing pn_B_Cw_hPosEff_pt0_eta0_cent0
+Writing pn_B_Cw_hPosTot_pt0_eta0_cent1
+Writing pn_B_Cw_hPosEff_pt0_eta0_cent1
+Writing pn_B_Cw_hPosTot_pt0_eta0_cent2
+Writing pn_B_Cw_hPosEff_pt0_eta0_cent2
+Writing pn_B_Cw_hPosTot_pt0_eta0_cent3
+Writing pn_B_Cw_hPosEff_pt0_eta0_cent3
+Writing pn_B_Cw_hPosTot_pt0_eta0_cent4
+Writing pn_B_Cw_hPosEff_pt0_eta0_cent4
+Writing pn_B_Cw_hPosTot_pt0_eta0_cent5
+Writing pn_B_Cw_hPosEff_pt0_eta0_cent5
+Writing pn_B_Cw_hPosTot_pt0_eta0_cent6
+Writing pn_B_Cw_hPosEff_pt0_eta0_cent6
+Writing pn_B_Cw_hPosTot_pt0_eta10_cent0
+Writing pn_B_Cw_hPosEff_pt0_eta10_cent0
+Writing pn_B_Cw_hPosTot_pt0_eta10_cent1
+Writing pn_B_Cw_hPosEff_pt0_eta10_cent1
+Writing pn_B_Cw_hPosTot_pt0_eta10_cent2
+Writing pn_B_Cw_hPosEff_pt0_eta10_cent2
+Writing pn_B_Cw_hPosTot_pt0_eta10_cent3
+Writing pn_B_Cw_hPosEff_pt0_eta10_cent3
+Writing pn_B_Cw_hPosTot_pt0_eta10_cent4
+Writing pn_B_Cw_hPosEff_pt0_eta10_cent4
+Writing pn_B_Cw_hPosTot_pt0_eta10_cent5
+Writing pn_B_Cw_hPosEff_pt0_eta10_cent5
+Writing pn_B_Cw_hPosTot_pt0_eta10_cent6
+Writing pn_B_Cw_hPosEff_pt0_eta10_cent6
+Writing pn_B_Cw_hPosTot_pt0_eta1_cent0
+Writing pn_B_Cw_hPosEff_pt0_eta1_cent0
+Writing pn_B_Cw_hPosTot_pt0_eta1_cent1
+Writing pn_B_Cw_hPosEff_pt0_eta1_cent1
+Writing pn_B_Cw_hPosTot_pt0_eta1_cent2
+Writing pn_B_Cw_hPosEff_pt0_eta1_cent2
+Writing pn_B_Cw_hPosTot_pt0_eta1_cent3
+Writing pn_B_Cw_hPosEff_pt0_eta1_cent3
+Writing pn_B_Cw_hPosTot_pt0_eta1_cent4
+Writing pn_B_Cw_hPosEff_pt0_eta1_cent4
+Writing pn_B_Cw_hPosTot_pt0_eta1_cent5
+Writing pn_B_Cw_hPosEff_pt0_eta1_cent5
+Writing pn_B_Cw_hPosTot_pt0_eta1_cent6
+Writing pn_B_Cw_hPosEff_pt0_eta1_cent6
+Writing pn_B_Cw_hPosTot_pt0_eta2_cent0
+Writing pn_B_Cw_hPosEff_pt0_eta2_cent0
+Writing pn_B_Cw_hPosTot_pt0_eta2_cent1
+Writing pn_B_Cw_hPosEff_pt0_eta2_cent1
+Writing pn_B_Cw_hPosTot_pt0_eta2_cent2
+Writing pn_B_Cw_hPosEff_pt0_eta2_cent2
+Writing pn_B_Cw_hPosTot_pt0_eta2_cent3
+Writing pn_B_Cw_hPosEff_pt0_eta2_cent3
+Writing pn_B_Cw_hPosTot_pt0_eta2_cent4
+Writing pn_B_Cw_hPosEff_pt0_eta2_cent4
+Writing pn_B_Cw_hPosTot_pt0_eta2_cent5
+Writing pn_B_Cw_hPosEff_pt0_eta2_cent5
+Writing pn_B_Cw_hPosTot_pt0_eta2_cent6
+Writing pn_B_Cw_hPosEff_pt0_eta2_cent6
+Writing pn_B_Cw_hPosTot_pt0_eta3_cent0
+Writing pn_B_Cw_hPosEff_pt0_eta3_cent0
+Writing pn_B_Cw_hPosTot_pt0_eta3_cent1
+Writing pn_B_Cw_hPosEff_pt0_eta3_cent1
+Writing pn_B_Cw_hPosTot_pt0_eta3_cent2
+Writing pn_B_Cw_hPosEff_pt0_eta3_cent2
+Writing pn_B_Cw_hPosTot_pt0_eta3_cent3
+Writing pn_B_Cw_hPosEff_pt0_eta3_cent3
+Writing pn_B_Cw_hPosTot_pt0_eta3_cent4
+Writing pn_B_Cw_hPosEff_pt0_eta3_cent4
+Writing pn_B_Cw_hPosTot_pt0_eta3_cent5
+Writing pn_B_Cw_hPosEff_pt0_eta3_cent5
+Writing pn_B_Cw_hPosTot_pt0_eta3_cent6
+Writing pn_B_Cw_hPosEff_pt0_eta3_cent6
+Writing pn_B_Cw_hPosTot_pt0_eta4_cent0
+Writing pn_B_Cw_hPosEff_pt0_eta4_cent0
+Writing pn_B_Cw_hPosTot_pt0_eta4_cent1
+Writing pn_B_Cw_hPosEff_pt0_eta4_cent1
+Writing pn_B_Cw_hPosTot_pt0_eta4_cent2
+Writing pn_B_Cw_hPosEff_pt0_eta4_cent2
+Writing pn_B_Cw_hPosTot_pt0_eta4_cent3
+Writing pn_B_Cw_hPosEff_pt0_eta4_cent3
+Writing pn_B_Cw_hPosTot_pt0_eta4_cent4
+Writing pn_B_Cw_hPosEff_pt0_eta4_cent4
+Writing pn_B_Cw_hPosTot_pt0_eta4_cent5
+Writing pn_B_Cw_hPosEff_pt0_eta4_cent5
+Writing pn_B_Cw_hPosTot_pt0_eta4_cent6
+Writing pn_B_Cw_hPosEff_pt0_eta4_cent6
+Writing pn_B_Cw_hPosTot_pt0_eta5_cent0
+Writing pn_B_Cw_hPosEff_pt0_eta5_cent0
+Writing pn_B_Cw_hPosTot_pt0_eta5_cent1
+Writing pn_B_Cw_hPosEff_pt0_eta5_cent1
+Writing pn_B_Cw_hPosTot_pt0_eta5_cent2
+Writing pn_B_Cw_hPosEff_pt0_eta5_cent2
+Writing pn_B_Cw_hPosTot_pt0_eta5_cent3
+Writing pn_B_Cw_hPosEff_pt0_eta5_cent3
+Writing pn_B_Cw_hPosTot_pt0_eta5_cent4
+Writing pn_B_Cw_hPosEff_pt0_eta5_cent4
+Writing pn_B_Cw_hPosTot_pt0_eta5_cent5
+Writing pn_B_Cw_hPosEff_pt0_eta5_cent5
+Writing pn_B_Cw_hPosTot_pt0_eta5_cent6
+Writing pn_B_Cw_hPosEff_pt0_eta5_cent6
+Writing pn_B_Cw_hPosTot_pt0_eta6_cent0
+Writing pn_B_Cw_hPosEff_pt0_eta6_cent0
+Writing pn_B_Cw_hPosTot_pt0_eta6_cent1
+Writing pn_B_Cw_hPosEff_pt0_eta6_cent1
+Writing pn_B_Cw_hPosTot_pt0_eta6_cent2
+Writing pn_B_Cw_hPosEff_pt0_eta6_cent2
+Writing pn_B_Cw_hPosTot_pt0_eta6_cent3
+Writing pn_B_Cw_hPosEff_pt0_eta6_cent3
+Writing pn_B_Cw_hPosTot_pt0_eta6_cent4
+Writing pn_B_Cw_hPosEff_pt0_eta6_cent4
+Writing pn_B_Cw_hPosTot_pt0_eta6_cent5
+Writing pn_B_Cw_hPosEff_pt0_eta6_cent5
+Writing pn_B_Cw_hPosTot_pt0_eta6_cent6
+Writing pn_B_Cw_hPosEff_pt0_eta6_cent6
+Writing pn_B_Cw_hPosTot_pt0_eta7_cent0
+Writing pn_B_Cw_hPosEff_pt0_eta7_cent0
+Writing pn_B_Cw_hPosTot_pt0_eta7_cent1
+Writing pn_B_Cw_hPosEff_pt0_eta7_cent1
+Writing pn_B_Cw_hPosTot_pt0_eta7_cent2
+Writing pn_B_Cw_hPosEff_pt0_eta7_cent2
+Writing pn_B_Cw_hPosTot_pt0_eta7_cent3
+Writing pn_B_Cw_hPosEff_pt0_eta7_cent3
+Writing pn_B_Cw_hPosTot_pt0_eta7_cent4
+Writing pn_B_Cw_hPosEff_pt0_eta7_cent4
+Writing pn_B_Cw_hPosTot_pt0_eta7_cent5
+Writing pn_B_Cw_hPosEff_pt0_eta7_cent5
+Writing pn_B_Cw_hPosTot_pt0_eta7_cent6
+Writing pn_B_Cw_hPosEff_pt0_eta7_cent6
+Writing pn_B_Cw_hPosTot_pt0_eta8_cent0
+Writing pn_B_Cw_hPosEff_pt0_eta8_cent0
+Writing pn_B_Cw_hPosTot_pt0_eta8_cent1
+Writing pn_B_Cw_hPosEff_pt0_eta8_cent1
+Writing pn_B_Cw_hPosTot_pt0_eta8_cent2
+Writing pn_B_Cw_hPosEff_pt0_eta8_cent2
+Writing pn_B_Cw_hPosTot_pt0_eta8_cent3
+Writing pn_B_Cw_hPosEff_pt0_eta8_cent3
+Writing pn_B_Cw_hPosTot_pt0_eta8_cent4
+Writing pn_B_Cw_hPosEff_pt0_eta8_cent4
+Writing pn_B_Cw_hPosTot_pt0_eta8_cent5
+Writing pn_B_Cw_hPosEff_pt0_eta8_cent5
+Writing pn_B_Cw_hPosTot_pt0_eta8_cent6
+Writing pn_B_Cw_hPosEff_pt0_eta8_cent6
+Writing pn_B_Cw_hPosTot_pt0_eta9_cent0
+Writing pn_B_Cw_hPosEff_pt0_eta9_cent0
+Writing pn_B_Cw_hPosTot_pt0_eta9_cent1
+Writing pn_B_Cw_hPosEff_pt0_eta9_cent1
+Writing pn_B_Cw_hPosTot_pt0_eta9_cent2
+Writing pn_B_Cw_hPosEff_pt0_eta9_cent2
+Writing pn_B_Cw_hPosTot_pt0_eta9_cent3
+Writing pn_B_Cw_hPosEff_pt0_eta9_cent3
+Writing pn_B_Cw_hPosTot_pt0_eta9_cent4
+Writing pn_B_Cw_hPosEff_pt0_eta9_cent4
+Writing pn_B_Cw_hPosTot_pt0_eta9_cent5
+Writing pn_B_Cw_hPosEff_pt0_eta9_cent5
+Writing pn_B_Cw_hPosTot_pt0_eta9_cent6
+Writing pn_B_Cw_hPosEff_pt0_eta9_cent6
+Writing pn_B_Cw_hPosEff_pt0_cent0
+Writing pn_B_Cw_hPosEff_pt0_cent1
+Writing pn_B_Cw_hPosEff_pt0_cent2
+Writing pn_B_Cw_hPosEff_pt0_cent3
+Writing pn_B_Cw_hPosEff_pt0_cent4
+Writing pn_B_Cw_hPosEff_pt0_cent5
+Writing pn_B_Cw_hPosEff_pt0_cent6
